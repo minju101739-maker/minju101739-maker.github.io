@@ -1,0 +1,508 @@
+{
+ "만든때": "2026-10-29T07:58:21.640Z",
+ "이름": {
+  "chevDown": {
+   "수": 19,
+   "파일": [
+    "src/app/(agentbase)/data/drive/components/data-drive-client.tsx",
+    "src/app/(agentbase)/permission/components/limit-tab.tsx",
+    "src/app/(agentbase)/serving/[id]/components/eval-tab.tsx",
+    "src/app/(agentbase)/settings/components/settings-client.tsx",
+    "src/app/(agentbase)/workflow/[id]/components/props-panel.tsx",
+    "src/app/(agentbase)/workflow/[id]/components/test-tab.tsx",
+    "src/components/console/multi-select.tsx",
+    "src/components/console/pick-menu.tsx",
+    "src/components/console/trace-pane.tsx",
+    "src/components/site-header.tsx",
+    "src/design-system/primitives/form.tsx",
+    "src/design-system/primitives/options.tsx",
+    "src/design-system/primitives/table.tsx"
+   ]
+  },
+  "openNew": {
+   "수": 5,
+   "파일": [
+    "src/app/(agentbase)/data/drive/components/data-drive-client.tsx",
+    "src/app/(agentbase)/permission/components/limit-tab.tsx",
+    "src/app/(agentbase)/permission/components/permission-client.tsx",
+    "src/app/(agentbase)/workflow/[id]/components/props-panel.tsx",
+    "src/components/console/status-reason.tsx"
+   ]
+  },
+  "plus": {
+   "수": 13,
+   "파일": [
+    "src/app/(agentbase)/data/drive/components/data-drive-client.tsx",
+    "src/app/(agentbase)/data/pipeline/components/pipe-canvas.tsx",
+    "src/app/(agentbase)/data/pipeline/components/pipe-rail.tsx",
+    "src/app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx",
+    "src/app/(agentbase)/rag/[id]/components/rag-visualization.tsx",
+    "src/app/(agentbase)/serving/[id]/components/eval-tab.tsx",
+    "src/app/(agentbase)/workflow/[id]/components/canvas.tsx",
+    "src/app/(agentbase)/workflow/[id]/components/test-tab.tsx",
+    "src/app/(agentbase)/workflow/[id]/components/workflow-editor.tsx",
+    "src/components/console/folder-tree-picker.tsx",
+    "src/design-system/primitives/surface.tsx"
+   ]
+  },
+  "(변수)": {
+   "수": 38,
+   "파일": [
+    "src/app/(agentbase)/data/drive/components/data-drive-client.tsx",
+    "src/app/(agentbase)/data/drive/components/upload-dialog.tsx",
+    "src/app/(agentbase)/data/pipeline/components/pipe-ask.tsx",
+    "src/app/(agentbase)/data/pipeline/components/pipe-canvas.tsx",
+    "src/app/(agentbase)/data/pipeline/components/pipe-rail.tsx",
+    "src/app/(agentbase)/foundation-model/[id]/components/detail-dialogs.tsx",
+    "src/app/(agentbase)/rag/[id]/components/eval-file-pick.tsx",
+    "src/app/(agentbase)/rag/[id]/components/rag-detail.tsx",
+    "src/app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx",
+    "src/app/(agentbase)/rag/[id]/components/rag-visualization.tsx",
+    "src/app/(agentbase)/serving/components/deploy-settings.tsx",
+    "src/app/(agentbase)/workflow/[id]/components/props-panel.tsx",
+    "src/components/app-sidebar.tsx",
+    "src/components/console/folder-tree-picker.tsx",
+    "src/components/console/project-table.tsx",
+    "src/components/mcp-mark.tsx",
+    "src/components/mobile-nav.tsx",
+    "src/components/site-header.tsx",
+    "src/components/ui/sonner.tsx",
+    "src/design-system/icons/mark.tsx",
+    "src/design-system/primitives/button.tsx",
+    "src/design-system/primitives/form.tsx",
+    "src/design-system/primitives/options.tsx",
+    "src/design-system/primitives/surface.tsx",
+    "src/design-system/primitives/table.tsx"
+   ]
+  },
+  "folderSm": {
+   "수": 1,
+   "파일": [
+    "src/app/(agentbase)/data/drive/components/data-drive-client.tsx"
+   ]
+  },
+  "lock": {
+   "수": 3,
+   "파일": [
+    "src/app/(agentbase)/data/drive/components/data-drive-client.tsx",
+    "src/app/(agentbase)/workflow/[id]/components/props-panel.tsx"
+   ]
+  },
+  "edit": {
+   "수": 10,
+   "파일": [
+    "src/app/(agentbase)/data/drive/components/data-drive-client.tsx",
+    "src/app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx",
+    "src/app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx",
+    "src/app/(agentbase)/workflow/[id]/components/props-panel.tsx",
+    "src/components/console/orchestrator-panel.tsx",
+    "src/components/console/permission-axis.tsx"
+   ]
+  },
+  "upLevel": {
+   "수": 1,
+   "파일": [
+    "src/app/(agentbase)/data/drive/components/data-drive-client.tsx"
+   ]
+  },
+  "copy": {
+   "수": 7,
+   "파일": [
+    "src/app/(agentbase)/data/drive/components/data-drive-client.tsx",
+    "src/app/(agentbase)/service/components/service-api-guide.tsx",
+    "src/app/(agentbase)/service/components/service-page.tsx",
+    "src/components/console/error-detail.tsx",
+    "src/components/console/guide-copy.tsx",
+    "src/components/console/log-block.tsx",
+    "src/components/console/orchestrator-panel.tsx"
+   ]
+  },
+  "grid": {
+   "수": 3,
+   "파일": [
+    "src/app/(agentbase)/data/drive/components/data-drive-client.tsx",
+    "src/app/(agentbase)/permission/components/permission-client.tsx",
+    "src/components/console/list-page.tsx"
+   ]
+  },
+  "list": {
+   "수": 3,
+   "파일": [
+    "src/app/(agentbase)/data/drive/components/data-drive-client.tsx",
+    "src/app/(agentbase)/permission/components/permission-client.tsx",
+    "src/components/console/list-page.tsx"
+   ]
+  },
+  "download": {
+   "수": 12,
+   "파일": [
+    "src/app/(agentbase)/data/drive/components/data-drive-client.tsx",
+    "src/app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx",
+    "src/app/(agentbase)/foundation-model/[id]/components/train-pane.tsx",
+    "src/app/(agentbase)/rag/[id]/components/rag-detail.tsx",
+    "src/app/(agentbase)/report/components/report-client.tsx",
+    "src/components/app-sidebar.tsx",
+    "src/components/console/system-log-modal.tsx",
+    "src/components/mobile-nav.tsx",
+    "src/design-system/primitives/file-drop.tsx"
+   ]
+  },
+  "file": {
+   "수": 7,
+   "파일": [
+    "src/app/(agentbase)/data/drive/components/data-drive-client.tsx",
+    "src/app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx",
+    "src/app/(agentbase)/rag/[id]/components/rag-detail.tsx",
+    "src/components/console/upload-run.tsx",
+    "src/components/site-header.tsx",
+    "src/design-system/primitives/upload-progress.tsx"
+   ]
+  },
+  "trash": {
+   "수": 7,
+   "파일": [
+    "src/app/(agentbase)/data/drive/components/upload-dialog.tsx",
+    "src/app/(agentbase)/rag/[id]/components/rag-detail.tsx",
+    "src/app/(agentbase)/report/components/report-client.tsx",
+    "src/app/(agentbase)/tool/components/create-tool-dialog.tsx",
+    "src/app/(agentbase)/workflow/[id]/components/props-panel.tsx",
+    "src/components/console/permission-axis.tsx"
+   ]
+  },
+  "spark": {
+   "수": 2,
+   "파일": [
+    "src/app/(agentbase)/data/pipeline/components/pipe-ask.tsx",
+    "src/components/site-header.tsx"
+   ]
+  },
+  "close": {
+   "수": 27,
+   "파일": [
+    "src/app/(agentbase)/data/pipeline/components/pipe-ask.tsx",
+    "src/app/(agentbase)/data/pipeline/components/pipe-dock.tsx",
+    "src/app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx",
+    "src/app/(agentbase)/foundation-model/[id]/components/detail-dialogs.tsx",
+    "src/app/(agentbase)/rag/[id]/components/eval-file-pick.tsx",
+    "src/app/(agentbase)/rag/[id]/components/rag-detail.tsx",
+    "src/app/(agentbase)/serving/[id]/components/eval-tab.tsx",
+    "src/app/(agentbase)/workflow/[id]/components/canvas.tsx",
+    "src/app/(agentbase)/workflow/[id]/components/node-panels.tsx",
+    "src/app/(agentbase)/workflow/[id]/components/props-panel.tsx",
+    "src/app/(agentbase)/workflow/[id]/components/test-tab.tsx",
+    "src/components/chat/chat-panel.tsx",
+    "src/components/console/alert-panel.tsx",
+    "src/components/console/change-history.tsx",
+    "src/components/console/change-memo.tsx",
+    "src/components/console/history-tab.tsx",
+    "src/components/console/orchestrator-panel.tsx",
+    "src/components/console/tutorial.tsx",
+    "src/components/console/upload-run.tsx",
+    "src/components/site-header.tsx",
+    "src/design-system/primitives/modal.tsx"
+   ]
+  },
+  "check": {
+   "수": 16,
+   "파일": [
+    "src/app/(agentbase)/data/pipeline/components/pipe-ask.tsx",
+    "src/app/(agentbase)/foundation-model/[id]/components/detail-dialogs.tsx",
+    "src/app/(agentbase)/home/components/welcome-intro.tsx",
+    "src/app/(agentbase)/rag/[id]/components/rag-visualization.tsx",
+    "src/app/(agentbase)/settings/components/settings-client.tsx",
+    "src/components/chat/chat-panel.tsx",
+    "src/components/console/orchestrator-panel.tsx",
+    "src/components/console/pick-menu.tsx",
+    "src/components/console/tutorial.tsx",
+    "src/components/ui/dropdown-menu.tsx",
+    "src/design-system/primitives/form.tsx",
+    "src/design-system/primitives/options.tsx"
+   ]
+  },
+  "sendPlane": {
+   "수": 3,
+   "파일": [
+    "src/app/(agentbase)/data/pipeline/components/pipe-ask.tsx",
+    "src/app/(agentbase)/home/components/home-client.tsx",
+    "src/components/console/orchestrator-panel.tsx"
+   ]
+  },
+  "warn": {
+   "수": 1,
+   "파일": [
+    "src/app/(agentbase)/data/pipeline/components/pipe-canvas.tsx"
+   ]
+  },
+  "minimize": {
+   "수": 3,
+   "파일": [
+    "src/app/(agentbase)/data/pipeline/components/pipe-canvas.tsx",
+    "src/app/(agentbase)/workflow/[id]/components/canvas.tsx",
+    "src/design-system/primitives/modal.tsx"
+   ]
+  },
+  "maximize": {
+   "수": 3,
+   "파일": [
+    "src/app/(agentbase)/data/pipeline/components/pipe-canvas.tsx",
+    "src/app/(agentbase)/workflow/[id]/components/canvas.tsx",
+    "src/design-system/primitives/modal.tsx"
+   ]
+  },
+  "chevRight": {
+   "수": 21,
+   "파일": [
+    "src/app/(agentbase)/data/pipeline/components/pipe-canvas.tsx",
+    "src/app/(agentbase)/foundation-model/[id]/components/detail-dialogs.tsx",
+    "src/app/(agentbase)/home/components/home-widgets.tsx",
+    "src/app/(agentbase)/job/components/service-tree-view.tsx",
+    "src/app/(agentbase)/permission/components/usage-tab.tsx",
+    "src/app/(agentbase)/service/components/svc-monitor-sections.tsx",
+    "src/app/(agentbase)/system/components/resource-detail.tsx",
+    "src/app/(agentbase)/workflow/[id]/components/canvas.tsx",
+    "src/components/console/alert-panel.tsx",
+    "src/components/console/orchestrator-panel.tsx",
+    "src/components/console/trail-breadcrumb.tsx",
+    "src/components/console/tutorial.tsx",
+    "src/components/ui/dropdown-menu.tsx",
+    "src/design-system/primitives/date-picker.tsx"
+   ]
+  },
+  "chevLeft": {
+   "수": 7,
+   "파일": [
+    "src/app/(agentbase)/data/pipeline/components/pipe-canvas.tsx",
+    "src/app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx",
+    "src/app/(agentbase)/service/components/svc-monitor-sections.tsx",
+    "src/components/console/tutorial.tsx",
+    "src/design-system/primitives/date-picker.tsx",
+    "src/design-system/primitives/head.tsx"
+   ]
+  },
+  "search": {
+   "수": 8,
+   "파일": [
+    "src/app/(agentbase)/data/pipeline/components/pipe-rail.tsx",
+    "src/app/(agentbase)/rag/[id]/components/eval-file-pick.tsx",
+    "src/app/(agentbase)/rag/[id]/components/rag-detail.tsx",
+    "src/components/console/folder-tree-picker.tsx",
+    "src/design-system/icons/icon.tsx",
+    "src/design-system/primitives/form.tsx",
+    "src/design-system/primitives/options.tsx"
+   ]
+  },
+  "workflow": {
+   "수": 1,
+   "파일": [
+    "src/app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx"
+   ]
+  },
+  "arrowLineRight": {
+   "수": 5,
+   "파일": [
+    "src/app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx",
+    "src/app/(agentbase)/rag/[id]/components/rag-visualization.tsx",
+    "src/app/(agentbase)/workflow/[id]/components/canvas.tsx",
+    "src/app/(agentbase)/workflow/[id]/components/props-panel.tsx"
+   ]
+  },
+  "folder": {
+   "수": 5,
+   "파일": [
+    "src/app/(agentbase)/foundation-model/[id]/components/detail-dialogs.tsx",
+    "src/app/(agentbase)/rag/[id]/components/eval-file-pick.tsx",
+    "src/app/(agentbase)/rag/[id]/components/rag-detail.tsx",
+    "src/components/console/folder-tree-picker.tsx"
+   ]
+  },
+  "loadIn": {
+   "수": 1,
+   "파일": [
+    "src/app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx"
+   ]
+  },
+  "info": {
+   "수": 6,
+   "파일": [
+    "src/app/(agentbase)/home/components/home-client.tsx",
+    "src/app/(agentbase)/permission/components/limit-tab.tsx",
+    "src/app/(agentbase)/permission/components/permission-client.tsx",
+    "src/components/console/change-history.tsx",
+    "src/components/console/history-tab.tsx",
+    "src/components/console/table-tab.tsx"
+   ]
+  },
+  "minus": {
+   "수": 2,
+   "파일": [
+    "src/app/(agentbase)/home/components/home-widgets.tsx",
+    "src/app/(agentbase)/rag/[id]/components/rag-visualization.tsx"
+   ]
+  },
+  "sliders": {
+   "수": 2,
+   "파일": [
+    "src/app/(agentbase)/home/components/home-widgets.tsx",
+    "src/components/console/autoscale-control.tsx"
+   ]
+  },
+  "refresh": {
+   "수": 3,
+   "파일": [
+    "src/app/(agentbase)/permission/components/limit-tab.tsx",
+    "src/components/site-header.tsx"
+   ]
+  },
+  "memo": {
+   "수": 1,
+   "파일": [
+    "src/app/(agentbase)/rag/[id]/components/rag-visualization.tsx"
+   ]
+  },
+  "attach": {
+   "수": 2,
+   "파일": [
+    "src/app/(agentbase)/rag/[id]/components/rag-visualization.tsx",
+    "src/components/chat/chat-panel.tsx"
+   ]
+  },
+  "send": {
+   "수": 1,
+   "파일": [
+    "src/app/(agentbase)/rag/[id]/components/rag-visualization.tsx"
+   ]
+  },
+  "warningFill": {
+   "수": 2,
+   "파일": [
+    "src/app/(agentbase)/workflow/[id]/components/canvas.tsx"
+   ]
+  },
+  "checkLine": {
+   "수": 1,
+   "파일": [
+    "src/app/(agentbase)/workflow/[id]/components/canvas.tsx"
+   ]
+  },
+  "undo": {
+   "수": 3,
+   "파일": [
+    "src/app/(agentbase)/workflow/[id]/components/props-panel.tsx",
+    "src/design-system/primitives/setup.tsx"
+   ]
+  },
+  "linkVar": {
+   "수": 1,
+   "파일": [
+    "src/app/(agentbase)/workflow/[id]/components/props-panel.tsx"
+   ]
+  },
+  "chevUp": {
+   "수": 1,
+   "파일": [
+    "src/app/(agentbase)/workflow/[id]/components/props-panel.tsx"
+   ]
+  },
+  "loader": {
+   "수": 4,
+   "파일": [
+    "src/components/chat/chat-panel.tsx",
+    "src/components/console/orchestrator-panel.tsx"
+   ]
+  },
+  "stop": {
+   "수": 3,
+   "파일": [
+    "src/components/chat/chat-panel.tsx",
+    "src/components/console/orchestrator-panel.tsx"
+   ]
+  },
+  "arrowUp": {
+   "수": 1,
+   "파일": [
+    "src/components/chat/chat-panel.tsx"
+   ]
+  },
+  "kebab": {
+   "수": 1,
+   "파일": [
+    "src/components/console/list-page.tsx"
+   ]
+  },
+  "messageSquare": {
+   "수": 1,
+   "파일": [
+    "src/components/console/orchestrator-panel.tsx"
+   ]
+  },
+  "arrowLeft": {
+   "수": 1,
+   "파일": [
+    "src/components/console/orchestrator-panel.tsx"
+   ]
+  },
+  "tutorial": {
+   "수": 1,
+   "파일": [
+    "src/components/console/tutorial.tsx"
+   ]
+  },
+  "listTree": {
+   "수": 1,
+   "파일": [
+    "src/components/console/tutorial.tsx"
+   ]
+  },
+  "bell": {
+   "수": 1,
+   "파일": [
+    "src/components/site-header.tsx"
+   ]
+  },
+  "drive": {
+   "수": 1,
+   "파일": [
+    "src/components/site-header.tsx"
+   ]
+  },
+  "circle": {
+   "수": 1,
+   "파일": [
+    "src/components/ui/dropdown-menu.tsx"
+   ]
+  },
+  "recommend": {
+   "수": 1,
+   "파일": [
+    "src/design-system/primitives/chip.tsx"
+   ]
+  },
+  "calendar": {
+   "수": 2,
+   "파일": [
+    "src/design-system/primitives/date-picker.tsx"
+   ]
+  },
+  "chevUpThin": {
+   "수": 1,
+   "파일": [
+    "src/design-system/primitives/form.tsx"
+   ]
+  },
+  "precaution": {
+   "수": 1,
+   "파일": [
+    "src/design-system/primitives/hint.tsx"
+   ]
+  }
+ },
+ "크기": {
+  "xs": 91,
+  "sm": 164,
+  "md": 15,
+  "토큰식": 5,
+  "기본": 3
+ },
+ "토큰밖": [],
+ "세트밖": []
+}
