@@ -1,0 +1,209 @@
+{
+ "만든때": "2026-11-05T09:17:49.127Z",
+ "요약": {
+  "호버": 5,
+  "글자 크기": 28,
+  "헥스": 1,
+  "움직임": 2,
+  "안내 문구": 1
+ },
+ "분류": {
+  "호버": [
+   {
+    "위치": "app/(agentbase)/data/pipeline/components/expr-fields.tsx:32",
+    "지금": "hover:bg-transparent",
+    "바꿀": "버튼이면 <Button variant=…> 으로 바꿔 유형별 호버를 쓴다"
+   },
+   {
+    "위치": "app/(agentbase)/workflow/[id]/components/props-panel.tsx:2621",
+    "지금": "hover:bg-white",
+    "바꿀": "선택할 수 있는 줄이면 hover:bg-ab-surface-alt, 선택지 목록이면 hover:bg-ab-accent-faint"
+   },
+   {
+    "위치": "app/(agentbase)/workflow/[id]/components/props-panel.tsx:2651",
+    "지금": "hover:bg-white",
+    "바꿀": "선택할 수 있는 줄이면 hover:bg-ab-surface-alt, 선택지 목록이면 hover:bg-ab-accent-faint"
+   },
+   {
+    "위치": "components/perm-draft/parts.tsx:137",
+    "지금": "hover:bg-transparent",
+    "바꿀": "버튼이면 <Button variant=…> 으로 바꿔 유형별 호버를 쓴다"
+   },
+   {
+    "위치": "components/perm-draft/parts.tsx:378",
+    "지금": "hover:text-ab-ink-2",
+    "바꿀": "hover:text-ab-ink 하나로 맞춘다(빨간 조작은 Button variant=danger-outline 을 쓴다)"
+   }
+  ],
+  "글자 크기": [
+   {
+    "위치": "app/(agentbase)/home/components/home-client.tsx:197",
+    "지금": "text-[14px]",
+    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
+   },
+   {
+    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:416",
+    "지금": "text-[11px]",
+    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
+   },
+   {
+    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:785",
+    "지금": "text-[11px]",
+    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
+   },
+   {
+    "위치": "app/(agentbase)/workflow/[id]/components/props-panel.tsx:2657",
+    "지금": "text-[11px]",
+    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
+   },
+   {
+    "위치": "components/console/approval-request.tsx:74",
+    "지금": "text-[14px]",
+    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
+   },
+   {
+    "위치": "components/console/approval-request.tsx:366",
+    "지금": "text-[14px]",
+    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
+   },
+   {
+    "위치": "components/console/approval-request.tsx:366",
+    "지금": "text-[14px]",
+    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
+   },
+   {
+    "위치": "components/console/approval-request.tsx:385",
+    "지금": "text-[14px]",
+    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
+   },
+   {
+    "위치": "components/console/approval-request.tsx:385",
+    "지금": "text-[14px]",
+    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
+   },
+   {
+    "위치": "components/console/approval-request.tsx:385",
+    "지금": "text-[14px]",
+    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
+   },
+   {
+    "위치": "components/console/list-tip.tsx:68",
+    "지금": "text-[11px]",
+    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
+   },
+   {
+    "위치": "components/console/list-tip.tsx:74",
+    "지금": "text-[11px]",
+    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
+   },
+   {
+    "위치": "components/console/perm-gate.tsx:284",
+    "지금": "text-[14px]",
+    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
+   },
+   {
+    "위치": "components/console/perm-gate.tsx:287",
+    "지금": "text-[14px]",
+    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
+   },
+   {
+    "위치": "components/console/serving-stop-modal.tsx:98",
+    "지금": "text-[14px]",
+    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
+   },
+   {
+    "위치": "components/console/serving-stop-modal.tsx:103",
+    "지금": "text-[14px]",
+    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
+   },
+   {
+    "위치": "components/console/serving-stop-modal.tsx:104",
+    "지금": "text-[14px]",
+    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
+   },
+   {
+    "위치": "components/console/serving-stop-modal.tsx:109",
+    "지금": "text-[14px]",
+    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
+   },
+   {
+    "위치": "components/console/serving-stop-modal.tsx:114",
+    "지금": "text-[14px]",
+    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
+   },
+   {
+    "위치": "components/console/status-reason.tsx:154",
+    "지금": "text-[14px]",
+    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
+   },
+   {
+    "위치": "components/console/status-reason.tsx:165",
+    "지금": "text-[14px]",
+    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
+   },
+   {
+    "위치": "design-system/primitives/modal.tsx:688",
+    "지금": "text-[14px]",
+    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
+   },
+   {
+    "위치": "design-system/primitives/modal.tsx:695",
+    "지금": "text-[14px]",
+    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
+   },
+   {
+    "위치": "design-system/primitives/modal.tsx:838",
+    "지금": "text-[14px]",
+    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
+   },
+   {
+    "위치": "design-system/primitives/modal.tsx:840",
+    "지금": "text-[14px]",
+    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
+   },
+   {
+    "위치": "design-system/primitives/modal.tsx:840",
+    "지금": "text-[14px]",
+    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
+   },
+   {
+    "위치": "design-system/primitives/modal.tsx:842",
+    "지금": "text-[14px]",
+    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
+   },
+   {
+    "위치": "design-system/primitives/modal.tsx:936",
+    "지금": "text-[14px]",
+    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
+   }
+  ],
+  "헥스": [
+   {
+    "위치": "components/console/pipeline-demo.tsx:554",
+    "지금": "#121619",
+    "바꿀": "color.ink (같은 값)",
+    "같은값": true,
+    "아이콘": false
+   }
+  ],
+  "움직임": [
+   {
+    "위치": "components/console/pipeline-demo.tsx:547",
+    "지금": "duration-500",
+    "바꿀": "duration-instant(90), fast(140), base(200), panel(240) 중 가까운 이름"
+   },
+   {
+    "위치": "components/console/pipeline-demo.tsx:553",
+    "지금": "duration-150",
+    "바꿀": "duration-instant(90), fast(140), base(200), panel(240) 중 가까운 이름"
+   }
+  ],
+  "안내 문구": [
+   {
+    "위치": "app/(agentbase)/personal/components/personal-asset-modal.tsx:352",
+    "지금": "요청이 없어 값이 없습니다.",
+    "바꿀": "빈 상태 두 줄이면 EmptyState 로, 칸 아래 안내면 「[안내] …」로 연다"
+   }
+  ]
+ }
+}
