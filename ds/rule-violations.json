@@ -1,8 +1,8 @@
 {
- "만든때": "2026-11-05T15:35:55.852Z",
+ "만든때": "2026-11-09T17:06:03.361Z",
  "요약": {
-  "호버": 5,
-  "글자 크기": 28,
+  "호버": 6,
+  "글자 크기": 30,
   "헥스": 1,
   "움직임": 2,
   "안내 문구": 1
@@ -11,6 +11,11 @@
   "호버": [
    {
     "위치": "app/(agentbase)/data/pipeline/components/expr-fields.tsx:32",
+    "지금": "hover:bg-transparent",
+    "바꿀": "버튼이면 <Button variant=…> 으로 바꿔 유형별 호버를 쓴다"
+   },
+   {
+    "위치": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:877",
     "지금": "hover:bg-transparent",
     "바꿀": "버튼이면 <Button variant=…> 으로 바꿔 유형별 호버를 쓴다"
    },
@@ -42,12 +47,17 @@
     "바꿀": "text-body(본문) 또는 text-caption(곁말)"
    },
    {
-    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:416",
+    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:458",
     "지금": "text-[11px]",
     "바꿀": "text-body(본문) 또는 text-caption(곁말)"
    },
    {
-    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:785",
+    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:885",
+    "지금": "text-[11px]",
+    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
+   },
+   {
+    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:1556",
     "지금": "text-[11px]",
     "바꿀": "text-body(본문) 또는 text-caption(곁말)"
    },
@@ -62,27 +72,27 @@
     "바꿀": "text-body(본문) 또는 text-caption(곁말)"
    },
    {
-    "위치": "components/console/approval-request.tsx:366",
+    "위치": "components/console/approval-request.tsx:375",
     "지금": "text-[14px]",
     "바꿀": "text-body(본문) 또는 text-caption(곁말)"
    },
    {
-    "위치": "components/console/approval-request.tsx:366",
+    "위치": "components/console/approval-request.tsx:375",
     "지금": "text-[14px]",
     "바꿀": "text-body(본문) 또는 text-caption(곁말)"
    },
    {
-    "위치": "components/console/approval-request.tsx:385",
+    "위치": "components/console/approval-request.tsx:394",
     "지금": "text-[14px]",
     "바꿀": "text-body(본문) 또는 text-caption(곁말)"
    },
    {
-    "위치": "components/console/approval-request.tsx:385",
+    "위치": "components/console/approval-request.tsx:394",
     "지금": "text-[14px]",
     "바꿀": "text-body(본문) 또는 text-caption(곁말)"
    },
    {
-    "위치": "components/console/approval-request.tsx:385",
+    "위치": "components/console/approval-request.tsx:394",
     "지금": "text-[14px]",
     "바꿀": "text-body(본문) 또는 text-caption(곁말)"
    },
@@ -97,17 +107,12 @@
     "바꿀": "text-body(본문) 또는 text-caption(곁말)"
    },
    {
-    "위치": "components/console/perm-gate.tsx:284",
+    "위치": "components/console/perm-gate.tsx:298",
     "지금": "text-[14px]",
     "바꿀": "text-body(본문) 또는 text-caption(곁말)"
    },
    {
-    "위치": "components/console/perm-gate.tsx:287",
-    "지금": "text-[14px]",
-    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
-   },
-   {
-    "위치": "components/console/serving-stop-modal.tsx:98",
+    "위치": "components/console/perm-gate.tsx:301",
     "지금": "text-[14px]",
     "바꿀": "text-body(본문) 또는 text-caption(곁말)"
    },
@@ -117,7 +122,7 @@
     "바꿀": "text-body(본문) 또는 text-caption(곁말)"
    },
    {
-    "위치": "components/console/serving-stop-modal.tsx:104",
+    "위치": "components/console/serving-stop-modal.tsx:108",
     "지금": "text-[14px]",
     "바꿀": "text-body(본문) 또는 text-caption(곁말)"
    },
@@ -132,12 +137,17 @@
     "바꿀": "text-body(본문) 또는 text-caption(곁말)"
    },
    {
-    "위치": "components/console/status-reason.tsx:154",
+    "위치": "components/console/serving-stop-modal.tsx:119",
     "지금": "text-[14px]",
     "바꿀": "text-body(본문) 또는 text-caption(곁말)"
    },
    {
-    "위치": "components/console/status-reason.tsx:165",
+    "위치": "components/console/status-reason.tsx:159",
+    "지금": "text-[14px]",
+    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
+   },
+   {
+    "위치": "components/console/status-reason.tsx:170",
     "지금": "text-[14px]",
     "바꿀": "text-body(본문) 또는 text-caption(곁말)"
    },
@@ -172,7 +182,12 @@
     "바꿀": "text-body(본문) 또는 text-caption(곁말)"
    },
    {
-    "위치": "design-system/primitives/modal.tsx:936",
+    "위치": "design-system/primitives/modal.tsx:938",
+    "지금": "text-[14px]",
+    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
+   },
+   {
+    "위치": "design-system/primitives/modal.tsx:940",
     "지금": "text-[14px]",
     "바꿀": "text-body(본문) 또는 text-caption(곁말)"
    }
@@ -200,7 +215,7 @@
   ],
   "안내 문구": [
    {
-    "위치": "app/(agentbase)/personal/components/personal-asset-modal.tsx:352",
+    "위치": "app/(agentbase)/personal/components/personal-asset-modal.tsx:357",
     "지금": "요청이 없어 값이 없습니다.",
     "바꿀": "빈 상태 두 줄이면 EmptyState 로, 칸 아래 안내면 「[안내] …」로 연다"
    }
