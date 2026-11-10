@@ -1,11 +1,12 @@
 {
- "만든때": "2026-11-09T17:06:03.361Z",
+ "만든때": "2026-11-10T09:12:03.205Z",
  "요약": {
-  "호버": 6,
-  "글자 크기": 30,
+  "호버": 9,
+  "글자 크기": 32,
+  "모서리": 3,
   "헥스": 1,
   "움직임": 2,
-  "안내 문구": 1
+  "안내 문구": 2
  },
  "분류": {
   "호버": [
@@ -15,17 +16,32 @@
     "바꿀": "버튼이면 <Button variant=…> 으로 바꿔 유형별 호버를 쓴다"
    },
    {
+    "위치": "app/(agentbase)/permission/components/perm-by-job.tsx:334",
+    "지금": "hover:border-ab-ink-muted",
+    "바꿀": "고르는 카드(선택 카드, 위젯)면 테두리 호버를 규격(PickerCard)으로 옮기고, 버튼이면 <Button variant=…> 의 호버를 쓴다"
+   },
+   {
+    "위치": "app/(agentbase)/permission/components/perm-by-job.tsx:554",
+    "지금": "hover:bg-ab-border-light",
+    "바꿀": "대상별 호버 다섯(surface-alt, accent-faint, underline, text-ab-ink, shadow-ab-md) 중 하나로 맞춘다"
+   },
+   {
+    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:726",
+    "지금": "hover:bg-ab-border-light",
+    "바꿀": "대상별 호버 다섯(surface-alt, accent-faint, underline, text-ab-ink, shadow-ab-md) 중 하나로 맞춘다"
+   },
+   {
     "위치": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:877",
     "지금": "hover:bg-transparent",
     "바꿀": "버튼이면 <Button variant=…> 으로 바꿔 유형별 호버를 쓴다"
    },
    {
-    "위치": "app/(agentbase)/workflow/[id]/components/props-panel.tsx:2621",
+    "위치": "app/(agentbase)/workflow/[id]/components/props-panel.tsx:2605",
     "지금": "hover:bg-white",
     "바꿀": "선택할 수 있는 줄이면 hover:bg-ab-surface-alt, 선택지 목록이면 hover:bg-ab-accent-faint"
    },
    {
-    "위치": "app/(agentbase)/workflow/[id]/components/props-panel.tsx:2651",
+    "위치": "app/(agentbase)/workflow/[id]/components/props-panel.tsx:2635",
     "지금": "hover:bg-white",
     "바꿀": "선택할 수 있는 줄이면 hover:bg-ab-surface-alt, 선택지 목록이면 hover:bg-ab-accent-faint"
    },
@@ -47,22 +63,22 @@
     "바꿀": "text-body(본문) 또는 text-caption(곁말)"
    },
    {
-    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:458",
+    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:476",
     "지금": "text-[11px]",
     "바꿀": "text-body(본문) 또는 text-caption(곁말)"
    },
    {
-    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:885",
+    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:981",
     "지금": "text-[11px]",
     "바꿀": "text-body(본문) 또는 text-caption(곁말)"
    },
    {
-    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:1556",
+    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:1686",
     "지금": "text-[11px]",
     "바꿀": "text-body(본문) 또는 text-caption(곁말)"
    },
    {
-    "위치": "app/(agentbase)/workflow/[id]/components/props-panel.tsx:2657",
+    "위치": "app/(agentbase)/workflow/[id]/components/props-panel.tsx:2641",
     "지금": "text-[11px]",
     "바꿀": "text-body(본문) 또는 text-caption(곁말)"
    },
@@ -107,12 +123,12 @@
     "바꿀": "text-body(본문) 또는 text-caption(곁말)"
    },
    {
-    "위치": "components/console/perm-gate.tsx:298",
+    "위치": "components/console/perm-gate.tsx:302",
     "지금": "text-[14px]",
     "바꿀": "text-body(본문) 또는 text-caption(곁말)"
    },
    {
-    "위치": "components/console/perm-gate.tsx:301",
+    "위치": "components/console/perm-gate.tsx:305",
     "지금": "text-[14px]",
     "바꿀": "text-body(본문) 또는 text-caption(곁말)"
    },
@@ -167,29 +183,56 @@
     "바꿀": "text-body(본문) 또는 text-caption(곁말)"
    },
    {
-    "위치": "design-system/primitives/modal.tsx:840",
+    "위치": "design-system/primitives/modal.tsx:856",
     "지금": "text-[14px]",
     "바꿀": "text-body(본문) 또는 text-caption(곁말)"
    },
    {
-    "위치": "design-system/primitives/modal.tsx:840",
+    "위치": "design-system/primitives/modal.tsx:861",
     "지금": "text-[14px]",
     "바꿀": "text-body(본문) 또는 text-caption(곁말)"
    },
    {
-    "위치": "design-system/primitives/modal.tsx:842",
+    "위치": "design-system/primitives/modal.tsx:861",
     "지금": "text-[14px]",
     "바꿀": "text-body(본문) 또는 text-caption(곁말)"
    },
    {
-    "위치": "design-system/primitives/modal.tsx:938",
+    "위치": "design-system/primitives/modal.tsx:862",
     "지금": "text-[14px]",
     "바꿀": "text-body(본문) 또는 text-caption(곁말)"
    },
    {
-    "위치": "design-system/primitives/modal.tsx:940",
+    "위치": "design-system/primitives/modal.tsx:961",
     "지금": "text-[14px]",
     "바꿀": "text-body(본문) 또는 text-caption(곁말)"
+   },
+   {
+    "위치": "design-system/primitives/modal.tsx:964",
+    "지금": "text-[14px]",
+    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
+   },
+   {
+    "위치": "design-system/primitives/modal.tsx:971",
+    "지금": "text-[14px]",
+    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
+   }
+  ],
+  "모서리": [
+   {
+    "위치": "app/(agentbase)/permission/components/perm-by-job.tsx:330",
+    "지금": "rounded-[4px]",
+    "바꿀": "rounded-sm(4)"
+   },
+   {
+    "위치": "app/(agentbase)/permission/components/perm-by-job.tsx:754",
+    "지금": "rounded-xl",
+    "바꿀": "rounded-lg(10) 또는 큰 카드면 rounded-2xl(16)"
+   },
+   {
+    "위치": "app/(agentbase)/permission/components/perm-by-job.tsx:1230",
+    "지금": "rounded-xl",
+    "바꿀": "rounded-lg(10) 또는 큰 카드면 rounded-2xl(16)"
    }
   ],
   "헥스": [
@@ -217,6 +260,11 @@
    {
     "위치": "app/(agentbase)/personal/components/personal-asset-modal.tsx:357",
     "지금": "요청이 없어 값이 없습니다.",
+    "바꿀": "빈 상태 두 줄이면 EmptyState 로, 칸 아래 안내면 「[안내] …」로 연다"
+   },
+   {
+    "위치": "app/(agentbase)/permission/components/perm-by-job.tsx:277",
+    "지금": "이 워크플로우에는 모델, RAG, 도구 노드가 없습니다.",
     "바꿀": "빈 상태 두 줄이면 EmptyState 로, 칸 아래 안내면 「[안내] …」로 연다"
    }
   ]
