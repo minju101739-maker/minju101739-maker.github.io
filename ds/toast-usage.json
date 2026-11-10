@@ -1,5 +1,5 @@
 {
- "만든때": "2026-11-10T09:12:02.544Z",
+ "만든때": "2026-11-10T14:21:47.650Z",
  "수": 246,
  "유형수": {
   "success": 180,
@@ -83,56 +83,56 @@
    "제목": "{값} 폴더를 생성했습니다.",
    "설명": null,
    "자리": "데이터 관리",
-   "파일": "app/(agentbase)/data/drive/components/data-drive-client.tsx:2277"
+   "파일": "app/(agentbase)/data/drive/components/data-drive-client.tsx:2284"
   },
   {
    "유형": "success",
    "제목": "평가셋을 삭제했습니다.",
    "설명": null,
    "자리": "데이터 관리",
-   "파일": "app/(agentbase)/data/drive/components/data-drive-client.tsx:2329"
+   "파일": "app/(agentbase)/data/drive/components/data-drive-client.tsx:2336"
   },
   {
    "유형": "success",
    "제목": "{값}개를 삭제했습니다.",
    "설명": null,
    "자리": "데이터 관리",
-   "파일": "app/(agentbase)/data/drive/components/data-drive-client.tsx:2384"
+   "파일": "app/(agentbase)/data/drive/components/data-drive-client.tsx:2391"
   },
   {
    "유형": "success",
    "제목": "{값} 폴더를 수정했습니다.",
    "설명": null,
    "자리": "데이터 관리",
-   "파일": "app/(agentbase)/data/drive/components/data-drive-client.tsx:2443"
+   "파일": "app/(agentbase)/data/drive/components/data-drive-client.tsx:2450"
   },
   {
    "유형": "success",
    "제목": "{값} 새 회차로 저장했습니다.",
    "설명": "연결 작업 {값}개는 지금 회차를 계속 사용합니다. 각 작업에서 새 회차로 변경해야 반영됩니다.",
    "자리": "데이터 관리",
-   "파일": "app/(agentbase)/data/drive/components/data-drive-client.tsx:2495"
+   "파일": "app/(agentbase)/data/drive/components/data-drive-client.tsx:2502"
   },
   {
    "유형": "success",
    "제목": "{값} 수정했습니다.",
    "설명": null,
    "자리": "데이터 관리",
-   "파일": "app/(agentbase)/data/drive/components/data-drive-client.tsx:2496"
+   "파일": "app/(agentbase)/data/drive/components/data-drive-client.tsx:2503"
   },
   {
    "유형": "success",
    "제목": "데이터셋 {값} {값}을 만들었습니다.",
    "설명": "{값}필수 컬럼을 확인했습니다.",
    "자리": "데이터 관리",
-   "파일": "app/(agentbase)/data/drive/components/data-drive-client.tsx:2573"
+   "파일": "app/(agentbase)/data/drive/components/data-drive-client.tsx:2580"
   },
   {
    "유형": "success",
    "제목": "{값}건을 업로드했습니다.",
    "설명": "수집 이력에서 결과를 확인합니다.",
    "자리": "데이터 관리",
-   "파일": "app/(agentbase)/data/drive/components/data-drive-client.tsx:2610"
+   "파일": "app/(agentbase)/data/drive/components/data-drive-client.tsx:2617"
   },
   {
    "유형": "success",
@@ -202,182 +202,182 @@
    "제목": "전체 실행을 시작하지 못했습니다.",
    "설명": null,
    "자리": "데이터 파이프라인",
-   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:562"
+   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:561"
   },
   {
    "유형": "info",
    "제목": "전체 실행을 시작했습니다.",
    "설명": "전체 실행이 완료되면 실행 결과를 검수하고 발행할 수 있습니다.",
    "자리": "데이터 파이프라인",
-   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:610"
+   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:609"
   },
   {
    "유형": "info",
    "제목": "(식)",
    "설명": null,
    "자리": "데이터 파이프라인",
-   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:634"
+   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:633"
   },
   {
    "유형": "success",
    "제목": "(식)",
    "설명": null,
    "자리": "데이터 파이프라인",
-   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:682"
+   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:681"
   },
   {
    "유형": "info",
    "제목": "되돌릴 편집이 없습니다.",
    "설명": null,
    "자리": "데이터 파이프라인",
-   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:689"
+   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:688"
   },
   {
    "유형": "success",
    "제목": "(식)",
    "설명": null,
    "자리": "데이터 파이프라인",
-   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:843"
+   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:842"
   },
   {
    "유형": "success",
    "제목": "단계를 삭제했습니다.",
    "설명": null,
    "자리": "데이터 파이프라인",
-   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:853"
+   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:852"
   },
   {
    "유형": "warning",
    "제목": "노드 수 상한({값}개)에 도달했습니다.",
    "설명": "{값}부터는 추가하지 않았습니다.",
    "자리": "데이터 파이프라인",
-   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:902"
+   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:901"
   },
   {
    "유형": "success",
    "제목": "(식)",
    "설명": null,
    "자리": "데이터 파이프라인",
-   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:944"
+   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:943"
   },
   {
    "유형": "info",
    "제목": "요청 적용을 취소했습니다.",
    "설명": "요청을 적용하기 전의 노드와 연결로 되돌렸습니다.",
    "자리": "데이터 파이프라인",
-   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:957"
+   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:956"
   },
   {
    "유형": "success",
    "제목": "연결을 삭제했습니다.",
    "설명": null,
    "자리": "데이터 파이프라인",
-   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:999"
+   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:998"
   },
   {
    "유형": "success",
    "제목": "노드를 삭제했습니다.",
    "설명": "이 노드에 닿아 있던 연결도 함께 삭제했습니다.",
    "자리": "데이터 파이프라인",
-   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:1015"
+   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:1014"
   },
   {
    "유형": "info",
    "제목": "설계가 변경되어 발행하지 않은 실행 결과를 삭제했습니다.",
    "설명": "[전체 실행]을 선택하면 새 실행 결과가 생성됩니다.",
    "자리": "데이터 파이프라인",
-   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:1055"
+   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:1054"
   },
   {
    "유형": "info",
    "제목": "표본 실행 중입니다.",
    "설명": "표본 실행이 끝나거나 [중지]한 뒤 이동합니다.",
    "자리": "데이터 파이프라인",
-   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:1065"
+   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:1064"
   },
   {
    "유형": "success",
    "제목": "편집을 시작했습니다.",
    "설명": null,
    "자리": "데이터 파이프라인",
-   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:1378"
+   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:1377"
   },
   {
    "유형": "success",
    "제목": "(식)",
    "설명": null,
    "자리": "데이터 파이프라인",
-   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:1418"
+   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:1417"
   },
   {
    "유형": "error",
    "제목": "표본 실행하지 못했습니다.",
    "설명": null,
    "자리": "데이터 파이프라인",
-   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:2055"
+   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:2054"
   },
   {
    "유형": "success",
    "제목": "(식)",
    "설명": null,
    "자리": "데이터 파이프라인",
-   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:2072"
+   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:2071"
   },
   {
    "유형": "success",
    "제목": "배포를 예약했습니다.",
    "설명": "{값}에 배포를 시작합니다.",
    "자리": "데이터 파이프라인",
-   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:2300"
+   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:2299"
   },
   {
    "유형": "success",
    "제목": "배포를 시작했습니다.",
    "설명": null,
    "자리": "데이터 파이프라인",
-   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:2304"
+   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:2303"
   },
   {
    "유형": "info",
    "제목": "배포를 중지했습니다.",
    "설명": "실행 자원을 반환했습니다.",
    "자리": "데이터 파이프라인",
-   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:2317"
+   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:2316"
   },
   {
    "유형": "success",
    "제목": "실행을 예약했습니다.",
    "설명": null,
    "자리": "데이터 파이프라인",
-   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:2364"
+   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:2363"
   },
   {
    "유형": "error",
    "제목": "발행하지 못했습니다.",
    "설명": null,
    "자리": "데이터 파이프라인",
-   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:2503"
+   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:2502"
   },
   {
    "유형": "info",
    "제목": "발행을 취소했습니다.",
    "설명": null,
    "자리": "데이터 파이프라인",
-   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:2546"
+   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:2545"
   },
   {
    "유형": "success",
    "제목": "데이터 파이프라인을 삭제했습니다.",
    "설명": null,
    "자리": "데이터 파이프라인",
-   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:2569"
+   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:2568"
   },
   {
    "유형": "success",
    "제목": "실행 예약을 취소했습니다.",
    "설명": "[전체 실행]으로 다시 실행하거나 예약합니다.",
    "자리": "데이터 파이프라인",
-   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:2620"
+   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:2609"
   },
   {
    "유형": "success",
@@ -608,42 +608,42 @@
    "제목": "저장하지 않은 변경 {값}건은 반영하지 않았습니다.",
    "설명": "권한 설정 화면을 벗어나 편집을 종료했습니다.",
    "자리": "권한 설정",
-   "파일": "app/(agentbase)/permission/components/perm-tree-client.tsx:441"
+   "파일": "app/(agentbase)/permission/components/perm-tree-client.tsx:478"
   },
   {
    "유형": "success",
    "제목": "권한을 저장했습니다.",
    "설명": "변경 {값}건을 서비스 사용자에게 적용하고 작업 이력에 기록했습니다.",
    "자리": "권한 설정",
-   "파일": "app/(agentbase)/permission/components/perm-tree-client.tsx:481"
+   "파일": "app/(agentbase)/permission/components/perm-tree-client.tsx:518"
   },
   {
    "유형": "success",
    "제목": "권한 유형 단계를 변경했습니다.",
    "설명": "권한을 새 단계로 펼쳤습니다.",
    "자리": "권한 설정",
-   "파일": "app/(agentbase)/permission/components/perm-tree-client.tsx:1657"
+   "파일": "app/(agentbase)/permission/components/perm-tree-client.tsx:1713"
   },
   {
    "유형": "success",
    "제목": "권한 유형 단계를 변경했습니다.",
    "설명": "지정 값 {값}개를 삭제했습니다.",
    "자리": "권한 설정",
-   "파일": "app/(agentbase)/permission/components/perm-tree-client.tsx:1789"
+   "파일": "app/(agentbase)/permission/components/perm-tree-client.tsx:1845"
   },
   {
    "유형": "success",
    "제목": "권한 유형을 삭제했습니다.",
    "설명": null,
    "자리": "권한 설정",
-   "파일": "app/(agentbase)/permission/components/perm-tree-client.tsx:1818"
+   "파일": "app/(agentbase)/permission/components/perm-tree-client.tsx:1874"
   },
   {
    "유형": "success",
    "제목": "(식)",
    "설명": null,
    "자리": "권한 설정",
-   "파일": "app/(agentbase)/permission/components/perm-tree-client.tsx:1879"
+   "파일": "app/(agentbase)/permission/components/perm-tree-client.tsx:1935"
   },
   {
    "유형": "success",
@@ -909,35 +909,35 @@
    "제목": "{값} 요청했습니다.",
    "설명": "승인 결과는 알림으로 전달합니다.",
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/service-page.tsx:155"
+   "파일": "app/(agentbase)/service/components/service-page.tsx:158"
   },
   {
    "유형": "success",
    "제목": "서비스 API 오픈을 중지했습니다.",
    "설명": "다시 오픈하면 저장된 오픈 설정으로 엽니다.",
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/service-page.tsx:374"
+   "파일": "app/(agentbase)/service/components/service-page.tsx:377"
   },
   {
    "유형": "success",
    "제목": "사이트 주소를 복사했습니다.",
    "설명": null,
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/service-page.tsx:404"
+   "파일": "app/(agentbase)/service/components/service-page.tsx:407"
   },
   {
    "유형": "success",
    "제목": "서비스 API를 오픈했습니다.",
    "설명": "워크플로우 목록에서 오픈한 워크플로우를 API로 호출할 수 있습니다.",
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/service-page.tsx:566"
+   "파일": "app/(agentbase)/service/components/service-page.tsx:569"
   },
   {
    "유형": "success",
    "제목": "서비스 설정을 저장했습니다.",
    "설명": null,
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/service-page.tsx:662"
+   "파일": "app/(agentbase)/service/components/service-page.tsx:665"
   },
   {
    "유형": "success",
