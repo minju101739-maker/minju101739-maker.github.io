@@ -1,5 +1,5 @@
 {
- "만든때": "2026-11-13T03:57:46.855Z",
+ "만든때": "2026-11-13T04:27:19.700Z",
  "이름": {
   "chevDown": {
    "수": 26,
@@ -456,11 +456,23 @@
    "파일": [
     "src/design-system/primitives/hint.tsx"
    ]
+  },
+  "link": {
+   "수": 1,
+   "파일": [
+    "src/design-system/primitives/surface.tsx"
+   ]
+  },
+  "globe": {
+   "수": 1,
+   "파일": [
+    "src/design-system/primitives/surface.tsx"
+   ]
   }
  },
  "크기": {
   "xs": 119,
-  "sm": 146,
+  "sm": 148,
   "md": 6,
   "토큰식": 7,
   "기본": 5
@@ -993,6 +1005,18 @@
     "수": 2,
     "파일": [
      "src/design-system/primitives/setup.tsx"
+    ]
+   },
+   "link": {
+    "수": 1,
+    "파일": [
+     "src/design-system/primitives/surface.tsx"
+    ]
+   },
+   "globe": {
+    "수": 1,
+    "파일": [
+     "src/design-system/primitives/surface.tsx"
     ]
    }
   },

@@ -1,11 +1,10 @@
 {
- "만든때": "2026-11-13T03:57:46.855Z",
+ "만든때": "2026-11-13T04:27:30.114Z",
  "요약": {
   "열 숨김": 2,
   "빈 결과 문구": 1,
   "두 줄 합친 칸": 6,
-  "버튼 덮어쓰기": 20,
-  "아이콘 색 덮어쓰기": 81
+  "버튼 덮어쓰기": 19
  },
  "분류": {
   "열 숨김": [
@@ -76,11 +75,6 @@
     "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
    },
    {
-    "위치": "app/(agentbase)/permission/components/perm-by-job.tsx:365",
-    "지금": "IconButton className 의 hover:bg-white/70",
-    "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
-   },
-   {
     "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:1660",
     "지금": "Button className 의 text-ab-accent-text",
     "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
@@ -91,27 +85,27 @@
     "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
    },
    {
-    "위치": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:2922",
+    "위치": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:2920",
     "지금": "Button className 의 h-10",
     "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
    },
    {
-    "위치": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:2952",
+    "위치": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:2950",
     "지금": "Button className 의 h-10",
     "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
    },
    {
-    "위치": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:3150",
+    "위치": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:3141",
     "지금": "Button className 의 text-ab-accent-text",
     "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
    },
    {
-    "위치": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:4314",
+    "위치": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:4300",
     "지금": "Button className 의 h-6 px-1 text-ab-accent-text",
     "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
    },
    {
-    "위치": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:4317",
+    "위치": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:4303",
     "지금": "Button className 의 h-6 px-1",
     "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
    },
@@ -121,12 +115,12 @@
     "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
    },
    {
-    "위치": "app/(agentbase)/service/components/redteam-tab.tsx:1487",
+    "위치": "app/(agentbase)/service/components/redteam-tab.tsx:1503",
     "지금": "Button className 의 h-10",
     "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
    },
    {
-    "위치": "app/(agentbase)/service/components/redteam-tab.tsx:2104",
+    "위치": "app/(agentbase)/service/components/redteam-tab.tsx:2121",
     "지금": "Button className 의 h-9",
     "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
    },
@@ -141,7 +135,7 @@
     "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
    },
    {
-    "위치": "app/(agentbase)/workflow/[id]/components/props-panel.tsx:1703",
+    "위치": "app/(agentbase)/workflow/[id]/components/props-panel.tsx:1702",
     "지금": "Button className 의 border-ab-accent text-ab-accent-text",
     "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
    },
@@ -159,413 +153,6 @@
     "위치": "components/console/permission-axis.tsx:549",
     "지금": "Button className 의 text-ab-danger-strong",
     "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
-   }
-  ],
-  "아이콘 색 덮어쓰기": [
-   {
-    "위치": "app/(agentbase)/data/drive/components/data-drive-client.tsx:121",
-    "지금": "Icon className 의 text-ab-ink-faint",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "app/(agentbase)/data/drive/components/data-drive-client.tsx:1606",
-    "지금": "Icon className 의 text-ab-ink-faint",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "app/(agentbase)/data/drive/components/upload-dialog.tsx:657",
-    "지금": "Icon className 의 text-ab-ink-faint",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "app/(agentbase)/data/pipeline/components/pipe-ask.tsx:104",
-    "지금": "Icon className 의 text-ab-accent",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "app/(agentbase)/data/pipeline/components/pipe-ask.tsx:244",
-    "지금": "Icon className 의 text-ab-ok",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "app/(agentbase)/data/pipeline/components/pipe-canvas.tsx:767",
-    "지금": "Icon className 의 text-ab-ink-faint",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "app/(agentbase)/foundation-model/[id]/components/detail-dialogs.tsx:420",
-    "지금": "Icon className 의 text-ab-ink-faint",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "app/(agentbase)/foundation-model/[id]/components/detail-dialogs.tsx:486",
-    "지금": "Icon className 의 text-ab-ink-faint",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "app/(agentbase)/foundation-model/[id]/components/detail-dialogs.tsx:527",
-    "지금": "Icon className 의 text-ab-ink-faint",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "app/(agentbase)/foundation-model/[id]/components/detail-dialogs.tsx:537",
-    "지금": "Icon className 의 text-ab-ink-faint",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:1250",
-    "지금": "Icon className 의 text-ab-ink-faint",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "app/(agentbase)/foundation-model/components/create-foundation-model-dialog.tsx:447",
-    "지금": "Icon className 의 text-ab-ink-faint",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "app/(agentbase)/foundation-model/components/create-foundation-model-dialog.tsx:452",
-    "지금": "Icon className 의 text-ab-ink-faint",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "app/(agentbase)/home/components/home-widgets.tsx:554",
-    "지금": "Icon className 의 text-ab-ink-faint",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "app/(agentbase)/home/components/orch-widgets.tsx:75",
-    "지금": "Icon className 의 text-ab-ink-faint",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "app/(agentbase)/job/components/service-tree-view.tsx:209",
-    "지금": "Icon className 의 text-ab-ink-faint",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "app/(agentbase)/job/components/service-tree-view.tsx:321",
-    "지금": "Icon className 의 text-ab-ink-muted",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "app/(agentbase)/permission/components/limit-tab.tsx:151",
-    "지금": "Icon className 의 text-ab-ink-muted",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "app/(agentbase)/permission/components/limit-tab.tsx:565",
-    "지금": "Icon className 의 text-ab-ink-muted",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:963",
-    "지금": "Icon className 의 text-ab-accent",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:974",
-    "지금": "Icon className 의 text-ab-ink-faint",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:1753",
-    "지금": "Icon className 의 text-ab-ink-faint",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "app/(agentbase)/rag/[id]/components/eval-file-pick.tsx:125",
-    "지금": "Icon className 의 text-ab-ink-faint",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "app/(agentbase)/rag/[id]/components/eval-file-pick.tsx:173",
-    "지금": "Icon className 의 text-ab-ink-faint",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:2221",
-    "지금": "Icon className 의 text-ab-ink-faint",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:2381",
-    "지금": "Icon className 의 text-ab-ink-faint",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:2466",
-    "지금": "Icon className 의 text-ab-ink-faint",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:2594",
-    "지금": "Icon className 의 text-ab-ink-faint",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:2827",
-    "지금": "Icon className 의 text-ab-accent-text",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:2810",
-    "지금": "Icon className 의 text-ab-ink-muted",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:3268",
-    "지금": "Icon className 의 text-ab-ink-faint",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "app/(agentbase)/rag/[id]/components/rag-visualization.tsx:993",
-    "지금": "Icon className 의 text-ab-ink-2",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "app/(agentbase)/rag/[id]/components/rag-visualization.tsx:1128",
-    "지금": "Icon className 의 text-ab-ink-muted",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "app/(agentbase)/service/components/redteam-tab.tsx:2051",
-    "지금": "Icon className 의 text-ab-ink-faint",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "app/(agentbase)/service/components/workflow-open-pane.tsx:400",
-    "지금": "Icon className 의 text-ab-ink-muted",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "app/(agentbase)/service/components/workflow-open-pane.tsx:431",
-    "지금": "Icon className 의 text-ab-ink-muted",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "app/(agentbase)/service/components/workflow-open-pane.tsx:432",
-    "지금": "Icon className 의 text-ab-ink-2",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "app/(agentbase)/service/components/workflow-open-pane.tsx:889",
-    "지금": "Icon className 의 text-ab-ink-2",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "app/(agentbase)/service/components/workflow-open-pane.tsx:918",
-    "지금": "Icon className 의 text-ab-ink-2",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "app/(agentbase)/settings/components/settings-client.tsx:99",
-    "지금": "Icon className 의 text-ab-ink-muted",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "app/(agentbase)/settings/components/settings-client.tsx:121",
-    "지금": "Icon className 의 text-ab-accent-text",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "app/(agentbase)/system/components/resource-detail.tsx:267",
-    "지금": "Icon className 의 text-ab-ink-faint",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "app/(agentbase)/workflow/[id]/components/canvas.tsx:863",
-    "지금": "Icon className 의 text-ab-ink-faint",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "app/(agentbase)/workflow/[id]/components/props-panel.tsx:838",
-    "지금": "Icon className 의 text-ab-ink-faint",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "app/(agentbase)/workflow/[id]/components/props-panel.tsx:2602",
-    "지금": "Icon className 의 text-ab-ink-faint",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "app/(agentbase)/workflow/[id]/components/test-tab.tsx:410",
-    "지금": "Icon className 의 text-ab-ink-muted",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "app/(agentbase)/workflow/[id]/components/test-tab.tsx:782",
-    "지금": "Icon className 의 text-ab-ink-muted",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "components/chat/chat-panel.tsx:529",
-    "지금": "Icon className 의 text-ab-accent",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "components/console/alert-panel.tsx:448",
-    "지금": "Icon className 의 text-ab-ink-faint",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "components/console/folder-tree-picker.tsx:232",
-    "지금": "Icon className 의 text-ab-ink-faint",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "components/console/multi-select.tsx:181",
-    "지금": "Icon className 의 text-ab-ink-faint",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "components/console/orchestrator-panel.tsx:232",
-    "지금": "Icon className 의 text-ab-accent",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "components/console/orchestrator-panel.tsx:2029",
-    "지금": "Icon className 의 text-ab-accent",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "components/console/orchestrator-panel.tsx:2065",
-    "지금": "Icon className 의 text-ab-ok",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "components/console/orchestrator-panel.tsx:2067",
-    "지금": "Icon className 의 text-ab-accent",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "components/console/pick-menu.tsx:82",
-    "지금": "Icon className 의 text-ab-ink-faint",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "components/console/project-table.tsx:905",
-    "지금": "Icon className 의 text-ab-ink-faint",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "components/console/quick-guide.tsx:107",
-    "지금": "Icon className 의 text-ab-ink-faint",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "components/console/status-reason.tsx:466",
-    "지금": "Icon className 의 text-ab-ink-faint",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "components/console/trace-pane.tsx:144",
-    "지금": "Icon className 의 text-ab-ink-faint",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "components/console/trace-pane.tsx:251",
-    "지금": "Icon className 의 text-ab-ink-faint",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "components/console/trail-breadcrumb.tsx:57",
-    "지금": "Icon className 의 text-white/40",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "components/console/tutorial.tsx:201",
-    "지금": "Icon className 의 text-ab-ok-text",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "components/console/upload-run.tsx:111",
-    "지금": "Icon className 의 text-ab-ink-faint",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "components/mcp-mark.tsx:58",
-    "지금": "Icon className 의 text-ab-ink-muted",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "components/perm-draft/parts.tsx:162",
-    "지금": "Icon className 의 text-ab-ink-muted",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "components/site-header.tsx:508",
-    "지금": "Icon className 의 text-ab-ink-faint",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "components/site-header.tsx:625",
-    "지금": "Icon className 의 text-white",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "design-system/primitives/choice-menu.tsx:136",
-    "지금": "Icon className 의 text-ab-ink-faint",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "design-system/primitives/date-picker.tsx:148",
-    "지금": "Icon className 의 text-ab-ink-faint",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "design-system/primitives/date-picker.tsx:301",
-    "지금": "Icon className 의 text-ab-ink-faint",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "design-system/primitives/form.tsx:880",
-    "지금": "Icon className 의 text-ab-accent-text",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "design-system/primitives/form.tsx:889",
-    "지금": "Icon className 의 text-ab-ink-2",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "design-system/primitives/form.tsx:1015",
-    "지금": "Icon className 의 text-ab-accent",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "design-system/primitives/form.tsx:1101",
-    "지금": "Icon className 의 text-ab-ink-faint",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "design-system/primitives/form.tsx:1168",
-    "지금": "Icon className 의 text-ab-ink-faint",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "design-system/primitives/options.tsx:501",
-    "지금": "Icon className 의 text-ab-ink-faint",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "design-system/primitives/options.tsx:589",
-    "지금": "Icon className 의 text-ab-ink-faint",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "design-system/primitives/options.tsx:622",
-    "지금": "Icon className 의 text-ab-accent",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "design-system/primitives/table.tsx:1663",
-    "지금": "Icon className 의 text-ab-ink-faint",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
-   },
-   {
-    "위치": "design-system/primitives/upload-progress.tsx:95",
-    "지금": "Icon className 의 text-ab-ink-faint",
-    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
    }
   ]
  }
