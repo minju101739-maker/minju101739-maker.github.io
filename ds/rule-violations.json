@@ -1,271 +1,60 @@
 {
- "만든때": "2026-11-10T14:21:48.348Z",
+ "만든때": "2026-11-13T00:22:08.698Z",
  "요약": {
-  "호버": 9,
-  "글자 크기": 32,
-  "모서리": 3,
-  "헥스": 1,
-  "움직임": 2,
-  "안내 문구": 2
+  "열 숨김": 2,
+  "빈 결과 문구": 1,
+  "두 줄 합친 칸": 6
  },
  "분류": {
-  "호버": [
+  "열 숨김": [
    {
-    "위치": "app/(agentbase)/data/pipeline/components/expr-fields.tsx:32",
-    "지금": "hover:bg-transparent",
-    "바꿀": "버튼이면 <Button variant=…> 으로 바꿔 유형별 호버를 쓴다"
+    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:1162",
+    "지금": "...(유형접기 ? …)",
+    "바꿀": "열을 숨기지 않는다. 조건을 걷고 열을 늘 두며, 표가 판 안에서 가로로 스크롤되게 한다(DataTable 은 적어 둔 폭 밑으로 줄지 않는다)"
    },
    {
-    "위치": "app/(agentbase)/permission/components/perm-by-job.tsx:335",
-    "지금": "hover:border-ab-ink-muted",
-    "바꿀": "고르는 카드(선택 카드, 위젯)면 테두리 호버를 규격(PickerCard)으로 옮기고, 버튼이면 <Button variant=…> 의 호버를 쓴다"
-   },
-   {
-    "위치": "app/(agentbase)/permission/components/perm-by-job.tsx:594",
-    "지금": "hover:bg-ab-border-light",
-    "바꿀": "대상별 호버 다섯(surface-alt, accent-faint, underline, text-ab-ink, shadow-ab-md) 중 하나로 맞춘다"
-   },
-   {
-    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:780",
-    "지금": "hover:bg-ab-border-light",
-    "바꿀": "대상별 호버 다섯(surface-alt, accent-faint, underline, text-ab-ink, shadow-ab-md) 중 하나로 맞춘다"
-   },
-   {
-    "위치": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:877",
-    "지금": "hover:bg-transparent",
-    "바꿀": "버튼이면 <Button variant=…> 으로 바꿔 유형별 호버를 쓴다"
-   },
-   {
-    "위치": "app/(agentbase)/workflow/[id]/components/props-panel.tsx:2605",
-    "지금": "hover:bg-white",
-    "바꿀": "선택할 수 있는 줄이면 hover:bg-ab-surface-alt, 선택지 목록이면 hover:bg-ab-accent-faint"
-   },
-   {
-    "위치": "app/(agentbase)/workflow/[id]/components/props-panel.tsx:2635",
-    "지금": "hover:bg-white",
-    "바꿀": "선택할 수 있는 줄이면 hover:bg-ab-surface-alt, 선택지 목록이면 hover:bg-ab-accent-faint"
-   },
-   {
-    "위치": "components/perm-draft/parts.tsx:137",
-    "지금": "hover:bg-transparent",
-    "바꿀": "버튼이면 <Button variant=…> 으로 바꿔 유형별 호버를 쓴다"
-   },
-   {
-    "위치": "components/perm-draft/parts.tsx:378",
-    "지금": "hover:text-ab-ink-2",
-    "바꿀": "hover:text-ab-ink 하나로 맞춘다(빨간 조작은 Button variant=danger-outline 을 쓴다)"
+    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:1470",
+    "지금": "columns={접기 ? […] : […]}",
+    "바꿀": "폭에 따라 열 배열을 바꾸지 않는다. 펼친 열 하나로 두고 표가 판 안에서 가로로 스크롤되게 한다"
    }
   ],
-  "글자 크기": [
+  "빈 결과 문구": [
    {
-    "위치": "app/(agentbase)/home/components/home-client.tsx:197",
-    "지금": "text-[14px]",
-    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
-   },
-   {
-    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:513",
-    "지금": "text-[11px]",
-    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
-   },
-   {
-    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:1037",
-    "지금": "text-[11px]",
-    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
-   },
-   {
-    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:1742",
-    "지금": "text-[11px]",
-    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
-   },
-   {
-    "위치": "app/(agentbase)/workflow/[id]/components/props-panel.tsx:2641",
-    "지금": "text-[11px]",
-    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
-   },
-   {
-    "위치": "components/console/approval-request.tsx:74",
-    "지금": "text-[14px]",
-    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
-   },
-   {
-    "위치": "components/console/approval-request.tsx:375",
-    "지금": "text-[14px]",
-    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
-   },
-   {
-    "위치": "components/console/approval-request.tsx:375",
-    "지금": "text-[14px]",
-    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
-   },
-   {
-    "위치": "components/console/approval-request.tsx:394",
-    "지금": "text-[14px]",
-    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
-   },
-   {
-    "위치": "components/console/approval-request.tsx:394",
-    "지금": "text-[14px]",
-    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
-   },
-   {
-    "위치": "components/console/approval-request.tsx:394",
-    "지금": "text-[14px]",
-    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
-   },
-   {
-    "위치": "components/console/list-tip.tsx:68",
-    "지금": "text-[11px]",
-    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
-   },
-   {
-    "위치": "components/console/list-tip.tsx:74",
-    "지금": "text-[11px]",
-    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
-   },
-   {
-    "위치": "components/console/perm-gate.tsx:302",
-    "지금": "text-[14px]",
-    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
-   },
-   {
-    "위치": "components/console/perm-gate.tsx:305",
-    "지금": "text-[14px]",
-    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
-   },
-   {
-    "위치": "components/console/serving-stop-modal.tsx:103",
-    "지금": "text-[14px]",
-    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
-   },
-   {
-    "위치": "components/console/serving-stop-modal.tsx:108",
-    "지금": "text-[14px]",
-    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
-   },
-   {
-    "위치": "components/console/serving-stop-modal.tsx:109",
-    "지금": "text-[14px]",
-    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
-   },
-   {
-    "위치": "components/console/serving-stop-modal.tsx:114",
-    "지금": "text-[14px]",
-    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
-   },
-   {
-    "위치": "components/console/serving-stop-modal.tsx:119",
-    "지금": "text-[14px]",
-    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
-   },
-   {
-    "위치": "components/console/status-reason.tsx:159",
-    "지금": "text-[14px]",
-    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
-   },
-   {
-    "위치": "components/console/status-reason.tsx:170",
-    "지금": "text-[14px]",
-    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
-   },
-   {
-    "위치": "design-system/primitives/modal.tsx:692",
-    "지금": "text-[14px]",
-    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
-   },
-   {
-    "위치": "design-system/primitives/modal.tsx:699",
-    "지금": "text-[14px]",
-    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
-   },
-   {
-    "위치": "design-system/primitives/modal.tsx:842",
-    "지금": "text-[14px]",
-    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
-   },
-   {
-    "위치": "design-system/primitives/modal.tsx:860",
-    "지금": "text-[14px]",
-    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
-   },
-   {
-    "위치": "design-system/primitives/modal.tsx:865",
-    "지금": "text-[14px]",
-    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
-   },
-   {
-    "위치": "design-system/primitives/modal.tsx:865",
-    "지금": "text-[14px]",
-    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
-   },
-   {
-    "위치": "design-system/primitives/modal.tsx:866",
-    "지금": "text-[14px]",
-    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
-   },
-   {
-    "위치": "design-system/primitives/modal.tsx:965",
-    "지금": "text-[14px]",
-    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
-   },
-   {
-    "위치": "design-system/primitives/modal.tsx:968",
-    "지금": "text-[14px]",
-    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
-   },
-   {
-    "위치": "design-system/primitives/modal.tsx:975",
-    "지금": "text-[14px]",
-    "바꿀": "text-body(본문) 또는 text-caption(곁말)"
+    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:2034",
+    "지금": "조건에 맞는 승인 기록이 없습니다.",
+    "바꿀": "「조건에 맞는 항목이 없습니다.」"
    }
   ],
-  "모서리": [
+  "두 줄 합친 칸": [
    {
-    "위치": "app/(agentbase)/permission/components/perm-by-job.tsx:331",
-    "지금": "rounded-[4px]",
-    "바꿀": "rounded-sm(4)"
+    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:1154",
+    "지금": "열 perm-name 의 칸이 두 줄",
+    "바꿀": "두 값을 열로 나누거나, 보조 값을 같은 줄에 흐린 글자로 붙이거나, 말풍선으로 옮긴다"
    },
    {
-    "위치": "app/(agentbase)/permission/components/perm-by-job.tsx:912",
-    "지금": "rounded-xl",
-    "바꿀": "rounded-lg(10) 또는 큰 카드면 rounded-2xl(16)"
+    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:1203",
+    "지금": "열 perm-limit 의 칸이 두 줄",
+    "바꿀": "두 값을 열로 나누거나, 보조 값을 같은 줄에 흐린 글자로 붙이거나, 말풍선으로 옮긴다"
    },
    {
-    "위치": "app/(agentbase)/permission/components/perm-by-job.tsx:1399",
-    "지금": "rounded-xl",
-    "바꿀": "rounded-lg(10) 또는 큰 카드면 rounded-2xl(16)"
-   }
-  ],
-  "헥스": [
-   {
-    "위치": "components/console/pipeline-demo.tsx:554",
-    "지금": "#121619",
-    "바꿀": "color.ink (같은 값)",
-    "같은값": true,
-    "아이콘": false
-   }
-  ],
-  "움직임": [
-   {
-    "위치": "components/console/pipeline-demo.tsx:547",
-    "지금": "duration-500",
-    "바꿀": "duration-instant(90), fast(140), base(200), panel(240) 중 가까운 이름"
+    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:1473",
+    "지금": "열 perm-user-name 의 칸이 두 줄",
+    "바꿀": "두 값을 열로 나누거나, 보조 값을 같은 줄에 흐린 글자로 붙이거나, 말풍선으로 옮긴다"
    },
    {
-    "위치": "components/console/pipeline-demo.tsx:553",
-    "지금": "duration-150",
-    "바꿀": "duration-instant(90), fast(140), base(200), panel(240) 중 가까운 이름"
-   }
-  ],
-  "안내 문구": [
-   {
-    "위치": "app/(agentbase)/personal/components/personal-asset-modal.tsx:393",
-    "지금": "요청이 없어 값이 없습니다.",
-    "바꿀": "빈 상태 두 줄이면 EmptyState 로, 칸 아래 안내면 「[안내] …」로 연다"
+    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:2037",
+    "지금": "열 perm-g-at 의 칸이 두 줄",
+    "바꿀": "두 값을 열로 나누거나, 보조 값을 같은 줄에 흐린 글자로 붙이거나, 말풍선으로 옮긴다"
    },
    {
-    "위치": "app/(agentbase)/permission/components/perm-by-job.tsx:278",
-    "지금": "이 워크플로우에는 모델, RAG, 도구 노드가 없습니다.",
-    "바꿀": "빈 상태 두 줄이면 EmptyState 로, 칸 아래 안내면 「[안내] …」로 연다"
+    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:2045",
+    "지금": "열 perm-g-item 의 칸이 두 줄",
+    "바꿀": "두 값을 열로 나누거나, 보조 값을 같은 줄에 흐린 글자로 붙이거나, 말풍선으로 옮긴다"
+   },
+   {
+    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:2071",
+    "지금": "열 perm-g-state 의 칸이 두 줄",
+    "바꿀": "두 값을 열로 나누거나, 보조 값을 같은 줄에 흐린 글자로 붙이거나, 말풍선으로 옮긴다"
    }
   ]
  }
