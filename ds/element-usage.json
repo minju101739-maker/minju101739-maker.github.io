@@ -1,5 +1,5 @@
 {
- "만든때": "2026-11-13T02:52:34.058Z",
+ "만든때": "2026-11-13T03:57:46.855Z",
  "요소": {
   "Button": {
    "부품": "Button",
@@ -421,7 +421,7 @@
     "src/app/(agentbase)/data/pipeline/components/step-settings.tsx": 2,
     "src/app/(agentbase)/foundation-model/[id]/commits/[commitId]/components/commit-detail.tsx": 1,
     "src/app/(agentbase)/foundation-model/[id]/components/detail-dialogs.tsx": 1,
-    "src/app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx": 13,
+    "src/app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx": 11,
     "src/app/(agentbase)/foundation-model/[id]/components/train-pane.tsx": 2,
     "src/app/(agentbase)/foundation-model/components/foundation-models-client.tsx": 1,
     "src/app/(agentbase)/home/components/home-client.tsx": 1,
@@ -437,7 +437,7 @@
     "src/app/(agentbase)/rag/components/rags-client.tsx": 1,
     "src/app/(agentbase)/report/components/report-client.tsx": 3,
     "src/app/(agentbase)/service/components/admin-tab.tsx": 1,
-    "src/app/(agentbase)/service/components/redteam-tab.tsx": 16,
+    "src/app/(agentbase)/service/components/redteam-tab.tsx": 15,
     "src/app/(agentbase)/service/components/service-api-guide.tsx": 1,
     "src/app/(agentbase)/service/components/service-compare-tab.tsx": 2,
     "src/app/(agentbase)/service/components/service-page.tsx": 7,
@@ -492,30 +492,31 @@
     "src/components/console/usage-monitor.tsx": 2,
     "src/components/console/worker-controls.tsx": 1,
     "src/components/perm-draft/parts.tsx": 10,
-    "src/components/site-header.tsx": 4,
+    "src/components/site-header.tsx": 5,
     "src/components/ui/button.tsx": 1
    },
-   "코드합": 282,
+   "코드합": 280,
    "값": {
     "variant": {
-     "식": 11,
+     "식": 12,
      "secondary": 15,
      "danger": 13,
      "accent-outline": 6,
-     "quiet": 57,
+     "quiet": 59,
      "ghost": 21,
-     "outline": 55,
+     "outline": 50,
      "destructive": 6,
      "danger-outline": 16,
      "tonal": 2,
      "primary": 7,
-     "on-dark": 6
+     "on-dark": 3,
+     "on-dark-outline": 3
     },
     "size": {
-     "sm": 116,
+     "sm": 113,
      "md": 1,
      "icon": 4,
-     "식": 1
+     "xs": 6
     }
    }
   },
@@ -1698,7 +1699,7 @@
     "src/app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx": 2,
     "src/app/(agentbase)/rag/components/create-rag-dialog.tsx": 1,
     "src/app/(agentbase)/rag/components/edit-rag-dialog.tsx": 1,
-    "src/app/(agentbase)/service/components/redteam-tab.tsx": 5,
+    "src/app/(agentbase)/service/components/redteam-tab.tsx": 7,
     "src/app/(agentbase)/service/components/service-page.tsx": 1,
     "src/app/(agentbase)/service/components/svc-personal-rag-fields.tsx": 5,
     "src/app/(agentbase)/serving/components/deploy-settings.tsx": 7,
@@ -1715,14 +1716,14 @@
     "src/components/console/worker-controls.tsx": 6,
     "src/components/perm-draft/parts.tsx": 3
    },
-   "코드합": 69,
+   "코드합": 71,
    "값": {
     "unit": {
-     "식": 4,
+     "식": 3,
      "토큰": 2,
      "글자": 1,
-     "회": 7,
-     "턴": 1,
+     "회": 9,
+     "턴": 2,
      "GB": 1,
      "개": 1,
      "건/초": 1,
@@ -2379,7 +2380,7 @@
     "src/app/(agentbase)/rag/[id]/components/rag-detail.tsx": 2,
     "src/app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx": 15,
     "src/app/(agentbase)/service/components/admin-tab.tsx": 5,
-    "src/app/(agentbase)/service/components/redteam-tab.tsx": 10,
+    "src/app/(agentbase)/service/components/redteam-tab.tsx": 9,
     "src/app/(agentbase)/service/components/service-analysis-tab.tsx": 2,
     "src/app/(agentbase)/service/components/svc-flow.tsx": 2,
     "src/app/(agentbase)/service/components/svc-monitor-sections.tsx": 2,
@@ -2402,7 +2403,7 @@
     "src/components/console/run-schedule.tsx": 1,
     "src/components/site-header.tsx": 1
    },
-   "코드합": 112,
+   "코드합": 111,
    "값": {}
   },
   "Recommend Tag": {

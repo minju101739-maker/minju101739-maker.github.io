@@ -1,5 +1,5 @@
 {
- "만든때": "2026-11-13T02:52:34.058Z",
+ "만든때": "2026-11-13T03:57:46.855Z",
  "수": 273,
  "유형수": {
   "success": 202,
@@ -468,91 +468,91 @@
    "제목": "학습 데이터셋을 {값} 변경했습니다.",
    "설명": "다음 학습부터 반영됩니다. 지난 학습 회차는 그때 쓴 버전 그대로입니다.",
    "자리": "파운데이션 모델",
-   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:1164"
+   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:1163"
   },
   {
    "유형": "success",
    "제목": "예시 파일을 다운로드했습니다.",
    "설명": null,
    "자리": "파운데이션 모델",
-   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:1264"
+   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:1239"
   },
   {
    "유형": "error",
    "제목": "config 파일을 읽을 수 없습니다.",
    "설명": null,
    "자리": "파운데이션 모델",
-   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:1316"
+   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:1291"
   },
   {
    "유형": "success",
    "제목": "config 파일을 업로드했습니다.",
    "설명": "파라미터 {값}개에 파일 값을 적용합니다. [저장]하면 학습 설정에 반영됩니다.",
    "자리": "파운데이션 모델",
-   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:1320"
+   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:1295"
   },
   {
    "유형": "success",
    "제목": "학습 설정을 저장했습니다.",
    "설명": null,
    "자리": "파운데이션 모델",
-   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:1444"
+   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:1419"
   },
   {
    "유형": "success",
    "제목": "모델을 삭제했습니다.",
    "설명": null,
    "자리": "파운데이션 모델",
-   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:1817"
+   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:1792"
   },
   {
    "유형": "success",
    "제목": "(식)",
    "설명": null,
    "자리": "파운데이션 모델",
-   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:1870"
+   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:1845"
   },
   {
    "유형": "success",
    "제목": "학습 실행을 취소했습니다.",
    "설명": null,
    "자리": "파운데이션 모델",
-   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:1885"
+   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:1860"
   },
   {
    "유형": "success",
    "제목": "학습을 중지했습니다.",
    "설명": null,
    "자리": "파운데이션 모델",
-   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:1926"
+   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:1901"
   },
   {
    "유형": "success",
    "제목": "커밋 {값}건을 삭제했습니다.",
    "설명": null,
    "자리": "파운데이션 모델",
-   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:1970"
+   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:1945"
   },
   {
    "유형": "success",
    "제목": "커밋을 생성했습니다.",
    "설명": "현재 설정이 '{값}' 커밋이 되었습니다.",
    "자리": "파운데이션 모델",
-   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:2027"
+   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:2002"
   },
   {
    "유형": "success",
    "제목": "학습 설정을 저장했습니다.",
    "설명": null,
    "자리": "파운데이션 모델",
-   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:2091"
+   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:2066"
   },
   {
    "유형": "success",
    "제목": "커밋을 수정했습니다.",
    "설명": null,
    "자리": "파운데이션 모델",
-   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:2124"
+   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:2099"
   },
   {
    "유형": "success",
@@ -657,7 +657,7 @@
    "제목": "호출 한도를 저장했습니다.",
    "설명": "전체 {값}, 사용자당 {값}",
    "자리": "권한 설정",
-   "파일": "app/(agentbase)/permission/components/permission-client.tsx:876"
+   "파일": "app/(agentbase)/permission/components/permission-client.tsx:877"
   },
   {
    "유형": "success",
@@ -762,14 +762,14 @@
    "제목": "올릴 파일이 없습니다.",
    "설명": "같은 이름의 파일을 모두 건너뛰었습니다.",
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:2249"
+   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:2234"
   },
   {
    "유형": "success",
    "제목": "모델 목록을 새로 고쳤습니다.",
    "설명": "운영 중인 모델 배포 {값}개",
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:3260"
+   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:3245"
   },
   {
    "유형": "success",
@@ -825,35 +825,35 @@
    "제목": "(식)",
    "설명": null,
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:2781"
+   "파일": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:2782"
   },
   {
    "유형": "info",
    "제목": "같은 계열의 채점 모델은 하나만 선택합니다. 최대 3개까지 선택합니다.",
    "설명": null,
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:3438"
+   "파일": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:3424"
   },
   {
    "유형": "success",
    "제목": "평가 결과를 수정했습니다.",
    "설명": null,
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:4995"
+   "파일": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:4974"
   },
   {
    "유형": "success",
    "제목": "평가 결과를 삭제했습니다.",
    "설명": null,
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:5015"
+   "파일": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:4994"
   },
   {
    "유형": "success",
    "제목": "기준 답변을 저장했습니다.",
    "설명": "이 문항의 기준 답변이 필요한 지표를 다시 측정합니다.",
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:5121"
+   "파일": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:5100"
   },
   {
    "유형": "info",
@@ -944,133 +944,133 @@
    "제목": "평가 설정을 기본값으로 되돌렸습니다.",
    "설명": null,
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:772"
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:806"
   },
   {
    "유형": "warning",
    "제목": "{값}님이 편집 중입니다.",
    "설명": "편집이 끝난 뒤에 실행할 수 있습니다.",
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:809"
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:843"
   },
   {
    "유형": "success",
    "제목": "보안 평가셋을 저장했습니다.",
    "설명": "{값}(문장 {값}개)을 데이터 관리 {값}에 저장했습니다. 검증은 거치지 않았습니다.",
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:863"
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:897"
   },
   {
    "유형": "success",
    "제목": "보안 평가셋을 저장했습니다.",
    "설명": "{값}(공격 성공 문장 {값}개)을 데이터 관리 {값}에 저장했습니다. 평가셋 생성 탭의 목록에서 볼 수 있습니다.",
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:885"
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:919"
   },
   {
    "유형": "success",
    "제목": "평가 결과를 수정했습니다.",
    "설명": "{값}의 이름과 설명을 저장했습니다.",
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1043"
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1074"
   },
   {
    "유형": "success",
    "제목": "평가 결과를 삭제했습니다.",
    "설명": "{값}을 삭제했습니다.",
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1050"
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1081"
   },
   {
    "유형": "success",
    "제목": "평가 결과를 저장했습니다.",
    "설명": "{값}으로 저장했습니다.",
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1057"
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1088"
   },
   {
    "유형": "success",
    "제목": "보안 평가셋을 저장했습니다.",
    "설명": "{값}(문장 {값}개)을 데이터 관리 {값}에 저장했습니다. [평가하기]로 평가에서 선택할 수 있습니다.",
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1195"
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1226"
   },
   {
    "유형": "success",
    "제목": "보안 평가를 마쳤습니다.",
    "설명": "공격 {값}건의 결과가 나왔습니다. [저장]에서 이름을 입력해 저장하세요.",
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1212"
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1243"
   },
   {
    "유형": "success",
    "제목": "결과의 설정을 평가 설정에 불러왔습니다.",
    "설명": "사용자 문장은 지금 저장된 문장을 사용합니다.",
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1700"
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1665"
   },
   {
    "유형": "info",
    "제목": "보안 평가를 중지했습니다.",
    "설명": "중지 시점까지의 결과를 저장하려면 [저장]을 선택하세요.",
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1714"
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1679"
   },
   {
    "유형": "success",
    "제목": "보안 평가셋을 보안 평가에 선택했습니다.",
    "설명": null,
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1741"
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1706"
   },
   {
    "유형": "success",
    "제목": "사용자 문장 {값}개를 추가했습니다.",
    "설명": "{값} 유형을 선택한 보안 평가셋에 기본 문장과 함께 담깁니다.",
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1967"
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1932"
   },
   {
    "유형": "success",
    "제목": "사용자 문장 {값}개를 추가했습니다.",
    "설명": "{값}에서 추가했습니다.{값}",
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1982"
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1947"
   },
   {
    "유형": "success",
    "제목": "양식 파일을 다운로드했습니다.",
    "설명": null,
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:2059"
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:2024"
   },
   {
    "유형": "success",
    "제목": "사용자 문장을 엑셀 파일로 다운로드했습니다.",
    "설명": "양식과 같은 시트 구성이라 수정한 뒤 다시 업로드할 수 있습니다.",
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:2148"
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:2113"
   },
   {
    "유형": "success",
    "제목": "사용자 문장을 삭제했습니다.",
    "설명": "이미 실행한 결과의 설정에는 그대로 남습니다.",
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:2189"
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:2154"
   },
   {
    "유형": "success",
    "제목": "보안 평가셋을 삭제했습니다.",
    "설명": null,
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:2708"
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:2674"
   },
   {
    "유형": "success",
    "제목": "기본 문장을 엑셀 파일로 다운로드했습니다.",
    "설명": "사용자 문장 양식과 같은 시트 구성입니다.",
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:3145"
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:3111"
   },
   {
    "유형": "success",
@@ -1112,49 +1112,49 @@
    "제목": "{값} 그룹을 생성했습니다.",
    "설명": null,
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/workflow-open-pane.tsx:624"
+   "파일": "app/(agentbase)/service/components/workflow-open-pane.tsx:625"
   },
   {
    "유형": "success",
    "제목": "그룹 이름을 변경했습니다.",
    "설명": null,
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/workflow-open-pane.tsx:671"
+   "파일": "app/(agentbase)/service/components/workflow-open-pane.tsx:672"
   },
   {
    "유형": "success",
    "제목": "{값} 그룹을 해제했습니다.",
    "설명": null,
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/workflow-open-pane.tsx:695"
+   "파일": "app/(agentbase)/service/components/workflow-open-pane.tsx:696"
   },
   {
    "유형": "success",
    "제목": "{값} 그룹을 생성하고 {값} 옮겼습니다.",
    "설명": null,
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/workflow-open-pane.tsx:713"
+   "파일": "app/(agentbase)/service/components/workflow-open-pane.tsx:714"
   },
   {
    "유형": "success",
    "제목": "(식)",
    "설명": null,
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/workflow-open-pane.tsx:716"
+   "파일": "app/(agentbase)/service/components/workflow-open-pane.tsx:717"
   },
   {
    "유형": "success",
    "제목": "{값} 오픈했습니다.",
    "설명": "서비스 사용자에게 대표 모델 {값} 표시됩니다.",
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/workflow-open-pane.tsx:735"
+   "파일": "app/(agentbase)/service/components/workflow-open-pane.tsx:736"
   },
   {
    "유형": "success",
    "제목": "{값}의 오픈을 해제했습니다.",
    "설명": "서비스 API에서 호출되지 않습니다.",
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/workflow-open-pane.tsx:766"
+   "파일": "app/(agentbase)/service/components/workflow-open-pane.tsx:767"
   },
   {
    "유형": "success",
