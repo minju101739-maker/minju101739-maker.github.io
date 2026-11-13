@@ -1,10 +1,10 @@
 {
- "만든때": "2026-11-13T04:27:30.114Z",
+ "만든때": "2026-11-13T05:33:36.623Z",
  "요약": {
   "열 숨김": 2,
   "빈 결과 문구": 1,
   "두 줄 합친 칸": 6,
-  "버튼 덮어쓰기": 19
+  "버튼 덮어쓰기": 17
  },
  "분류": {
   "열 숨김": [
@@ -14,14 +14,14 @@
     "바꿀": "열을 숨기지 않는다. 조건을 걷고 열을 늘 두며, 표가 판 안에서 가로로 스크롤되게 한다(DataTable 은 적어 둔 폭 밑으로 줄지 않는다)"
    },
    {
-    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:1468",
+    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:1467",
     "지금": "columns={접기 ? […] : […]}",
     "바꿀": "폭에 따라 열 배열을 바꾸지 않는다. 펼친 열 하나로 두고 표가 판 안에서 가로로 스크롤되게 한다"
    }
   ],
   "빈 결과 문구": [
    {
-    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:2032",
+    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:2037",
     "지금": "조건에 맞는 승인 기록이 없습니다.",
     "바꿀": "「조건에 맞는 항목이 없습니다.」"
    }
@@ -38,22 +38,22 @@
     "바꿀": "두 값을 열로 나누거나, 보조 값을 같은 줄에 흐린 글자로 붙이거나, 말풍선으로 옮긴다"
    },
    {
-    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:1471",
+    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:1470",
     "지금": "열 perm-user-name 의 칸이 두 줄",
     "바꿀": "두 값을 열로 나누거나, 보조 값을 같은 줄에 흐린 글자로 붙이거나, 말풍선으로 옮긴다"
    },
    {
-    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:2035",
+    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:2040",
     "지금": "열 perm-g-at 의 칸이 두 줄",
     "바꿀": "두 값을 열로 나누거나, 보조 값을 같은 줄에 흐린 글자로 붙이거나, 말풍선으로 옮긴다"
    },
    {
-    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:2043",
+    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:2048",
     "지금": "열 perm-g-item 의 칸이 두 줄",
     "바꿀": "두 값을 열로 나누거나, 보조 값을 같은 줄에 흐린 글자로 붙이거나, 말풍선으로 옮긴다"
    },
    {
-    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:2069",
+    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:2073",
     "지금": "열 perm-g-state 의 칸이 두 줄",
     "바꿀": "두 값을 열로 나누거나, 보조 값을 같은 줄에 흐린 글자로 붙이거나, 말풍선으로 옮긴다"
    }
@@ -75,47 +75,37 @@
     "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
    },
    {
-    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:1660",
+    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:1665",
     "지금": "Button className 의 text-ab-accent-text",
     "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
    },
    {
-    "위치": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:2955",
+    "위치": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:2948",
     "지금": "Button className 의 border-ab-accent text-ab-accent-text",
     "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
    },
    {
-    "위치": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:2920",
+    "위치": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:2914",
     "지금": "Button className 의 h-10",
     "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
    },
    {
-    "위치": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:2950",
+    "위치": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:2944",
     "지금": "Button className 의 h-10",
     "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
    },
    {
-    "위치": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:3141",
+    "위치": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:3136",
     "지금": "Button className 의 text-ab-accent-text",
     "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
    },
    {
-    "위치": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:4300",
-    "지금": "Button className 의 h-6 px-1 text-ab-accent-text",
-    "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
-   },
-   {
-    "위치": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:4303",
-    "지금": "Button className 의 h-6 px-1",
-    "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
-   },
-   {
-    "위치": "app/(agentbase)/service/components/redteam-tab.tsx:1391",
+    "위치": "app/(agentbase)/service/components/redteam-tab.tsx:1390",
     "지금": "Button className 의 h-10",
     "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
    },
    {
-    "위치": "app/(agentbase)/service/components/redteam-tab.tsx:1503",
+    "위치": "app/(agentbase)/service/components/redteam-tab.tsx:1502",
     "지금": "Button className 의 h-10",
     "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
    },
@@ -135,7 +125,7 @@
     "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
    },
    {
-    "위치": "app/(agentbase)/workflow/[id]/components/props-panel.tsx:1702",
+    "위치": "app/(agentbase)/workflow/[id]/components/props-panel.tsx:1671",
     "지금": "Button className 의 border-ab-accent text-ab-accent-text",
     "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
    },

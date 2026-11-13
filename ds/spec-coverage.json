@@ -1,5 +1,5 @@
 {
- "만든때": "2026-11-13T04:27:28.974Z",
+ "만든때": "2026-11-13T05:33:36.623Z",
  "줄들": [
   {
    "차원": "색",
@@ -45,7 +45,7 @@
    "차원": "텍스트",
    "규격": "크기 8개(caption, sm, body, modal, lead, title-sm, title-md, title-lg), 굵기 400·500·600",
    "사용": "크기 9개, 굵기 semibold·medium·normal",
-   "규격안": 980,
+   "규격안": 967,
    "매핑누락": [
     {
      "값": "text-sm 96곳",
@@ -55,8 +55,8 @@
    ],
    "미적용": [
     {
-     "값": "text-xs 986곳",
-     "설명": "서비스 API 오픈 화면 138, RAG 화면 124, 데이터 파이프라인 화면 85, 파운데이션 모델 화면 58",
+     "값": "text-xs 968곳",
+     "설명": "서비스 API 오픈 화면 135, RAG 화면 121, 데이터 파이프라인 화면 84, 파운데이션 모델 화면 57",
      "바꿀": "같은 12 라도 이름으로 쓴다. 본문은 text-body, 보조 정보는 text-caption"
     }
    ],
@@ -125,8 +125,8 @@
   {
    "차원": "버튼",
    "규격": "유형 10, 크기 md·sm·xs·icon 넷, 아이콘 버튼 색조 5",
-   "사용": "유형 11개 이름",
-   "규격안": 201,
+   "사용": "유형 12개 이름",
+   "규격안": 270,
    "매핑누락": [],
    "미적용": [
     {
@@ -145,47 +145,37 @@
      "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
     },
     {
-     "값": "app/(agentbase)/permission/components/perm-tree-client.tsx:1660",
+     "값": "app/(agentbase)/permission/components/perm-tree-client.tsx:1665",
      "설명": "Button className 의 text-ab-accent-text",
      "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
     },
     {
-     "값": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:2955",
+     "값": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:2948",
      "설명": "Button className 의 border-ab-accent text-ab-accent-text",
      "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
     },
     {
-     "값": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:2920",
+     "값": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:2914",
      "설명": "Button className 의 h-10",
      "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
     },
     {
-     "값": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:2950",
+     "값": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:2944",
      "설명": "Button className 의 h-10",
      "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
     },
     {
-     "값": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:3141",
+     "값": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:3136",
      "설명": "Button className 의 text-ab-accent-text",
      "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
     },
     {
-     "값": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:4300",
-     "설명": "Button className 의 h-6 px-1 text-ab-accent-text",
-     "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
-    },
-    {
-     "값": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:4303",
-     "설명": "Button className 의 h-6 px-1",
-     "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
-    },
-    {
-     "값": "app/(agentbase)/service/components/redteam-tab.tsx:1391",
+     "값": "app/(agentbase)/service/components/redteam-tab.tsx:1390",
      "설명": "Button className 의 h-10",
      "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
     },
     {
-     "값": "app/(agentbase)/service/components/redteam-tab.tsx:1503",
+     "값": "app/(agentbase)/service/components/redteam-tab.tsx:1502",
      "설명": "Button className 의 h-10",
      "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
     },
@@ -205,7 +195,7 @@
      "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
     },
     {
-     "값": "app/(agentbase)/workflow/[id]/components/props-panel.tsx:1702",
+     "값": "app/(agentbase)/workflow/[id]/components/props-panel.tsx:1671",
      "설명": "Button className 의 border-ab-accent text-ab-accent-text",
      "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
     },
@@ -231,7 +221,7 @@
    "차원": "아이콘",
    "규격": "세트 100개, 크기 xs·sm·md, 색조 7, 꼴 선형·채움",
    "사용": "이름 50개, 크기 xs·sm·md·토큰식·기본",
-   "규격안": 285,
+   "규격안": 280,
    "매핑누락": [],
    "미적용": [],
    "어디서": "컴포넌트 > 아이콘"

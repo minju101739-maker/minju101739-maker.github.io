@@ -1,5 +1,5 @@
 {
- "만든때": "2026-11-13T04:27:19.700Z",
+ "만든때": "2026-11-13T05:33:36.623Z",
  "이름": {
   "chevDown": {
    "수": 26,
@@ -34,14 +34,13 @@
    ]
   },
   "(변수)": {
-   "수": 42,
+   "수": 41,
    "파일": [
     "src/app/(agentbase)/data/drive/components/data-drive-client.tsx",
     "src/app/(agentbase)/data/drive/components/upload-dialog.tsx",
     "src/app/(agentbase)/data/pipeline/components/pipe-ask.tsx",
     "src/app/(agentbase)/data/pipeline/components/pipe-canvas.tsx",
     "src/app/(agentbase)/data/pipeline/components/pipe-rail.tsx",
-    "src/app/(agentbase)/foundation-model/[id]/components/detail-dialogs.tsx",
     "src/app/(agentbase)/home/components/orch-widgets.tsx",
     "src/app/(agentbase)/permission/components/perm-by-job.tsx",
     "src/app/(agentbase)/permission/components/perm-tree-client.tsx",
@@ -139,7 +138,7 @@
    ]
   },
   "close": {
-   "수": 23,
+   "수": 22,
    "파일": [
     "src/app/(agentbase)/data/pipeline/components/expr-fields.tsx",
     "src/app/(agentbase)/data/pipeline/components/pipe-ask.tsx",
@@ -154,7 +153,6 @@
     "src/components/console/change-memo.tsx",
     "src/components/console/orchestrator-panel.tsx",
     "src/components/console/quick-guide.tsx",
-    "src/components/console/tutorial.tsx",
     "src/components/console/upload-run.tsx",
     "src/components/site-header.tsx"
    ]
@@ -214,11 +212,9 @@
    ]
   },
   "chevLeft": {
-   "수": 8,
+   "수": 6,
    "파일": [
     "src/app/(agentbase)/data/pipeline/components/pipe-canvas.tsx",
-    "src/app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx",
-    "src/app/(agentbase)/service/components/redteam-tab.tsx",
     "src/app/(agentbase)/service/components/svc-monitor-sections.tsx",
     "src/components/console/tutorial.tsx",
     "src/design-system/primitives/date-picker.tsx",
@@ -253,10 +249,9 @@
    ]
   },
   "download": {
-   "수": 7,
+   "수": 6,
    "파일": [
     "src/app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx",
-    "src/app/(agentbase)/service/components/redteam-tab.tsx",
     "src/components/app-sidebar.tsx",
     "src/components/console/system-log-modal.tsx",
     "src/components/mobile-nav.tsx",
@@ -471,8 +466,8 @@
   }
  },
  "크기": {
-  "xs": 119,
-  "sm": 148,
+  "xs": 115,
+  "sm": 147,
   "md": 6,
   "토큰식": 7,
   "기본": 5
@@ -493,12 +488,11 @@
     ]
    },
    "(변수)": {
-    "수": 17,
+    "수": 16,
     "파일": [
      "src/app/(agentbase)/data/drive/components/data-drive-client.tsx",
      "src/app/(agentbase)/data/pipeline/components/pipe-canvas.tsx",
      "src/app/(agentbase)/data/pipeline/components/pipe-rail.tsx",
-     "src/app/(agentbase)/foundation-model/[id]/components/detail-dialogs.tsx",
      "src/app/(agentbase)/home/components/orch-widgets.tsx",
      "src/app/(agentbase)/permission/components/perm-by-job.tsx",
      "src/app/(agentbase)/permission/components/perm-tree-client.tsx",
@@ -558,11 +552,9 @@
     ]
    },
    "chevLeft": {
-    "수": 5,
+    "수": 3,
     "파일": [
      "src/app/(agentbase)/data/pipeline/components/pipe-canvas.tsx",
-     "src/app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx",
-     "src/app/(agentbase)/service/components/redteam-tab.tsx",
      "src/app/(agentbase)/service/components/svc-monitor-sections.tsx",
      "src/design-system/primitives/head.tsx"
     ]
@@ -574,10 +566,9 @@
     ]
    },
    "download": {
-    "수": 2,
+    "수": 1,
     "파일": [
-     "src/app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx",
-     "src/app/(agentbase)/service/components/redteam-tab.tsx"
+     "src/app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx"
     ]
    },
    "info": {
@@ -779,14 +770,13 @@
     ]
    },
    "close": {
-    "수": 7,
+    "수": 6,
     "파일": [
      "src/app/(agentbase)/data/pipeline/components/pipe-ask.tsx",
      "src/app/(agentbase)/workflow/[id]/components/props-panel.tsx",
      "src/components/console/alert-panel.tsx",
      "src/components/console/change-memo.tsx",
-     "src/components/console/quick-guide.tsx",
-     "src/components/console/tutorial.tsx"
+     "src/components/console/quick-guide.tsx"
     ]
    },
    "check": {

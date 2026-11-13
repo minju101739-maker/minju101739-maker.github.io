@@ -10,84 +10,84 @@
   {
    "이름": "home",
    "원본유형": "raw",
-   "변환": "변환",
+   "변환": "손 그림",
    "line": "line/home.svg",
    "fill": "fill/home.svg"
   },
   {
    "이름": "drive",
    "원본유형": "raw",
-   "변환": "변환",
+   "변환": "손 그림",
    "line": "line/drive.svg",
    "fill": "fill/drive.svg"
   },
   {
    "이름": "model",
    "원본유형": "raw",
-   "변환": "변환",
+   "변환": "손 그림",
    "line": "line/model.svg",
    "fill": "fill/model.svg"
   },
   {
    "이름": "serving",
    "원본유형": "raw",
-   "변환": "변환",
+   "변환": "손 그림",
    "line": "line/serving.svg",
    "fill": "fill/serving.svg"
   },
   {
    "이름": "rag",
    "원본유형": "raw",
-   "변환": "변환",
+   "변환": "손 그림",
    "line": "line/rag.svg",
    "fill": "fill/rag.svg"
   },
   {
    "이름": "workflow",
    "원본유형": "raw",
-   "변환": "변환",
+   "변환": "손 그림",
    "line": "line/workflow.svg",
    "fill": "fill/workflow.svg"
   },
   {
    "이름": "service",
    "원본유형": "raw",
-   "변환": "변환",
+   "변환": "손 그림",
    "line": "line/service.svg",
    "fill": "fill/service.svg"
   },
   {
    "이름": "link",
-   "원본유형": "fill",
-   "변환": "변환",
+   "원본유형": "line",
+   "변환": "같은 모양",
    "line": "line/link.svg",
    "fill": "fill/link.svg"
   },
   {
    "이름": "folder",
    "원본유형": "fill",
-   "변환": "변환",
+   "변환": "손 그림",
    "line": "line/folder.svg",
    "fill": "fill/folder.svg"
   },
   {
    "이름": "bell",
    "원본유형": "fill",
-   "변환": "변환",
+   "변환": "손 그림",
    "line": "line/bell.svg",
    "fill": "fill/bell.svg"
   },
   {
    "이름": "globe",
-   "원본유형": "fill",
-   "변환": "변환",
+   "원본유형": "line",
+   "변환": "같은 모양",
    "line": "line/globe.svg",
    "fill": "fill/globe.svg"
   },
   {
    "이름": "download",
    "원본유형": "raw",
-   "변환": "변환",
+   "변환": "손 그림",
    "line": "line/download.svg",
    "fill": "fill/download.svg"
   },
@@ -162,13 +162,6 @@
    "fill": "fill/eyeOff.svg"
   },
   {
-   "이름": "infoFill",
-   "원본유형": "fill",
-   "변환": "변환",
-   "line": "line/infoFill.svg",
-   "fill": "fill/infoFill.svg"
-  },
-  {
    "이름": "search",
    "원본유형": "line",
    "변환": "변환",
@@ -178,7 +171,7 @@
   {
    "이름": "star",
    "원본유형": "fill",
-   "변환": "변환",
+   "변환": "손 그림",
    "line": "line/star.svg",
    "fill": "fill/star.svg"
   },
@@ -192,14 +185,14 @@
   {
    "이름": "kebab",
    "원본유형": "raw",
-   "변환": "변환",
+   "변환": "손 그림",
    "line": "line/kebab.svg",
    "fill": "fill/kebab.svg"
   },
   {
    "이름": "sort",
    "원본유형": "fill",
-   "변환": "변환",
+   "변환": "손 그림",
    "line": "line/sort.svg",
    "fill": "fill/sort.svg"
   },
@@ -246,13 +239,6 @@
    "fill": "fill/maximize.svg"
   },
   {
-   "이름": "fitView",
-   "원본유형": "line",
-   "변환": "같은 모양",
-   "line": "line/fitView.svg",
-   "fill": "fill/fitView.svg"
-  },
-  {
    "이름": "check",
    "원본유형": "line",
    "변환": "같은 모양",
@@ -262,7 +248,7 @@
   {
    "이름": "warn",
    "원본유형": "fill",
-   "변환": "변환",
+   "변환": "손 그림",
    "line": "line/warn.svg",
    "fill": "fill/warn.svg"
   },
@@ -282,22 +268,22 @@
   },
   {
    "이름": "upload",
-   "원본유형": "fill",
-   "변환": "변환",
+   "원본유형": "line",
+   "변환": "같은 모양",
    "line": "line/upload.svg",
    "fill": "fill/upload.svg"
   },
   {
    "이름": "play",
    "원본유형": "fill",
-   "변환": "변환",
+   "변환": "손 그림",
    "line": "line/play.svg",
    "fill": "fill/play.svg"
   },
   {
    "이름": "stop",
    "원본유형": "fill",
-   "변환": "변환",
+   "변환": "손 그림",
    "line": "line/stop.svg",
    "fill": "fill/stop.svg"
   },
@@ -311,21 +297,21 @@
   {
    "이름": "lock",
    "원본유형": "fill",
-   "변환": "변환",
+   "변환": "손 그림",
    "line": "line/lock.svg",
    "fill": "fill/lock.svg"
   },
   {
    "이름": "key",
    "원본유형": "fill",
-   "변환": "변환",
+   "변환": "손 그림",
    "line": "line/key.svg",
    "fill": "fill/key.svg"
   },
   {
    "이름": "edit",
    "원본유형": "raw",
-   "변환": "변환",
+   "변환": "손 그림",
    "line": "line/edit.svg",
    "fill": "fill/edit.svg"
   },
@@ -339,42 +325,42 @@
   {
    "이름": "mic",
    "원본유형": "fill",
-   "변환": "변환",
+   "변환": "손 그림",
    "line": "line/mic.svg",
    "fill": "fill/mic.svg"
   },
   {
    "이름": "send",
    "원본유형": "fill",
-   "변환": "변환",
+   "변환": "손 그림",
    "line": "line/send.svg",
    "fill": "fill/send.svg"
   },
   {
    "이름": "refresh",
-   "원본유형": "fill",
-   "변환": "변환",
+   "원본유형": "line",
+   "변환": "같은 모양",
    "line": "line/refresh.svg",
    "fill": "fill/refresh.svg"
   },
   {
    "이름": "recommend",
    "원본유형": "fill",
-   "변환": "변환",
+   "변환": "손 그림",
    "line": "line/recommend.svg",
    "fill": "fill/recommend.svg"
   },
   {
    "이름": "spark",
    "원본유형": "fill",
-   "변환": "변환",
+   "변환": "손 그림",
    "line": "line/spark.svg",
    "fill": "fill/spark.svg"
   },
   {
    "이름": "doc",
    "원본유형": "fill",
-   "변환": "변환",
+   "변환": "손 그림",
    "line": "line/doc.svg",
    "fill": "fill/doc.svg"
   },
@@ -388,7 +374,7 @@
   {
    "이름": "users",
    "원본유형": "fill",
-   "변환": "변환",
+   "변환": "손 그림",
    "line": "line/users.svg",
    "fill": "fill/users.svg"
   },
@@ -407,53 +393,39 @@
    "fill": "fill/bookmark.svg"
   },
   {
-   "이름": "bookmarkFill",
-   "원본유형": "fill",
-   "변환": "변환",
-   "line": "line/bookmarkFill.svg",
-   "fill": "fill/bookmarkFill.svg"
-  },
-  {
    "이름": "file",
    "원본유형": "fill",
-   "변환": "변환",
+   "변환": "손 그림",
    "line": "line/file.svg",
    "fill": "fill/file.svg"
   },
   {
    "이름": "folderSm",
    "원본유형": "fill",
-   "변환": "변환",
+   "변환": "손 그림",
    "line": "line/folderSm.svg",
    "fill": "fill/folderSm.svg"
   },
   {
    "이름": "pipeline",
    "원본유형": "raw",
-   "변환": "변환",
+   "변환": "손 그림",
    "line": "line/pipeline.svg",
    "fill": "fill/pipeline.svg"
   },
   {
    "이름": "dataset",
    "원본유형": "fill",
-   "변환": "변환",
+   "변환": "손 그림",
    "line": "line/dataset.svg",
    "fill": "fill/dataset.svg"
   },
   {
    "이름": "resource",
    "원본유형": "fill",
-   "변환": "변환",
+   "변환": "손 그림",
    "line": "line/resource.svg",
    "fill": "fill/resource.svg"
-  },
-  {
-   "이름": "megaphone",
-   "원본유형": "fill",
-   "변환": "변환",
-   "line": "line/megaphone.svg",
-   "fill": "fill/megaphone.svg"
   },
   {
    "이름": "kb",
@@ -477,34 +449,6 @@
    "fill": "fill/rollback.svg"
   },
   {
-   "이름": "loadIn",
-   "원본유형": "line",
-   "변환": "같은 모양",
-   "line": "line/loadIn.svg",
-   "fill": "fill/loadIn.svg"
-  },
-  {
-   "이름": "dropIn",
-   "원본유형": "line",
-   "변환": "같은 모양",
-   "line": "line/dropIn.svg",
-   "fill": "fill/dropIn.svg"
-  },
-  {
-   "이름": "lockBox",
-   "원본유형": "line",
-   "변환": "변환",
-   "line": "line/lockBox.svg",
-   "fill": "fill/lockBox.svg"
-  },
-  {
-   "이름": "docPanel",
-   "원본유형": "line",
-   "변환": "변환",
-   "line": "line/docPanel.svg",
-   "fill": "fill/docPanel.svg"
-  },
-  {
    "이름": "openNew",
    "원본유형": "line",
    "변환": "같은 모양",
@@ -512,23 +456,16 @@
    "fill": "fill/openNew.svg"
   },
   {
-   "이름": "panelLeft",
+   "이름": "list",
    "원본유형": "line",
    "변환": "같은 모양",
-   "line": "line/panelLeft.svg",
-   "fill": "fill/panelLeft.svg"
-  },
-  {
-   "이름": "list",
-   "원본유형": "fill",
-   "변환": "변환",
    "line": "line/list.svg",
    "fill": "fill/list.svg"
   },
   {
    "이름": "grid",
    "원본유형": "fill",
-   "변환": "변환",
+   "변환": "손 그림",
    "line": "line/grid.svg",
    "fill": "fill/grid.svg"
   },
@@ -591,37 +528,16 @@
   {
    "이름": "sendPlane",
    "원본유형": "fill",
-   "변환": "변환",
+   "변환": "손 그림",
    "line": "line/sendPlane.svg",
    "fill": "fill/sendPlane.svg"
   },
   {
    "이름": "person",
    "원본유형": "raw",
-   "변환": "변환",
+   "변환": "손 그림",
    "line": "line/person.svg",
    "fill": "fill/person.svg"
-  },
-  {
-   "이름": "imageToText",
-   "원본유형": "line",
-   "변환": "같은 모양",
-   "line": "line/imageToText.svg",
-   "fill": "fill/imageToText.svg"
-  },
-  {
-   "이름": "memo",
-   "원본유형": "line",
-   "변환": "변환",
-   "line": "line/memo.svg",
-   "fill": "fill/memo.svg"
-  },
-  {
-   "이름": "menuBook",
-   "원본유형": "raw",
-   "변환": "변환",
-   "line": "line/menuBook.svg",
-   "fill": "fill/menuBook.svg"
   },
   {
    "이름": "precaution",
@@ -640,7 +556,7 @@
   {
    "이름": "ragSimple",
    "원본유형": "raw",
-   "변환": "변환",
+   "변환": "손 그림",
    "line": "line/ragSimple.svg",
    "fill": "fill/ragSimple.svg"
   },
@@ -668,84 +584,63 @@
   {
    "이름": "server",
    "원본유형": "fill",
-   "변환": "변환",
+   "변환": "손 그림",
    "line": "line/server.svg",
    "fill": "fill/server.svg"
   },
   {
    "이름": "sliders",
-   "원본유형": "fill",
-   "변환": "변환",
+   "원본유형": "line",
+   "변환": "같은 모양",
    "line": "line/sliders.svg",
    "fill": "fill/sliders.svg"
   },
   {
    "이름": "navReport",
    "원본유형": "fill",
-   "변환": "변환",
+   "변환": "손 그림",
    "line": "line/navReport.svg",
    "fill": "fill/navReport.svg"
   },
   {
    "이름": "navTool",
    "원본유형": "fill",
-   "변환": "변환",
+   "변환": "손 그림",
    "line": "line/navTool.svg",
    "fill": "fill/navTool.svg"
   },
   {
    "이름": "navSettings",
    "원본유형": "fill",
-   "변환": "변환",
+   "변환": "손 그림",
    "line": "line/navSettings.svg",
    "fill": "fill/navSettings.svg"
   },
   {
    "이름": "navHistory",
    "원본유형": "fill",
-   "변환": "변환",
+   "변환": "손 그림",
    "line": "line/navHistory.svg",
    "fill": "fill/navHistory.svg"
   },
   {
-   "이름": "llmAgent",
-   "원본유형": "fill",
-   "변환": "변환",
-   "line": "line/llmAgent.svg",
-   "fill": "fill/llmAgent.svg"
-  },
-  {
-   "이름": "visibility",
-   "원본유형": "fill",
-   "변환": "변환",
-   "line": "line/visibility.svg",
-   "fill": "fill/visibility.svg"
-  },
-  {
    "이름": "linkVar",
-   "원본유형": "fill",
-   "변환": "변환",
+   "원본유형": "line",
+   "변환": "같은 모양",
    "line": "line/linkVar.svg",
    "fill": "fill/linkVar.svg"
   },
   {
    "이름": "arrowLineRight",
-   "원본유형": "fill",
-   "변환": "변환",
+   "원본유형": "line",
+   "변환": "같은 모양",
    "line": "line/arrowLineRight.svg",
    "fill": "fill/arrowLineRight.svg"
   },
   {
-   "이름": "checkLine",
-   "원본유형": "fill",
-   "변환": "변환",
-   "line": "line/checkLine.svg",
-   "fill": "fill/checkLine.svg"
-  },
-  {
    "이름": "warningFill",
    "원본유형": "fill",
-   "변환": "변환",
+   "변환": "손 그림",
    "line": "line/warningFill.svg",
    "fill": "fill/warningFill.svg"
   },
@@ -792,13 +687,6 @@
    "fill": "fill/calendar.svg"
   },
   {
-   "이름": "arrowUp",
-   "원본유형": "line",
-   "변환": "같은 모양",
-   "line": "line/arrowUp.svg",
-   "fill": "fill/arrowUp.svg"
-  },
-  {
    "이름": "arrowLeft",
    "원본유형": "line",
    "변환": "같은 모양",
@@ -815,7 +703,7 @@
   {
    "이름": "shieldCheck",
    "원본유형": "fill",
-   "변환": "변환",
+   "변환": "손 그림",
    "line": "line/shieldCheck.svg",
    "fill": "fill/shieldCheck.svg"
   }
