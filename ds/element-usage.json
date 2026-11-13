@@ -1,5 +1,5 @@
 {
- "만든때": "2026-11-13T00:21:11.126Z",
+ "만든때": "2026-11-13T00:53:19.373Z",
  "요소": {
   "Button": {
    "부품": "Button",
@@ -1332,7 +1332,7 @@
     "src/app/(agentbase)/personal/components/personal-asset-modal.tsx": 1,
     "src/app/(agentbase)/personal/components/personal-assets-client.tsx": 4,
     "src/app/(agentbase)/rag/[id]/components/rag-detail.tsx": 1,
-    "src/app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx": 18,
+    "src/app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx": 17,
     "src/app/(agentbase)/service/components/redteam-tab.tsx": 13,
     "src/app/(agentbase)/service/components/service-compare-tab.tsx": 1,
     "src/app/(agentbase)/service/components/service-page.tsx": 1,
@@ -1366,12 +1366,11 @@
     "src/components/console/worker-controls.tsx": 1,
     "src/components/perm-draft/parts.tsx": 3
    },
-   "코드합": 135,
+   "코드합": 134,
    "값": {
     "size": {
      "field": 43,
-     "filter": 49,
-     "bare": 1
+     "filter": 49
     }
    }
   },

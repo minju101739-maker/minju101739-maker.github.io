@@ -1,5 +1,5 @@
 {
- "만든때": "2026-11-13T00:21:11.126Z",
+ "만든때": "2026-11-13T00:53:19.373Z",
  "수": 273,
  "유형수": {
   "success": 202,
@@ -776,84 +776,84 @@
    "제목": "평가 결과를 저장했습니다.",
    "설명": null,
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:2120"
+   "파일": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:2129"
   },
   {
    "유형": "info",
    "제목": "결과의 설정을 평가 설정에 불러왔습니다.",
    "설명": null,
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:2147"
+   "파일": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:2156"
   },
   {
    "유형": "info",
    "제목": "설정을 기본값으로 되돌렸습니다.",
    "설명": null,
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:2168"
+   "파일": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:2177"
   },
   {
    "유형": "success",
    "제목": "평가를 마쳤습니다.",
    "설명": "{값} v{값}, 문항 {값}개. [저장]으로 이름을 붙여 결과를 저장하세요.",
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:2334"
+   "파일": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:2343"
   },
   {
    "유형": "success",
    "제목": "평가셋 자동 검증을 마쳤습니다.",
    "설명": "결과를 확인하고 [평가셋 저장]을 선택합니다.",
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:2343"
+   "파일": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:2352"
   },
   {
    "유형": "info",
    "제목": "파일을 평가셋으로 저장했습니다.",
    "설명": "데이터 관리의 {값} evaluations 폴더, {값}",
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:2377"
+   "파일": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:2386"
   },
   {
    "유형": "success",
    "제목": "평가셋을 저장했습니다.",
    "설명": "데이터 관리 {값}{값}.jsonl",
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:2457"
+   "파일": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:2466"
   },
   {
    "유형": "info",
    "제목": "(식)",
    "설명": null,
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:2760"
+   "파일": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:2769"
   },
   {
    "유형": "info",
    "제목": "같은 계열의 채점 모델은 하나만 선택합니다. 최대 3개까지 선택합니다.",
    "설명": null,
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:3363"
+   "파일": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:3384"
   },
   {
    "유형": "success",
    "제목": "평가 결과를 수정했습니다.",
    "설명": null,
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:4818"
+   "파일": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:4866"
   },
   {
    "유형": "success",
    "제목": "평가 결과를 삭제했습니다.",
    "설명": null,
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:4838"
+   "파일": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:4886"
   },
   {
    "유형": "success",
    "제목": "기준 답변을 저장했습니다.",
    "설명": "이 문항의 기준 답변이 필요한 지표를 다시 측정합니다.",
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:4944"
+   "파일": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:4992"
   },
   {
    "유형": "info",
@@ -944,133 +944,133 @@
    "제목": "평가 설정을 기본값으로 되돌렸습니다.",
    "설명": null,
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:654"
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:763"
   },
   {
    "유형": "warning",
    "제목": "{값}님이 편집 중입니다.",
    "설명": "편집이 끝난 뒤에 실행할 수 있습니다.",
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:691"
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:800"
   },
   {
    "유형": "success",
    "제목": "보안 평가셋을 저장했습니다.",
    "설명": "{값}(문장 {값}개)을 데이터 관리 {값}에 저장했습니다. 자동 검증은 거치지 않았습니다.",
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:745"
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:854"
   },
   {
    "유형": "success",
    "제목": "보안 평가셋을 저장했습니다.",
    "설명": "{값}(공격 성공 문장 {값}개)을 데이터 관리 {값}에 저장했습니다. 평가셋 생성 탭의 목록에서 볼 수 있습니다.",
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:767"
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:876"
   },
   {
    "유형": "success",
    "제목": "평가 결과를 수정했습니다.",
    "설명": "{값}의 이름과 설명을 저장했습니다.",
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:921"
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1034"
   },
   {
    "유형": "success",
    "제목": "평가 결과를 삭제했습니다.",
    "설명": "{값}을 삭제했습니다.",
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:928"
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1041"
   },
   {
    "유형": "success",
    "제목": "평가 결과를 저장했습니다.",
    "설명": "{값}으로 저장했습니다.",
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:935"
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1048"
   },
   {
    "유형": "success",
    "제목": "보안 평가셋을 저장했습니다.",
    "설명": "{값}(문장 {값}개)을 데이터 관리 {값}에 저장했습니다. [평가하기]로 평가에서 선택할 수 있습니다.",
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1073"
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1186"
   },
   {
    "유형": "success",
    "제목": "보안 평가를 마쳤습니다.",
    "설명": "공격 {값}건의 결과가 나왔습니다. [저장]에서 이름을 입력해 저장하세요.",
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1090"
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1203"
   },
   {
    "유형": "success",
    "제목": "결과의 설정을 평가 설정에 불러왔습니다.",
    "설명": "사용자 문장은 지금 저장된 문장을 사용합니다.",
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1542"
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1687"
   },
   {
    "유형": "info",
    "제목": "보안 평가를 중지했습니다.",
    "설명": "중지 시점까지의 결과를 저장하려면 [저장]을 선택하세요.",
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1556"
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1701"
   },
   {
    "유형": "success",
    "제목": "보안 평가셋을 보안 평가에 선택했습니다.",
    "설명": null,
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1583"
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1728"
   },
   {
    "유형": "success",
    "제목": "사용자 문장 {값}개를 추가했습니다.",
    "설명": "{값} 유형을 선택한 보안 평가셋에 기본 문장과 함께 담깁니다.",
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1809"
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1954"
   },
   {
    "유형": "success",
    "제목": "사용자 문장 {값}개를 추가했습니다.",
    "설명": "{값}에서 추가했습니다.{값}",
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1824"
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1969"
   },
   {
    "유형": "success",
    "제목": "양식 파일을 다운로드했습니다.",
    "설명": null,
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1901"
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:2046"
   },
   {
    "유형": "success",
    "제목": "사용자 문장을 엑셀 파일로 다운로드했습니다.",
    "설명": "양식과 같은 시트 구성이라 수정한 뒤 다시 업로드할 수 있습니다.",
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1990"
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:2135"
   },
   {
    "유형": "success",
    "제목": "사용자 문장을 삭제했습니다.",
    "설명": "이미 실행한 결과의 설정에는 그대로 남습니다.",
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:2031"
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:2176"
   },
   {
    "유형": "success",
    "제목": "보안 평가셋을 삭제했습니다.",
    "설명": null,
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:2523"
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:2679"
   },
   {
    "유형": "success",
    "제목": "기본 문장을 엑셀 파일로 다운로드했습니다.",
    "설명": "사용자 문장 양식과 같은 시트 구성입니다.",
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:2953"
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:3110"
   },
   {
    "유형": "success",
