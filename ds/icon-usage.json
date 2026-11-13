@@ -1,5 +1,5 @@
 {
- "만든때": "2026-11-13T02:03:59.740Z",
+ "만든때": "2026-11-13T02:52:34.058Z",
  "이름": {
   "chevDown": {
    "수": 26,
@@ -124,7 +124,7 @@
    ]
   },
   "plus": {
-   "수": 14,
+   "수": 13,
    "파일": [
     "src/app/(agentbase)/data/pipeline/components/expr-fields.tsx",
     "src/app/(agentbase)/data/pipeline/components/pipe-rail.tsx",
@@ -135,7 +135,6 @@
     "src/app/(agentbase)/workflow/[id]/components/test-tab.tsx",
     "src/app/(agentbase)/workflow/[id]/components/workflow-editor.tsx",
     "src/components/console/folder-tree-picker.tsx",
-    "src/components/console/worker-controls.tsx",
     "src/design-system/primitives/surface.tsx"
    ]
   },
@@ -461,7 +460,7 @@
  },
  "크기": {
   "xs": 119,
-  "sm": 147,
+  "sm": 146,
   "md": 6,
   "토큰식": 7,
   "기본": 5
@@ -793,7 +792,7 @@
     ]
    },
    "plus": {
-    "수": 8,
+    "수": 7,
     "파일": [
      "src/app/(agentbase)/data/pipeline/components/pipe-rail.tsx",
      "src/app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx",
@@ -801,8 +800,7 @@
      "src/app/(agentbase)/rag/[id]/components/rag-visualization.tsx",
      "src/app/(agentbase)/service/components/workflow-open-pane.tsx",
      "src/app/(agentbase)/workflow/[id]/components/test-tab.tsx",
-     "src/app/(agentbase)/workflow/[id]/components/workflow-editor.tsx",
-     "src/components/console/worker-controls.tsx"
+     "src/app/(agentbase)/workflow/[id]/components/workflow-editor.tsx"
     ]
    },
    "search": {

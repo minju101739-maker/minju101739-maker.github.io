@@ -1,5 +1,5 @@
 {
- "만든때": "2026-11-13T02:03:59.740Z",
+ "만든때": "2026-11-13T02:52:34.058Z",
  "수": 273,
  "유형수": {
   "success": 202,
@@ -447,112 +447,112 @@
    "제목": "(식)",
    "설명": null,
    "자리": "파운데이션 모델",
-   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:633"
+   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:654"
   },
   {
    "유형": "success",
    "제목": "'{값}' 커밋으로 롤백했습니다.",
    "설명": null,
    "자리": "파운데이션 모델",
-   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:770"
+   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:780"
   },
   {
    "유형": "error",
    "제목": "산출물을 확인할 수 없습니다.",
    "설명": "학습 기록이 삭제되어 무엇이 남았는지 서버가 제공하지 못합니다. 저장소에서 산출물을 확인하거나 다시 학습하세요.",
    "자리": "파운데이션 모델",
-   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:865"
+   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:875"
   },
   {
    "유형": "success",
    "제목": "학습 데이터셋을 {값} 변경했습니다.",
    "설명": "다음 학습부터 반영됩니다. 지난 학습 회차는 그때 쓴 버전 그대로입니다.",
    "자리": "파운데이션 모델",
-   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:1154"
+   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:1164"
   },
   {
    "유형": "success",
    "제목": "예시 파일을 다운로드했습니다.",
    "설명": null,
    "자리": "파운데이션 모델",
-   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:1254"
+   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:1264"
   },
   {
    "유형": "error",
    "제목": "config 파일을 읽을 수 없습니다.",
    "설명": null,
    "자리": "파운데이션 모델",
-   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:1306"
+   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:1316"
   },
   {
    "유형": "success",
    "제목": "config 파일을 업로드했습니다.",
    "설명": "파라미터 {값}개에 파일 값을 적용합니다. [저장]하면 학습 설정에 반영됩니다.",
    "자리": "파운데이션 모델",
-   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:1310"
+   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:1320"
   },
   {
    "유형": "success",
    "제목": "학습 설정을 저장했습니다.",
    "설명": null,
    "자리": "파운데이션 모델",
-   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:1434"
+   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:1444"
   },
   {
    "유형": "success",
    "제목": "모델을 삭제했습니다.",
    "설명": null,
    "자리": "파운데이션 모델",
-   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:1807"
+   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:1817"
   },
   {
    "유형": "success",
    "제목": "(식)",
    "설명": null,
    "자리": "파운데이션 모델",
-   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:1860"
+   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:1870"
   },
   {
    "유형": "success",
    "제목": "학습 실행을 취소했습니다.",
    "설명": null,
    "자리": "파운데이션 모델",
-   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:1875"
+   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:1885"
   },
   {
    "유형": "success",
    "제목": "학습을 중지했습니다.",
    "설명": null,
    "자리": "파운데이션 모델",
-   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:1916"
+   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:1926"
   },
   {
    "유형": "success",
    "제목": "커밋 {값}건을 삭제했습니다.",
    "설명": null,
    "자리": "파운데이션 모델",
-   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:1960"
+   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:1970"
   },
   {
    "유형": "success",
    "제목": "커밋을 생성했습니다.",
    "설명": "현재 설정이 '{값}' 커밋이 되었습니다.",
    "자리": "파운데이션 모델",
-   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:2017"
+   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:2027"
   },
   {
    "유형": "success",
    "제목": "학습 설정을 저장했습니다.",
    "설명": null,
    "자리": "파운데이션 모델",
-   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:2081"
+   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:2091"
   },
   {
    "유형": "success",
    "제목": "커밋을 수정했습니다.",
    "설명": null,
    "자리": "파운데이션 모델",
-   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:2114"
+   "파일": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:2124"
   },
   {
    "유형": "success",
@@ -1868,14 +1868,14 @@
    "제목": "워커를 추가했습니다. 레플리카마다 워커 {값}개를 실행합니다.",
    "설명": null,
    "자리": "공통(worker-controls)",
-   "파일": "components/console/worker-controls.tsx:173"
+   "파일": "components/console/worker-controls.tsx:176"
   },
   {
    "유형": "success",
    "제목": "워커 설정을 저장했습니다.",
    "설명": null,
    "자리": "공통(worker-controls)",
-   "파일": "components/console/worker-controls.tsx:192"
+   "파일": "components/console/worker-controls.tsx:195"
   },
   {
    "유형": "info",

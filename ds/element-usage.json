@@ -1,5 +1,5 @@
 {
- "만든때": "2026-11-13T02:03:59.740Z",
+ "만든때": "2026-11-13T02:52:34.058Z",
  "요소": {
   "Button": {
    "부품": "Button",
@@ -413,6 +413,7 @@
     "src/app/(agentbase)/data/drive/components/file-detail-modal.tsx": 4,
     "src/app/(agentbase)/data/drive/loading.tsx": 1,
     "src/app/(agentbase)/data/pipeline/components/pipe-ask.tsx": 3,
+    "src/app/(agentbase)/data/pipeline/components/pipe-canvas.tsx": 1,
     "src/app/(agentbase)/data/pipeline/components/pipe-dock.tsx": 3,
     "src/app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx": 15,
     "src/app/(agentbase)/data/pipeline/components/pipeline-tabs.tsx": 4,
@@ -456,6 +457,7 @@
     "src/app/(agentbase)/tool/[id]/components/tool-detail.tsx": 3,
     "src/app/(agentbase)/tool/components/create-tool-dialog.tsx": 3,
     "src/app/(agentbase)/tool/components/tools-client.tsx": 1,
+    "src/app/(agentbase)/workflow/[id]/components/canvas.tsx": 1,
     "src/app/(agentbase)/workflow/[id]/components/node-panels.tsx": 2,
     "src/app/(agentbase)/workflow/[id]/components/prompt-field.tsx": 2,
     "src/app/(agentbase)/workflow/[id]/components/props-panel.tsx": 2,
@@ -485,31 +487,32 @@
     "src/components/console/request-review-button.tsx": 1,
     "src/components/console/status-reason.tsx": 3,
     "src/components/console/system-log-modal.tsx": 1,
-    "src/components/console/tutorial.tsx": 3,
+    "src/components/console/tutorial.tsx": 4,
     "src/components/console/upload-run.tsx": 1,
     "src/components/console/usage-monitor.tsx": 2,
+    "src/components/console/worker-controls.tsx": 1,
     "src/components/perm-draft/parts.tsx": 10,
-    "src/components/site-header.tsx": 1,
+    "src/components/site-header.tsx": 4,
     "src/components/ui/button.tsx": 1
    },
-   "코드합": 275,
+   "코드합": 282,
    "값": {
     "variant": {
      "식": 11,
      "secondary": 15,
      "danger": 13,
      "accent-outline": 6,
-     "quiet": 55,
-     "ghost": 20,
+     "quiet": 57,
+     "ghost": 21,
      "outline": 55,
      "destructive": 6,
      "danger-outline": 16,
      "tonal": 2,
      "primary": 7,
-     "on-dark": 2
+     "on-dark": 6
     },
     "size": {
-     "sm": 109,
+     "sm": 116,
      "md": 1,
      "icon": 4,
      "식": 1
