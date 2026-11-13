@@ -1,5 +1,5 @@
 {
- "만든때": "2026-11-13T01:04:04.377Z",
+ "만든때": "2026-11-13T02:03:59.740Z",
  "요소": {
   "Button": {
    "부품": "Button",
@@ -431,7 +431,7 @@
     "src/app/(agentbase)/personal/components/personal-asset-modal.tsx": 1,
     "src/app/(agentbase)/rag/[id]/components/eval-file-pick.tsx": 1,
     "src/app/(agentbase)/rag/[id]/components/rag-detail.tsx": 14,
-    "src/app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx": 17,
+    "src/app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx": 16,
     "src/app/(agentbase)/rag/[id]/components/rag-visualization.tsx": 4,
     "src/app/(agentbase)/rag/components/rags-client.tsx": 1,
     "src/app/(agentbase)/report/components/report-client.tsx": 3,
@@ -469,6 +469,7 @@
     "src/components/console/access-tab.tsx": 2,
     "src/components/console/alert-panel.tsx": 4,
     "src/components/console/approval-request.tsx": 1,
+    "src/components/console/briefing-switch.tsx": 1,
     "src/components/console/chat-composer.tsx": 2,
     "src/components/console/custom-endpoint-modal.tsx": 1,
     "src/components/console/deploy-action.tsx": 1,
@@ -477,6 +478,7 @@
     "src/components/console/list-skeleton.tsx": 1,
     "src/components/console/list-states.tsx": 1,
     "src/components/console/open-request.tsx": 1,
+    "src/components/console/orchestrator-panel.tsx": 1,
     "src/components/console/owner-actions.tsx": 2,
     "src/components/console/permission-axis.tsx": 8,
     "src/components/console/quick-guide.tsx": 7,
@@ -487,9 +489,10 @@
     "src/components/console/upload-run.tsx": 1,
     "src/components/console/usage-monitor.tsx": 2,
     "src/components/perm-draft/parts.tsx": 10,
+    "src/components/site-header.tsx": 1,
     "src/components/ui/button.tsx": 1
    },
-   "코드합": 273,
+   "코드합": 275,
    "값": {
     "variant": {
      "식": 11,
@@ -498,16 +501,18 @@
      "accent-outline": 6,
      "quiet": 55,
      "ghost": 20,
-     "outline": 56,
+     "outline": 55,
      "destructive": 6,
      "danger-outline": 16,
      "tonal": 2,
-     "primary": 6
+     "primary": 7,
+     "on-dark": 2
     },
     "size": {
      "sm": 109,
      "md": 1,
-     "icon": 3
+     "icon": 4,
+     "식": 1
     }
    }
   },
@@ -1333,7 +1338,7 @@
     "src/app/(agentbase)/personal/components/personal-assets-client.tsx": 4,
     "src/app/(agentbase)/rag/[id]/components/rag-detail.tsx": 1,
     "src/app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx": 17,
-    "src/app/(agentbase)/service/components/redteam-tab.tsx": 13,
+    "src/app/(agentbase)/service/components/redteam-tab.tsx": 12,
     "src/app/(agentbase)/service/components/service-compare-tab.tsx": 1,
     "src/app/(agentbase)/service/components/service-page.tsx": 1,
     "src/app/(agentbase)/service/components/svc-open-sections.tsx": 1,
@@ -1366,7 +1371,7 @@
     "src/components/console/worker-controls.tsx": 1,
     "src/components/perm-draft/parts.tsx": 3
    },
-   "코드합": 134,
+   "코드합": 133,
    "값": {
     "size": {
      "field": 43,
@@ -2369,9 +2374,9 @@
     "src/app/(agentbase)/permission/components/permission-client.tsx": 2,
     "src/app/(agentbase)/personal/components/personal-assets-client.tsx": 2,
     "src/app/(agentbase)/rag/[id]/components/rag-detail.tsx": 2,
-    "src/app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx": 11,
+    "src/app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx": 15,
     "src/app/(agentbase)/service/components/admin-tab.tsx": 5,
-    "src/app/(agentbase)/service/components/redteam-tab.tsx": 9,
+    "src/app/(agentbase)/service/components/redteam-tab.tsx": 10,
     "src/app/(agentbase)/service/components/service-analysis-tab.tsx": 2,
     "src/app/(agentbase)/service/components/svc-flow.tsx": 2,
     "src/app/(agentbase)/service/components/svc-monitor-sections.tsx": 2,
@@ -2394,7 +2399,7 @@
     "src/components/console/run-schedule.tsx": 1,
     "src/components/site-header.tsx": 1
    },
-   "코드합": 107,
+   "코드합": 112,
    "값": {}
   },
   "Recommend Tag": {

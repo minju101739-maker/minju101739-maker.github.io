@@ -1,5 +1,5 @@
 {
- "만든때": "2026-11-13T01:04:04.377Z",
+ "만든때": "2026-11-13T02:03:59.740Z",
  "요약": {
   "열 숨김": 2,
   "빈 결과 문구": 1,
@@ -8,51 +8,51 @@
  "분류": {
   "열 숨김": [
    {
-    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:1162",
+    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:1160",
     "지금": "...(유형접기 ? …)",
     "바꿀": "열을 숨기지 않는다. 조건을 걷고 열을 늘 두며, 표가 판 안에서 가로로 스크롤되게 한다(DataTable 은 적어 둔 폭 밑으로 줄지 않는다)"
    },
    {
-    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:1470",
+    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:1468",
     "지금": "columns={접기 ? […] : […]}",
     "바꿀": "폭에 따라 열 배열을 바꾸지 않는다. 펼친 열 하나로 두고 표가 판 안에서 가로로 스크롤되게 한다"
    }
   ],
   "빈 결과 문구": [
    {
-    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:2034",
+    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:2032",
     "지금": "조건에 맞는 승인 기록이 없습니다.",
     "바꿀": "「조건에 맞는 항목이 없습니다.」"
    }
   ],
   "두 줄 합친 칸": [
    {
-    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:1154",
+    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:1152",
     "지금": "열 perm-name 의 칸이 두 줄",
     "바꿀": "두 값을 열로 나누거나, 보조 값을 같은 줄에 흐린 글자로 붙이거나, 말풍선으로 옮긴다"
    },
    {
-    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:1203",
+    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:1201",
     "지금": "열 perm-limit 의 칸이 두 줄",
     "바꿀": "두 값을 열로 나누거나, 보조 값을 같은 줄에 흐린 글자로 붙이거나, 말풍선으로 옮긴다"
    },
    {
-    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:1473",
+    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:1471",
     "지금": "열 perm-user-name 의 칸이 두 줄",
     "바꿀": "두 값을 열로 나누거나, 보조 값을 같은 줄에 흐린 글자로 붙이거나, 말풍선으로 옮긴다"
    },
    {
-    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:2037",
+    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:2035",
     "지금": "열 perm-g-at 의 칸이 두 줄",
     "바꿀": "두 값을 열로 나누거나, 보조 값을 같은 줄에 흐린 글자로 붙이거나, 말풍선으로 옮긴다"
    },
    {
-    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:2045",
+    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:2043",
     "지금": "열 perm-g-item 의 칸이 두 줄",
     "바꿀": "두 값을 열로 나누거나, 보조 값을 같은 줄에 흐린 글자로 붙이거나, 말풍선으로 옮긴다"
    },
    {
-    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:2071",
+    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:2069",
     "지금": "열 perm-g-state 의 칸이 두 줄",
     "바꿀": "두 값을 열로 나누거나, 보조 값을 같은 줄에 흐린 글자로 붙이거나, 말풍선으로 옮긴다"
    }
