@@ -1,5 +1,5 @@
 {
- "만든때": "2026-11-14T08:43:29.409Z",
+ "만든때": "2026-11-14T14:40:14.000Z",
  "수": 274,
  "유형수": {
   "success": 200,
@@ -615,42 +615,42 @@
    "제목": "저장하지 않은 변경 {값}건은 반영하지 않았습니다.",
    "설명": "권한 설정 화면을 벗어나 편집을 종료했습니다.",
    "자리": "권한 설정",
-   "파일": "app/(agentbase)/permission/components/perm-tree-client.tsx:478"
+   "파일": "app/(agentbase)/permission/components/perm-tree-client.tsx:493"
   },
   {
    "유형": "success",
    "제목": "권한을 저장했습니다.",
    "설명": "변경 {값}건을 서비스 사용자에게 적용하고 작업 이력에 기록했습니다.",
    "자리": "권한 설정",
-   "파일": "app/(agentbase)/permission/components/perm-tree-client.tsx:518"
+   "파일": "app/(agentbase)/permission/components/perm-tree-client.tsx:533"
   },
   {
    "유형": "success",
    "제목": "권한 유형 단계를 변경했습니다.",
    "설명": "권한을 새 단계로 펼쳤습니다.",
    "자리": "권한 설정",
-   "파일": "app/(agentbase)/permission/components/perm-tree-client.tsx:1716"
+   "파일": "app/(agentbase)/permission/components/perm-tree-client.tsx:1731"
   },
   {
    "유형": "success",
    "제목": "권한 유형 단계를 변경했습니다.",
    "설명": "지정 값 {값}개를 삭제했습니다.",
    "자리": "권한 설정",
-   "파일": "app/(agentbase)/permission/components/perm-tree-client.tsx:1848"
+   "파일": "app/(agentbase)/permission/components/perm-tree-client.tsx:1863"
   },
   {
    "유형": "success",
    "제목": "권한 유형을 삭제했습니다.",
    "설명": null,
    "자리": "권한 설정",
-   "파일": "app/(agentbase)/permission/components/perm-tree-client.tsx:1877"
+   "파일": "app/(agentbase)/permission/components/perm-tree-client.tsx:1892"
   },
   {
    "유형": "success",
    "제목": "(식)",
    "설명": null,
    "자리": "권한 설정",
-   "파일": "app/(agentbase)/permission/components/perm-tree-client.tsx:1938"
+   "파일": "app/(agentbase)/permission/components/perm-tree-client.tsx:1953"
   },
   {
    "유형": "success",
@@ -1084,35 +1084,35 @@
    "제목": "{값} 요청했습니다.",
    "설명": "승인 결과는 알림으로 전달합니다.",
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/service-page.tsx:142"
+   "파일": "app/(agentbase)/service/components/service-page.tsx:155"
   },
   {
    "유형": "success",
    "제목": "서비스 API 오픈을 중지했습니다.",
    "설명": "다시 오픈하면 저장된 오픈 설정으로 엽니다.",
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/service-page.tsx:373"
+   "파일": "app/(agentbase)/service/components/service-page.tsx:377"
   },
   {
    "유형": "success",
    "제목": "사이트 주소를 복사했습니다.",
    "설명": null,
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/service-page.tsx:403"
+   "파일": "app/(agentbase)/service/components/service-page.tsx:407"
   },
   {
    "유형": "success",
    "제목": "서비스 API를 오픈했습니다.",
    "설명": "워크플로우 목록에서 오픈한 워크플로우를 API로 호출할 수 있습니다.",
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/service-page.tsx:565"
+   "파일": "app/(agentbase)/service/components/service-page.tsx:569"
   },
   {
    "유형": "success",
    "제목": "서비스 설정을 저장했습니다.",
    "설명": null,
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/service-page.tsx:661"
+   "파일": "app/(agentbase)/service/components/service-page.tsx:665"
   },
   {
    "유형": "success",
@@ -1210,21 +1210,21 @@
    "제목": "배포했습니다.",
    "설명": "{값} 접속을 확인했습니다.",
    "자리": "모델 배포",
-   "파일": "app/(agentbase)/serving/[id]/components/serving-detail.tsx:319"
+   "파일": "app/(agentbase)/serving/[id]/components/serving-detail.tsx:324"
   },
   {
    "유형": "success",
    "제목": "(식)",
    "설명": null,
    "자리": "모델 배포",
-   "파일": "app/(agentbase)/serving/[id]/components/serving-detail.tsx:327"
+   "파일": "app/(agentbase)/serving/[id]/components/serving-detail.tsx:332"
   },
   {
    "유형": "success",
    "제목": "모델 배포를 삭제했습니다.",
    "설명": null,
    "자리": "모델 배포",
-   "파일": "app/(agentbase)/serving/[id]/components/serving-detail.tsx:452"
+   "파일": "app/(agentbase)/serving/[id]/components/serving-detail.tsx:457"
   },
   {
    "유형": "success",
@@ -1294,7 +1294,7 @@
    "제목": "운영 설정을 저장했습니다.",
    "설명": null,
    "자리": "관리 설정",
-   "파일": "app/(agentbase)/settings/components/settings-client.tsx:228"
+   "파일": "app/(agentbase)/settings/components/settings-client.tsx:207"
   },
   {
    "유형": "success",

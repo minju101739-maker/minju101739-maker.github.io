@@ -1,5 +1,5 @@
 {
- "만든때": "2026-11-14T08:49:13.004Z",
+ "만든때": "2026-11-14T14:40:14.000Z",
  "줄들": [
   {
    "차원": "색",
@@ -45,7 +45,7 @@
    "차원": "텍스트",
    "규격": "크기 8개(caption, sm, body, modal, lead, title-sm, title-md, title-lg), 굵기 400·500·600",
    "사용": "크기 9개, 굵기 semibold·medium·normal",
-   "규격안": 952,
+   "규격안": 951,
    "매핑누락": [
     {
      "값": "text-sm 96곳",
@@ -55,7 +55,7 @@
    ],
    "미적용": [
     {
-     "값": "text-xs 953곳",
+     "값": "text-xs 952곳",
      "설명": "서비스 API 오픈 화면 123, RAG 화면 121, 데이터 파이프라인 화면 84, 파운데이션 모델 화면 57",
      "바꿀": "같은 12 라도 이름으로 쓴다. 본문은 text-body, 보조 정보는 text-caption"
     }
@@ -66,7 +66,7 @@
    "차원": "모서리",
    "규격": "반경 7개(sm 4, md 6, lg 10, input 8, pill 999, svcCard 12, svcPane 16)",
    "사용": "9종",
-   "규격안": 864,
+   "규격안": 861,
    "매핑누락": [],
    "미적용": [
     {
@@ -156,7 +156,7 @@
      "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
     },
     {
-     "값": "app/(agentbase)/permission/components/perm-tree-client.tsx:1665",
+     "값": "app/(agentbase)/permission/components/perm-tree-client.tsx:1680",
      "설명": "Button className 의 text-ab-accent-text",
      "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
     },
