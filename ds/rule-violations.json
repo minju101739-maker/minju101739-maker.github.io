@@ -1,5 +1,5 @@
 {
- "만든때": "2026-11-14T14:40:14.000Z",
+ "만든때": "2026-11-14T15:21:11.898Z",
  "요약": {
   "열 숨김": 2,
   "빈 결과 문구": 1,
@@ -88,7 +88,7 @@
     "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
    },
    {
-    "위치": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:2951",
+    "위치": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:2950",
     "지금": "Button className 의 border-ab-accent text-ab-accent-text",
     "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
    },

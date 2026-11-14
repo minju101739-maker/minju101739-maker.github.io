@@ -1,5 +1,5 @@
 {
- "만든때": "2026-11-14T14:40:14.000Z",
+ "만든때": "2026-11-14T15:21:11.898Z",
  "수": 274,
  "유형수": {
   "success": 200,
@@ -664,112 +664,112 @@
    "제목": "(식)",
    "설명": null,
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:390"
+   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:389"
   },
   {
    "유형": "success",
    "제목": "(식)",
    "설명": null,
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:500"
+   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:499"
   },
   {
    "유형": "success",
    "제목": "삭제를 취소했습니다.",
    "설명": null,
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:925"
+   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:924"
   },
   {
    "유형": "success",
    "제목": "{값} 모델을 저장했습니다. 실행중인 레플리카에는 바로 반영되지 않습니다.",
    "설명": null,
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:977"
+   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:976"
   },
   {
    "유형": "success",
    "제목": "문서 {값}건을 추가했습니다.",
    "설명": null,
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:1285"
+   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:1284"
   },
   {
    "유형": "success",
    "제목": "메타데이터 유형 설정을 저장했습니다.",
    "설명": null,
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:1305"
+   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:1304"
   },
   {
    "유형": "success",
    "제목": "메타데이터를 저장했습니다.",
    "설명": null,
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:1320"
+   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:1319"
   },
   {
    "유형": "info",
    "제목": "{값} 중지했습니다.",
    "설명": null,
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:1356"
+   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:1355"
   },
   {
    "유형": "success",
    "제목": "(식)",
    "설명": null,
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:1383"
+   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:1382"
   },
   {
    "유형": "success",
    "제목": "모델 설정을 저장했습니다.",
    "설명": null,
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:1399"
+   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:1398"
   },
   {
    "유형": "info",
    "제목": "배포를 중지했습니다.",
    "설명": "실행 자원을 반환했습니다.",
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:1447"
+   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:1446"
   },
   {
    "유형": "success",
    "제목": "배포를 예약했습니다.",
    "설명": "{값}에 배포를 시작합니다.",
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:1484"
+   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:1483"
   },
   {
    "유형": "success",
    "제목": "배포를 시작했습니다.",
    "설명": null,
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:1488"
+   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:1487"
   },
   {
    "유형": "success",
    "제목": "RAG를 삭제했습니다.",
    "설명": null,
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:1517"
+   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:1516"
   },
   {
    "유형": "info",
    "제목": "올릴 파일이 없습니다.",
    "설명": "같은 이름의 파일을 모두 건너뛰었습니다.",
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:2228"
+   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:2227"
   },
   {
    "유형": "success",
    "제목": "모델 목록을 새로 고쳤습니다.",
    "설명": "운영 중인 모델 배포 {값}개",
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:3241"
+   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:3240"
   },
   {
    "유형": "success",
@@ -902,7 +902,7 @@
    "제목": "RAG를 삭제했습니다.",
    "설명": null,
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/components/rags-client.tsx:333"
+   "파일": "app/(agentbase)/rag/components/rags-client.tsx:334"
   },
   {
    "유형": "success",
@@ -1294,7 +1294,7 @@
    "제목": "운영 설정을 저장했습니다.",
    "설명": null,
    "자리": "관리 설정",
-   "파일": "app/(agentbase)/settings/components/settings-client.tsx:207"
+   "파일": "app/(agentbase)/settings/components/settings-client.tsx:208"
   },
   {
    "유형": "success",
@@ -1364,14 +1364,14 @@
    "제목": "도구 정보를 수정했습니다.",
    "설명": null,
    "자리": "도구",
-   "파일": "app/(agentbase)/tool/components/tools-client.tsx:509"
+   "파일": "app/(agentbase)/tool/components/tools-client.tsx:507"
   },
   {
    "유형": "success",
    "제목": "도구를 삭제했습니다.",
    "설명": null,
    "자리": "도구",
-   "파일": "app/(agentbase)/tool/components/tools-client.tsx:539"
+   "파일": "app/(agentbase)/tool/components/tools-client.tsx:537"
   },
   {
    "유형": "success",
