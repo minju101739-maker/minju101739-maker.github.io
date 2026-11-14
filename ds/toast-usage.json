@@ -1,11 +1,11 @@
 {
- "만든때": "2026-11-13T05:33:36.623Z",
- "수": 273,
+ "만든때": "2026-11-14T08:43:29.409Z",
+ "수": 274,
  "유형수": {
-  "success": 202,
+  "success": 200,
   "warning": 12,
   "error": 12,
-  "info": 47
+  "info": 50
  },
  "줄들": [
   {
@@ -314,70 +314,70 @@
    "제목": "표본 실행하지 못했습니다.",
    "설명": null,
    "자리": "데이터 파이프라인",
-   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:2026"
+   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:2027"
   },
   {
    "유형": "success",
    "제목": "(식)",
    "설명": null,
    "자리": "데이터 파이프라인",
-   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:2043"
+   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:2044"
   },
   {
    "유형": "success",
    "제목": "배포를 예약했습니다.",
    "설명": "{값}에 배포를 시작합니다.",
    "자리": "데이터 파이프라인",
-   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:2271"
+   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:2272"
   },
   {
    "유형": "success",
    "제목": "배포를 시작했습니다.",
    "설명": null,
    "자리": "데이터 파이프라인",
-   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:2275"
+   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:2276"
   },
   {
    "유형": "info",
    "제목": "배포를 중지했습니다.",
    "설명": "실행 자원을 반환했습니다.",
    "자리": "데이터 파이프라인",
-   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:2288"
+   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:2289"
   },
   {
    "유형": "success",
    "제목": "실행을 예약했습니다.",
    "설명": null,
    "자리": "데이터 파이프라인",
-   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:2335"
+   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:2336"
   },
   {
    "유형": "error",
    "제목": "발행하지 못했습니다.",
    "설명": null,
    "자리": "데이터 파이프라인",
-   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:2474"
+   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:2475"
   },
   {
    "유형": "info",
    "제목": "발행을 취소했습니다.",
    "설명": null,
    "자리": "데이터 파이프라인",
-   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:2517"
+   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:2518"
   },
   {
    "유형": "success",
    "제목": "데이터 파이프라인을 삭제했습니다.",
    "설명": null,
    "자리": "데이터 파이프라인",
-   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:2542"
+   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:2543"
   },
   {
    "유형": "success",
    "제목": "실행 예약을 취소했습니다.",
    "설명": "[전체 실행]으로 다시 실행하거나 예약합니다.",
    "자리": "데이터 파이프라인",
-   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:2583"
+   "파일": "app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx:2584"
   },
   {
    "유형": "success",
@@ -671,105 +671,105 @@
    "제목": "(식)",
    "설명": null,
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:499"
+   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:500"
   },
   {
    "유형": "success",
    "제목": "삭제를 취소했습니다.",
    "설명": null,
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:924"
+   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:925"
   },
   {
    "유형": "success",
    "제목": "{값} 모델을 저장했습니다. 실행중인 레플리카에는 바로 반영되지 않습니다.",
    "설명": null,
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:976"
+   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:977"
   },
   {
    "유형": "success",
    "제목": "문서 {값}건을 추가했습니다.",
    "설명": null,
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:1284"
+   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:1285"
   },
   {
    "유형": "success",
    "제목": "메타데이터 유형 설정을 저장했습니다.",
    "설명": null,
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:1304"
+   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:1305"
   },
   {
    "유형": "success",
    "제목": "메타데이터를 저장했습니다.",
    "설명": null,
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:1319"
+   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:1320"
   },
   {
    "유형": "info",
    "제목": "{값} 중지했습니다.",
    "설명": null,
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:1355"
+   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:1356"
   },
   {
    "유형": "success",
    "제목": "(식)",
    "설명": null,
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:1382"
+   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:1383"
   },
   {
    "유형": "success",
    "제목": "모델 설정을 저장했습니다.",
    "설명": null,
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:1398"
+   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:1399"
   },
   {
    "유형": "info",
    "제목": "배포를 중지했습니다.",
    "설명": "실행 자원을 반환했습니다.",
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:1446"
+   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:1447"
   },
   {
    "유형": "success",
    "제목": "배포를 예약했습니다.",
    "설명": "{값}에 배포를 시작합니다.",
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:1483"
+   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:1484"
   },
   {
    "유형": "success",
    "제목": "배포를 시작했습니다.",
    "설명": null,
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:1487"
+   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:1488"
   },
   {
    "유형": "success",
    "제목": "RAG를 삭제했습니다.",
    "설명": null,
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:1516"
+   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:1517"
   },
   {
    "유형": "info",
    "제목": "올릴 파일이 없습니다.",
    "설명": "같은 이름의 파일을 모두 건너뛰었습니다.",
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:2227"
+   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:2228"
   },
   {
    "유형": "success",
    "제목": "모델 목록을 새로 고쳤습니다.",
    "설명": "운영 중인 모델 배포 {값}개",
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:3238"
+   "파일": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:3241"
   },
   {
    "유형": "success",
@@ -839,21 +839,21 @@
    "제목": "평가 결과를 수정했습니다.",
    "설명": null,
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:4956"
+   "파일": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:4958"
   },
   {
    "유형": "success",
    "제목": "평가 결과를 삭제했습니다.",
    "설명": null,
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:4976"
+   "파일": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:4978"
   },
   {
    "유형": "success",
    "제목": "기준 답변을 저장했습니다.",
    "설명": "이 문항의 기준 답변이 필요한 지표를 다시 측정합니다.",
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:5082"
+   "파일": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:5084"
   },
   {
    "유형": "info",
@@ -944,133 +944,140 @@
    "제목": "평가 설정을 기본값으로 되돌렸습니다.",
    "설명": null,
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:812"
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:518"
   },
   {
    "유형": "warning",
    "제목": "{값}님이 편집 중입니다.",
    "설명": "편집이 끝난 뒤에 실행할 수 있습니다.",
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:849"
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:537"
   },
   {
    "유형": "success",
-   "제목": "보안 평가셋을 저장했습니다.",
-   "설명": "{값}(문장 {값}개)을 데이터 관리 {값}에 저장했습니다. 검증은 거치지 않았습니다.",
+   "제목": "평가셋을 업로드했습니다.",
+   "설명": "{값}(공격 대화 {값}개)을 데이터 관리 {값}에 저장했습니다. 평가 탭의 평가셋 선택 모드에서 선택할 수 있습니다.",
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:903"
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:613"
   },
   {
    "유형": "success",
-   "제목": "보안 평가셋을 저장했습니다.",
-   "설명": "{값}(공격 성공 문장 {값}개)을 데이터 관리 {값}에 저장했습니다. 평가셋 생성 탭의 목록에서 볼 수 있습니다.",
+   "제목": "평가셋을 다운로드했습니다.",
+   "설명": "{값}_v{값}.jsonl(공격 대화 {값}개)",
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:925"
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:623"
+  },
+  {
+   "유형": "success",
+   "제목": "평가셋을 삭제했습니다.",
+   "설명": "{값}을 삭제했습니다.",
+   "자리": "서비스 API 오픈",
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:639"
+  },
+  {
+   "유형": "info",
+   "제목": "평가셋 선택 모드로 설정을 채웠습니다.",
+   "설명": "{값}을 평가셋으로 선택했습니다. 공격 모델과 판정 모델을 확인하고 [실행]을 누르세요.",
+   "자리": "서비스 API 오픈",
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:645"
   },
   {
    "유형": "success",
    "제목": "평가 결과를 수정했습니다.",
    "설명": "{값}의 이름과 설명을 저장했습니다.",
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1080"
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:738"
   },
   {
    "유형": "success",
    "제목": "평가 결과를 삭제했습니다.",
-   "설명": "{값}을 삭제했습니다.",
+   "설명": "{값} 결과와 그 결과로 만든 평가셋을 삭제했습니다.",
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1087"
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:749"
   },
   {
    "유형": "success",
-   "제목": "평가 결과를 저장했습니다.",
-   "설명": "{값}으로 저장했습니다.",
+   "제목": "결과를 저장했습니다.",
+   "설명": "{값}{값}",
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1094"
-  },
-  {
-   "유형": "success",
-   "제목": "보안 평가셋을 저장했습니다.",
-   "설명": "{값}(문장 {값}개)을 데이터 관리 {값}에 저장했습니다. [평가하기]로 평가에서 선택할 수 있습니다.",
-   "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1232"
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:783"
   },
   {
    "유형": "success",
    "제목": "보안 평가를 마쳤습니다.",
-   "설명": "공격 {값}건의 결과가 나왔습니다. [저장]에서 이름을 입력해 저장하세요.",
+   "설명": "{값}의 결과가 나왔습니다. [결과 저장]을 선택하면 결과가 저장되고 공격에 성공한 대화가 평가셋이 됩니다.",
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1249"
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:802"
+  },
+  {
+   "유형": "info",
+   "제목": "신규 평가로 다시 실행할 수 있습니다.",
+   "설명": null,
+   "자리": "서비스 API 오픈",
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:811"
   },
   {
    "유형": "success",
    "제목": "결과의 설정을 평가 설정에 불러왔습니다.",
-   "설명": "사용자 문장은 지금 저장된 문장을 사용합니다.",
+   "설명": null,
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1681"
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1017"
   },
   {
    "유형": "info",
    "제목": "보안 평가를 중지했습니다.",
-   "설명": "중지 시점까지의 결과를 저장하려면 [저장]을 선택하세요.",
+   "설명": "중지 시점까지의 결과를 저장하려면 [결과 저장]을 선택하세요.",
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1695"
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1034"
+  },
+  {
+   "유형": "info",
+   "제목": "평가셋을 등록했습니다.",
+   "설명": "{값}(공격 대화 {값}개)이 평가셋 목록에 추가되었습니다.",
+   "자리": "서비스 API 오픈",
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1107"
   },
   {
    "유형": "success",
-   "제목": "보안 평가셋을 보안 평가에 선택했습니다.",
+   "제목": "공용으로 올리기를 요청했습니다.",
+   "설명": "관리자가 승인하면 {값}이(가) AGENTBASE 전체에 보입니다.",
+   "자리": "서비스 API 오픈",
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1366"
+  },
+  {
+   "유형": "success",
+   "제목": "(식)",
    "설명": null,
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1722"
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1378"
   },
   {
    "유형": "success",
-   "제목": "사용자 문장 {값}개를 추가했습니다.",
-   "설명": "{값} 유형을 선택한 보안 평가셋에 기본 문장과 함께 담깁니다.",
-   "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1948"
-  },
-  {
-   "유형": "success",
-   "제목": "사용자 문장 {값}개를 추가했습니다.",
-   "설명": "{값}에서 추가했습니다.{값}",
-   "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1963"
-  },
-  {
-   "유형": "success",
-   "제목": "양식 파일을 다운로드했습니다.",
+   "제목": "목표를 삭제했습니다.",
    "설명": null,
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:2043"
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1393"
   },
   {
    "유형": "success",
-   "제목": "사용자 문장을 엑셀 파일로 다운로드했습니다.",
-   "설명": "양식과 같은 시트 구성이라 수정한 뒤 다시 업로드할 수 있습니다.",
+   "제목": "공용으로 올리기를 요청했습니다.",
+   "설명": "관리자가 승인하면 {값}이(가) AGENTBASE 전체에 보입니다.",
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:2130"
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1530"
   },
   {
    "유형": "success",
-   "제목": "사용자 문장을 삭제했습니다.",
-   "설명": "이미 실행한 결과의 설정에는 그대로 남습니다.",
-   "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:2171"
-  },
-  {
-   "유형": "success",
-   "제목": "보안 평가셋을 삭제했습니다.",
+   "제목": "(식)",
    "설명": null,
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:2690"
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1542"
   },
   {
    "유형": "success",
-   "제목": "기본 문장을 엑셀 파일로 다운로드했습니다.",
-   "설명": "사용자 문장 양식과 같은 시트 구성입니다.",
+   "제목": "전략을 삭제했습니다.",
+   "설명": null,
    "자리": "서비스 API 오픈",
-   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:3127"
+   "파일": "app/(agentbase)/service/components/redteam-tab.tsx:1557"
   },
   {
    "유형": "success",
@@ -1420,91 +1427,91 @@
    "제목": "노드는 30개까지 추가 가능합니다.",
    "설명": null,
    "자리": "워크플로우",
-   "파일": "app/(agentbase)/workflow/[id]/components/workflow-editor.tsx:984"
+   "파일": "app/(agentbase)/workflow/[id]/components/workflow-editor.tsx:987"
   },
   {
    "유형": "success",
    "제목": "{값} 추가했습니다.",
    "설명": null,
    "자리": "워크플로우",
-   "파일": "app/(agentbase)/workflow/[id]/components/workflow-editor.tsx:1053"
+   "파일": "app/(agentbase)/workflow/[id]/components/workflow-editor.tsx:1056"
   },
   {
    "유형": "success",
    "제목": "{값} 삭제했습니다.",
    "설명": null,
    "자리": "워크플로우",
-   "파일": "app/(agentbase)/workflow/[id]/components/workflow-editor.tsx:1113"
+   "파일": "app/(agentbase)/workflow/[id]/components/workflow-editor.tsx:1116"
   },
   {
    "유형": "success",
    "제목": "프롬프트 변경 {값}건을 배포 중인 회차에 반영했습니다.",
    "설명": "작업 이력의 현재 회차 작업에 기록했습니다.",
    "자리": "워크플로우",
-   "파일": "app/(agentbase)/workflow/[id]/components/workflow-editor.tsx:1278"
+   "파일": "app/(agentbase)/workflow/[id]/components/workflow-editor.tsx:1281"
   },
   {
    "유형": "success",
    "제목": "편집을 시작했습니다.",
    "설명": null,
    "자리": "워크플로우",
-   "파일": "app/(agentbase)/workflow/[id]/components/workflow-editor.tsx:1318"
+   "파일": "app/(agentbase)/workflow/[id]/components/workflow-editor.tsx:1321"
   },
   {
    "유형": "info",
    "제목": "속성 패널에서 이름을 수정합니다.",
    "설명": null,
    "자리": "워크플로우",
-   "파일": "app/(agentbase)/workflow/[id]/components/workflow-editor.tsx:1525"
+   "파일": "app/(agentbase)/workflow/[id]/components/workflow-editor.tsx:1528"
   },
   {
    "유형": "success",
    "제목": "{값} 복제했습니다.",
    "설명": null,
    "자리": "워크플로우",
-   "파일": "app/(agentbase)/workflow/[id]/components/workflow-editor.tsx:1538"
+   "파일": "app/(agentbase)/workflow/[id]/components/workflow-editor.tsx:1541"
   },
   {
    "유형": "success",
    "제목": "{값} 삭제했습니다.",
    "설명": null,
    "자리": "워크플로우",
-   "파일": "app/(agentbase)/workflow/[id]/components/workflow-editor.tsx:1549"
+   "파일": "app/(agentbase)/workflow/[id]/components/workflow-editor.tsx:1552"
   },
   {
    "유형": "success",
    "제목": "{값} 구성으로 되돌려 배포했습니다.",
    "설명": null,
    "자리": "워크플로우",
-   "파일": "app/(agentbase)/workflow/[id]/components/workflow-editor.tsx:1970"
+   "파일": "app/(agentbase)/workflow/[id]/components/workflow-editor.tsx:1973"
   },
   {
    "유형": "success",
    "제목": "워크플로우를 저장했습니다.",
    "설명": null,
    "자리": "워크플로우",
-   "파일": "app/(agentbase)/workflow/[id]/components/workflow-editor.tsx:2195"
+   "파일": "app/(agentbase)/workflow/[id]/components/workflow-editor.tsx:2198"
   },
   {
    "유형": "success",
    "제목": "워크플로우를 삭제했습니다.",
    "설명": null,
    "자리": "워크플로우",
-   "파일": "app/(agentbase)/workflow/[id]/components/workflow-editor.tsx:2227"
+   "파일": "app/(agentbase)/workflow/[id]/components/workflow-editor.tsx:2230"
   },
   {
    "유형": "info",
    "제목": "배포를 시작했습니다.",
    "설명": null,
    "자리": "워크플로우",
-   "파일": "app/(agentbase)/workflow/[id]/components/workflow-editor.tsx:2247"
+   "파일": "app/(agentbase)/workflow/[id]/components/workflow-editor.tsx:2250"
   },
   {
    "유형": "info",
    "제목": "배포 중지를 시작했습니다.",
    "설명": null,
    "자리": "워크플로우",
-   "파일": "app/(agentbase)/workflow/[id]/components/workflow-editor.tsx:2261"
+   "파일": "app/(agentbase)/workflow/[id]/components/workflow-editor.tsx:2264"
   },
   {
    "유형": "success",

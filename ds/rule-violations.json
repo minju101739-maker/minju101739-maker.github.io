@@ -1,10 +1,11 @@
 {
- "만든때": "2026-11-13T05:33:36.623Z",
+ "만든때": "2026-11-14T07:10:14.004Z",
  "요약": {
   "열 숨김": 2,
   "빈 결과 문구": 1,
   "두 줄 합친 칸": 6,
-  "버튼 덮어쓰기": 17
+  "움직임": 1,
+  "버튼 덮어쓰기": 14
  },
  "분류": {
   "열 숨김": [
@@ -58,6 +59,13 @@
     "바꿀": "두 값을 열로 나누거나, 보조 값을 같은 줄에 흐린 글자로 붙이거나, 말풍선으로 옮긴다"
    }
   ],
+  "움직임": [
+   {
+    "위치": "app/(agentbase)/service/components/redteam-tab.tsx:2591",
+    "지금": "duration-150",
+    "바꿀": "duration-instant(90), fast(140), base(200), panel(240) 중 가까운 이름"
+   }
+  ],
   "버튼 덮어쓰기": [
    {
     "위치": "app/(agentbase)/data/pipeline/components/step-settings.tsx:212",
@@ -80,7 +88,7 @@
     "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
    },
    {
-    "위치": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:2948",
+    "위치": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:2951",
     "지금": "Button className 의 border-ab-accent text-ab-accent-text",
     "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
    },
@@ -100,21 +108,6 @@
     "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
    },
    {
-    "위치": "app/(agentbase)/service/components/redteam-tab.tsx:1390",
-    "지금": "Button className 의 h-10",
-    "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
-   },
-   {
-    "위치": "app/(agentbase)/service/components/redteam-tab.tsx:1502",
-    "지금": "Button className 의 h-10",
-    "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
-   },
-   {
-    "위치": "app/(agentbase)/service/components/redteam-tab.tsx:2121",
-    "지금": "Button className 의 h-9",
-    "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
-   },
-   {
     "위치": "app/(agentbase)/service/components/service-api-guide.tsx:96",
     "지금": "Button className 의 h-7",
     "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
@@ -125,7 +118,7 @@
     "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
    },
    {
-    "위치": "app/(agentbase)/workflow/[id]/components/props-panel.tsx:1671",
+    "위치": "app/(agentbase)/workflow/[id]/components/props-panel.tsx:1673",
     "지금": "Button className 의 border-ab-accent text-ab-accent-text",
     "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
    },

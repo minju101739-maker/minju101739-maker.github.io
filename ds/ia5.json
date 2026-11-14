@@ -1127,7 +1127,7 @@
      "wait:400",
      "rtext:테이블 읽기",
      "wait:800",
-     "js:(()=>{const n='테이블 읽기';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='테이블 읽기';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -1161,7 +1161,7 @@
      "wait:400",
      "rtext:이미지 폴더",
      "wait:800",
-     "js:(()=>{const n='이미지 폴더';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='이미지 폴더';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": "이미지 폴더, 결측치 대체로 시험함"
@@ -1195,7 +1195,7 @@
      "wait:400",
      "rtext:오디오 폴더",
      "wait:800",
-     "js:(()=>{const n='오디오 폴더';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='오디오 폴더';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -1229,7 +1229,7 @@
      "wait:400",
      "rtext:영상 폴더",
      "wait:800",
-     "js:(()=>{const n='영상 폴더';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='영상 폴더';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -1263,7 +1263,7 @@
      "wait:400",
      "rtext:문서 폴더",
      "wait:800",
-     "js:(()=>{const n='문서 폴더';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='문서 폴더';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -1295,7 +1295,7 @@
      "wait:500",
      "rtext:센서 원본",
      "wait:800",
-     "js:(()=>{const n='외부 DB 읽기';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='외부 DB 읽기';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": "센서 원본 노드의 외부 DB 읽기 단계로 엶(단계 목록의 글자가 캔버스 카드와 겹침)"
@@ -1329,7 +1329,7 @@
      "wait:400",
      "rtext:외부 서버 파일 수집",
      "wait:800",
-     "js:(()=>{const n='외부 서버 파일 수집';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='외부 서버 파일 수집';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -1394,7 +1394,7 @@
      "wait:400",
      "rtext:데이터 타입 변환",
      "wait:800",
-     "js:(()=>{const n='데이터 타입 변환';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='데이터 타입 변환';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -1428,7 +1428,7 @@
      "wait:400",
      "rtext:파생 컬럼 생성",
      "wait:800",
-     "js:(()=>{const n='파생 컬럼 생성';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='파생 컬럼 생성';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -1462,7 +1462,7 @@
      "wait:400",
      "rtext:결측치 대체",
      "wait:800",
-     "js:(()=>{const n='결측치 대체';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='결측치 대체';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": "이미지 폴더, 결측치 대체로 시험함"
@@ -1496,7 +1496,7 @@
      "wait:400",
      "rtext:결측치 행 제거",
      "wait:800",
-     "js:(()=>{const n='결측치 행 제거';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='결측치 행 제거';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -1530,7 +1530,7 @@
      "wait:400",
      "rtext:스케일링",
      "wait:800",
-     "js:(()=>{const n='스케일링';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='스케일링';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -1564,7 +1564,7 @@
      "wait:400",
      "rtext:중복 행 제거",
      "wait:800",
-     "js:(()=>{const n='중복 행 제거';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='중복 행 제거';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -1598,7 +1598,7 @@
      "wait:400",
      "rtext:컬럼 선택",
      "wait:800",
-     "js:(()=>{const n='컬럼 선택';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='컬럼 선택';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -1632,7 +1632,7 @@
      "wait:400",
      "rtext:컬럼명 변경",
      "wait:800",
-     "js:(()=>{const n='컬럼명 변경';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='컬럼명 변경';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -1666,7 +1666,7 @@
      "wait:400",
      "rtext:집계",
      "wait:800",
-     "js:(()=>{const n='집계';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='집계';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -1700,7 +1700,7 @@
      "wait:400",
      "rtext:정렬 및 상위 N개 추출",
      "wait:800",
-     "js:(()=>{const n='정렬 및 상위 N개 추출';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='정렬 및 상위 N개 추출';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -1734,7 +1734,7 @@
      "wait:400",
      "rtext:날짜 시간 파싱",
      "wait:800",
-     "js:(()=>{const n='날짜 시간 파싱';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='날짜 시간 파싱';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -1768,7 +1768,7 @@
      "wait:400",
      "rtext:금액 파싱",
      "wait:800",
-     "js:(()=>{const n='금액 파싱';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='금액 파싱';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -1802,7 +1802,7 @@
      "wait:400",
      "rtext:공백 제거 및 대소문자 통일",
      "wait:800",
-     "js:(()=>{const n='공백 제거 및 대소문자 통일';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='공백 제거 및 대소문자 통일';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -1836,7 +1836,7 @@
      "wait:400",
      "rtext:키 정규화",
      "wait:800",
-     "js:(()=>{const n='키 정규화';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='키 정규화';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -1870,7 +1870,7 @@
      "wait:400",
      "rtext:특수값 결측 처리",
      "wait:800",
-     "js:(()=>{const n='특수값 결측 처리';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='특수값 결측 처리';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -1904,7 +1904,7 @@
      "wait:400",
      "rtext:최신 레코드 선택",
      "wait:800",
-     "js:(()=>{const n='최신 레코드 선택';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='최신 레코드 선택';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -1938,7 +1938,7 @@
      "wait:400",
      "rtext:경로 기반 값 추출",
      "wait:800",
-     "js:(()=>{const n='경로 기반 값 추출';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='경로 기반 값 추출';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -1972,7 +1972,7 @@
      "wait:400",
      "rtext:시계열 리샘플링",
      "wait:800",
-     "js:(()=>{const n='시계열 리샘플링';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='시계열 리샘플링';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -2006,7 +2006,7 @@
      "wait:400",
      "rtext:텍스트 정규화",
      "wait:800",
-     "js:(()=>{const n='텍스트 정규화';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='텍스트 정규화';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -2040,7 +2040,7 @@
      "wait:400",
      "rtext:청킹",
      "wait:800",
-     "js:(()=>{const n='청킹';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='청킹';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -2074,7 +2074,7 @@
      "wait:400",
      "rtext:길이 기준 필터링",
      "wait:800",
-     "js:(()=>{const n='길이 기준 필터링';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='길이 기준 필터링';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -2108,7 +2108,7 @@
      "wait:400",
      "rtext:완전 일치 중복 제거",
      "wait:800",
-     "js:(()=>{const n='완전 일치 중복 제거';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='완전 일치 중복 제거';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -2142,7 +2142,7 @@
      "wait:400",
      "rtext:이미지 디코딩 검증",
      "wait:800",
-     "js:(()=>{const n='이미지 디코딩 검증';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='이미지 디코딩 검증';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -2176,7 +2176,7 @@
      "wait:400",
      "rtext:EXIF 회전 보정",
      "wait:800",
-     "js:(()=>{const n='EXIF 회전 보정';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='EXIF 회전 보정';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -2210,7 +2210,7 @@
      "wait:400",
      "rtext:RGB 변환",
      "wait:800",
-     "js:(()=>{const n='RGB 변환';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='RGB 변환';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -2244,7 +2244,7 @@
      "wait:400",
      "rtext:이미지 리사이즈",
      "wait:800",
-     "js:(()=>{const n='이미지 리사이즈';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='이미지 리사이즈';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -2278,7 +2278,7 @@
      "wait:400",
      "rtext:블러 이미지 필터링",
      "wait:800",
-     "js:(()=>{const n='블러 이미지 필터링';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='블러 이미지 필터링';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -2312,7 +2312,7 @@
      "wait:400",
      "rtext:유사 중복 이미지 제거",
      "wait:800",
-     "js:(()=>{const n='유사 중복 이미지 제거';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='유사 중복 이미지 제거';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -2346,7 +2346,7 @@
      "wait:400",
      "rtext:프레임 추출",
      "wait:800",
-     "js:(()=>{const n='프레임 추출';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='프레임 추출';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -2380,7 +2380,7 @@
      "wait:400",
      "rtext:오디오 추출",
      "wait:800",
-     "js:(()=>{const n='오디오 추출';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='오디오 추출';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -2414,7 +2414,7 @@
      "wait:400",
      "rtext:오디오 리샘플링",
      "wait:800",
-     "js:(()=>{const n='오디오 리샘플링';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='오디오 리샘플링';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -2448,7 +2448,7 @@
      "wait:400",
      "rtext:모노 변환",
      "wait:800",
-     "js:(()=>{const n='모노 변환';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='모노 변환';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -2482,7 +2482,7 @@
      "wait:400",
      "rtext:무음 구간 분할",
      "wait:800",
-     "js:(()=>{const n='무음 구간 분할';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='무음 구간 분할';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -2516,7 +2516,7 @@
      "wait:400",
      "rtext:재생 길이 필터링",
      "wait:800",
-     "js:(()=>{const n='재생 길이 필터링';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='재생 길이 필터링';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -2550,7 +2550,7 @@
      "wait:400",
      "rtext:페이지 렌더링",
      "wait:800",
-     "js:(()=>{const n='페이지 렌더링';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='페이지 렌더링';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -2584,7 +2584,7 @@
      "wait:400",
      "rtext:문서 텍스트 추출",
      "wait:800",
-     "js:(()=>{const n='문서 텍스트 추출';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='문서 텍스트 추출';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -2618,7 +2618,7 @@
      "wait:400",
      "rtext:개인정보 비식별화",
      "wait:800",
-     "js:(()=>{const n='개인정보 비식별화';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='개인정보 비식별화';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -2683,7 +2683,7 @@
      "wait:400",
      "rtext:광학 문자 인식(OCR)",
      "wait:800",
-     "js:(()=>{const n='광학 문자 인식(OCR)';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='광학 문자 인식(OCR)';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -2717,7 +2717,7 @@
      "wait:400",
      "rtext:이미지 캡셔닝",
      "wait:800",
-     "js:(()=>{const n='이미지 캡셔닝';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='이미지 캡셔닝';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -2751,7 +2751,7 @@
      "wait:400",
      "rtext:속성 추출",
      "wait:800",
-     "js:(()=>{const n='속성 추출';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='속성 추출';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -2785,7 +2785,7 @@
      "wait:400",
      "rtext:텍스트 분류",
      "wait:800",
-     "js:(()=>{const n='텍스트 분류';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='텍스트 분류';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -2819,7 +2819,7 @@
      "wait:400",
      "rtext:텍스트 요약",
      "wait:800",
-     "js:(()=>{const n='텍스트 요약';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='텍스트 요약';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -2853,7 +2853,7 @@
      "wait:400",
      "rtext:질문 답변 생성",
      "wait:800",
-     "js:(()=>{const n='질문 답변 생성';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='질문 답변 생성';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -2887,7 +2887,7 @@
      "wait:400",
      "rtext:지시문 데이터 생성",
      "wait:800",
-     "js:(()=>{const n='지시문 데이터 생성';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='지시문 데이터 생성';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -2921,7 +2921,7 @@
      "wait:400",
      "rtext:문장 변형 증강",
      "wait:800",
-     "js:(()=>{const n='문장 변형 증강';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='문장 변형 증강';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -2955,7 +2955,7 @@
      "wait:400",
      "rtext:커스텀 모델 호출",
      "wait:800",
-     "js:(()=>{const n='커스텀 모델 호출';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='커스텀 모델 호출';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -3020,7 +3020,7 @@
      "wait:400",
      "rtext:조건식 필터링",
      "wait:800",
-     "js:(()=>{const n='조건식 필터링';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='조건식 필터링';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -3054,7 +3054,7 @@
      "wait:400",
      "rtext:고아 레코드 격리",
      "wait:800",
-     "js:(()=>{const n='고아 레코드 격리';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='고아 레코드 격리';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -3088,7 +3088,7 @@
      "wait:400",
      "rtext:스키마 검증",
      "wait:800",
-     "js:(()=>{const n='스키마 검증';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='스키마 검증';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -3153,7 +3153,7 @@
      "wait:400",
      "rtext:분기",
      "wait:800",
-     "js:(()=>{const n='분기';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='분기';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -3187,7 +3187,7 @@
      "wait:400",
      "rtext:병합",
      "wait:800",
-     "js:(()=>{const n='병합';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='병합';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -3252,7 +3252,7 @@
      "wait:400",
      "rtext:그룹 기반 분할",
      "wait:800",
-     "js:(()=>{const n='그룹 기반 분할';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='그룹 기반 분할';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -3286,7 +3286,7 @@
      "wait:400",
      "rtext:인스트럭션 형식 변환",
      "wait:800",
-     "js:(()=>{const n='인스트럭션 형식 변환';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='인스트럭션 형식 변환';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -3320,7 +3320,7 @@
      "wait:400",
      "rtext:테이블 출력",
      "wait:800",
-     "js:(()=>{const n='테이블 출력';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='테이블 출력';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -3354,7 +3354,7 @@
      "wait:400",
      "rtext:JSONL 출력",
      "wait:800",
-     "js:(()=>{const n='JSONL 출력';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='JSONL 출력';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -3388,7 +3388,7 @@
      "wait:400",
      "rtext:RAG 문서셋 출력",
      "wait:800",
-     "js:(()=>{const n='RAG 문서셋 출력';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='RAG 문서셋 출력';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -3422,7 +3422,7 @@
      "wait:400",
      "rtext:데이터 계약 검증",
      "wait:800",
-     "js:(()=>{const n='데이터 계약 검증';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='데이터 계약 검증';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -3487,7 +3487,7 @@
      "wait:400",
      "rtext:수동 라벨링",
      "wait:800",
-     "js:(()=>{const n='수동 라벨링';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='수동 라벨링';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -3552,7 +3552,7 @@
      "wait:400",
      "rtext:분포 분석",
      "wait:800",
-     "js:(()=>{const n='분포 분석';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='분포 분석';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -3586,7 +3586,7 @@
      "wait:400",
      "rtext:품질 리포트",
      "wait:800",
-     "js:(()=>{const n='품질 리포트';let r=document.querySelector('[aria-label=\"위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
+     "js:(()=>{const n='품질 리포트';let r=document.querySelector('[aria-label$=\" 위로\"]');while(r&&!r.textContent.includes(n))r=r.parentElement;const t=[...r.querySelectorAll('*')].find(e=>e.childElementCount===0&&e.textContent.trim()===n);t.click()})()",
      "wait:800"
     ],
     "확인": ""
@@ -8334,13 +8334,13 @@
   {
    "새 ID": "ab-wfl-017",
    "4판 ID": "ab-wfl-017",
-   "화면명": "워크플로우 문장 상세",
+   "화면명": "워크플로우 목표별 결과",
    "화면 유형": "모달",
    "화면 상세 유형": "조회 창",
    "보기": "관리자",
-   "출처": "확정본, 2026-11-11 보안 평가 탭(13 전달), 2026-11-12 공격 상세 → 문장 상세(상세 단위를 문장으로, 4e 전달)",
-   "모달 제목": "문장 상세 {번호}번",
-   "원래 화면명": "문장 상세 {번호}번",
+   "출처": "확정본, 2026-11-11 보안 평가 탭(13 전달), 2026-11-12 공격 상세 → 문장 상세(상세 단위를 문장으로, 4e 전달), 2026-11-13 보안 평가 개편(개발팀 기획안 보안테스트_대화공격_화면기획_261113, 사용자 결정 — 13)",
+   "모달 제목": "목표별 결과",
+   "원래 화면명": "목표별 결과",
    "나오는 자리": [
     {
      "메뉴": "워크플로우",
@@ -8385,13 +8385,13 @@
   {
    "새 ID": "ab-wfl-020",
    "4판 ID": "ab-wfl-021",
-   "화면명": "워크플로우 기본 문장",
+   "화면명": "워크플로우 목표 선택",
    "화면 유형": "모달",
-   "화면 상세 유형": "조회 창",
+   "화면 상세 유형": "선택 창",
    "보기": "관리자",
-   "출처": "확정본, 2026-11-11 보안 평가 탭(13 전달)",
-   "모달 제목": "기본 문장",
-   "원래 화면명": "기본 문장",
+   "출처": "확정본, 2026-11-11 보안 평가 탭(13 전달), 2026-11-13 보안 평가 개편(개발팀 기획안 보안테스트_대화공격_화면기획_261113, 사용자 결정 — 13)",
+   "모달 제목": "목표 선택",
+   "원래 화면명": "목표 선택",
    "나오는 자리": [
     {
      "메뉴": "워크플로우",
@@ -8538,13 +8538,13 @@
   {
    "새 ID": "ab-wfl-029",
    "4판 ID": "",
-   "화면명": "워크플로우 사용자 문장",
+   "화면명": "워크플로우 목표 추가",
    "화면 유형": "모달",
-   "화면 상세 유형": "설정 창",
+   "화면 상세 유형": "생성 창",
    "보기": "관리자",
-   "출처": "5판 추가 2026-11-11(4e 보안 평가 재구성), 2026-11-11 보안 평가 탭(13 전달)",
-   "모달 제목": "사용자 문장",
-   "원래 화면명": "사용자 문장",
+   "출처": "5판 추가 2026-11-11(4e 보안 평가 재구성), 2026-11-11 보안 평가 탭(13 전달), 2026-11-13 보안 평가 개편(개발팀 기획안 보안테스트_대화공격_화면기획_261113, 사용자 결정 — 13)",
+   "모달 제목": "목표 추가",
+   "원래 화면명": "목표 추가",
    "나오는 자리": [
     {
      "메뉴": "워크플로우",
@@ -8644,9 +8644,9 @@
    "화면 유형": "모달",
    "화면 상세 유형": "생성 창",
    "보기": "관리자",
-   "출처": "5판 추가 2026-11-11(보안 평가 탭, 13 전달)",
-   "모달 제목": "평가 결과 저장",
-   "원래 화면명": "평가 결과 저장",
+   "출처": "5판 추가 2026-11-11(보안 평가 탭, 13 전달), 2026-11-13 보안 평가 개편(개발팀 기획안 보안테스트_대화공격_화면기획_261113, 사용자 결정 — 13)",
+   "모달 제목": "결과 저장",
+   "원래 화면명": "보안 평가 결과 저장",
    "나오는 자리": [
     {
      "메뉴": "워크플로우",
@@ -8657,13 +8657,13 @@
   {
    "새 ID": "ab-wfl-036",
    "4판 ID": "",
-   "화면명": "워크플로우 보안 평가셋 생성",
-   "화면 유형": "모달",
-   "화면 상세 유형": "실행 확인 창",
+   "화면명": "워크플로우 보안 평가 평가셋 탭",
+   "화면 유형": "페이지",
+   "화면 상세 유형": "",
    "보기": "관리자",
-   "출처": "5판 추가 2026-11-11(보안 평가 탭, 13 전달)",
-   "모달 제목": "보안 평가셋 생성",
-   "원래 화면명": "보안 평가셋 생성",
+   "출처": "5판 추가 2026-11-11(보안 평가 탭, 13 전달), 2026-11-13 보안 평가 개편(개발팀 기획안 보안테스트_대화공격_화면기획_261113, 사용자 결정 — 13)",
+   "모달 제목": "",
+   "원래 화면명": "평가셋 탭",
    "나오는 자리": [
     {
      "메뉴": "워크플로우",
@@ -8674,13 +8674,13 @@
   {
    "새 ID": "ab-wfl-037",
    "4판 ID": "",
-   "화면명": "워크플로우 공격 유형 선택",
+   "화면명": "워크플로우 전략 선택",
    "화면 유형": "모달",
    "화면 상세 유형": "선택 창",
    "보기": "관리자",
-   "출처": "5판 추가 2026-11-11(보안 평가 탭, 13 전달)",
-   "모달 제목": "공격 유형 선택",
-   "원래 화면명": "공격 유형 선택",
+   "출처": "5판 추가 2026-11-11(보안 평가 탭, 13 전달), 2026-11-13 보안 평가 개편(개발팀 기획안 보안테스트_대화공격_화면기획_261113, 사용자 결정 — 13)",
+   "모달 제목": "전략 선택",
+   "원래 화면명": "전략 선택",
    "나오는 자리": [
     {
      "메뉴": "워크플로우",
@@ -8691,13 +8691,13 @@
   {
    "새 ID": "ab-wfl-038",
    "4판 ID": "",
-   "화면명": "워크플로우 공격 성공의 심각도",
-   "화면 유형": "모달",
-   "화면 상세 유형": "조회 창",
+   "화면명": "워크플로우 심각도별 공격 성공",
+   "화면 유형": "패널",
+   "화면 상세 유형": "패널",
    "보기": "관리자",
-   "출처": "5판 추가 2026-11-11(보안 평가 탭, 13 전달)",
-   "모달 제목": "공격 성공의 심각도",
-   "원래 화면명": "공격 성공의 심각도",
+   "출처": "5판 추가 2026-11-11(보안 평가 탭, 13 전달), 2026-11-13 보안 평가 개편(개발팀 기획안 보안테스트_대화공격_화면기획_261113, 사용자 결정 — 13)",
+   "모달 제목": "",
+   "원래 화면명": "심각도별 공격 성공",
    "나오는 자리": [
     {
      "메뉴": "워크플로우",
@@ -8708,17 +8708,170 @@
   {
    "새 ID": "ab-wfl-039",
    "4판 ID": "",
-   "화면명": "워크플로우 보안 평가셋 상세",
+   "화면명": "워크플로우 평가셋 상세",
    "화면 유형": "패널",
    "화면 상세 유형": "패널",
    "보기": "관리자",
    "출처": "5판 추가 2026-11-12(보안 평가셋 목록의 줄 선택, 4e)",
    "모달 제목": "",
-   "원래 화면명": "보안 평가셋 상세",
+   "원래 화면명": "평가셋 상세",
    "나오는 자리": [
     {
      "메뉴": "워크플로우",
      "화면": "ab-wfl-016"
+    }
+   ]
+  },
+  {
+   "새 ID": "ab-wfl-040",
+   "4판 ID": "",
+   "화면명": "워크플로우 전략 추가",
+   "화면 유형": "모달",
+   "화면 상세 유형": "생성 창",
+   "보기": "관리자",
+   "출처": "5판 추가 2026-11-13 보안 평가 개편(개발팀 기획안 보안테스트_대화공격_화면기획_261113, 사용자 결정 — 13)",
+   "모달 제목": "전략 추가",
+   "원래 화면명": "전략 추가",
+   "나오는 자리": [
+    {
+     "메뉴": "워크플로우",
+     "화면": "ab-wfl-037"
+    }
+   ]
+  },
+  {
+   "새 ID": "ab-wfl-041",
+   "4판 ID": "",
+   "화면명": "워크플로우 평가셋 선택",
+   "화면 유형": "모달",
+   "화면 상세 유형": "선택 창",
+   "보기": "관리자",
+   "출처": "5판 추가 2026-11-13 보안 평가 개편(개발팀 기획안 보안테스트_대화공격_화면기획_261113, 사용자 결정 — 13)",
+   "모달 제목": "평가셋 선택",
+   "원래 화면명": "평가셋 선택",
+   "나오는 자리": [
+    {
+     "메뉴": "워크플로우",
+     "화면": "ab-wfl-016"
+    }
+   ]
+  },
+  {
+   "새 ID": "ab-wfl-042",
+   "4판 ID": "",
+   "화면명": "워크플로우 평가셋 삭제",
+   "화면 유형": "모달",
+   "화면 상세 유형": "삭제 확인 창",
+   "보기": "관리자",
+   "출처": "5판 추가 2026-11-13 보안 평가 개편(개발팀 기획안 보안테스트_대화공격_화면기획_261113, 사용자 결정 — 13)",
+   "모달 제목": "평가셋 삭제",
+   "원래 화면명": "평가셋 삭제",
+   "나오는 자리": [
+    {
+     "메뉴": "워크플로우",
+     "화면": "ab-wfl-036"
+    }
+   ]
+  },
+  {
+   "새 ID": "ab-wfl-043",
+   "4판 ID": "",
+   "화면명": "워크플로우 평가셋 파일 선택",
+   "화면 유형": "모달",
+   "화면 상세 유형": "선택 창",
+   "보기": "관리자",
+   "출처": "5판 추가 2026-11-13 보안 평가 개편(개발팀 기획안 보안테스트_대화공격_화면기획_261113, 사용자 결정 — 13)",
+   "모달 제목": "평가셋 파일 선택",
+   "원래 화면명": "평가셋 파일 선택",
+   "나오는 자리": [
+    {
+     "메뉴": "워크플로우",
+     "화면": "ab-wfl-016"
+    }
+   ]
+  },
+  {
+   "새 ID": "ab-wfl-044",
+   "4판 ID": "",
+   "화면명": "워크플로우 목표 수정",
+   "화면 유형": "모달",
+   "화면 상세 유형": "수정 창",
+   "보기": "관리자",
+   "출처": "5판 추가 2026-11-13 보안 평가 개편(제목이 다르면 화면 ID 가 다르다 — 추가 · 수정 나눔, 13)",
+   "모달 제목": "목표 수정",
+   "원래 화면명": "목표 수정",
+   "나오는 자리": [
+    {
+     "메뉴": "워크플로우",
+     "화면": "ab-wfl-020"
+    }
+   ]
+  },
+  {
+   "새 ID": "ab-wfl-045",
+   "4판 ID": "",
+   "화면명": "워크플로우 전략 수정",
+   "화면 유형": "모달",
+   "화면 상세 유형": "수정 창",
+   "보기": "관리자",
+   "출처": "5판 추가 2026-11-13 보안 평가 개편(제목이 다르면 화면 ID 가 다르다 — 추가 · 수정 나눔, 13)",
+   "모달 제목": "전략 수정",
+   "원래 화면명": "전략 수정",
+   "나오는 자리": [
+    {
+     "메뉴": "워크플로우",
+     "화면": "ab-wfl-037"
+    }
+   ]
+  },
+  {
+   "새 ID": "ab-wfl-046",
+   "4판 ID": "",
+   "화면명": "워크플로우 설정 불러오기",
+   "화면 유형": "모달",
+   "화면 상세 유형": "실행 확인 창",
+   "보기": "관리자",
+   "출처": "5판 추가 2026-11-13 보안 평가 개편(번호 없던 확인 창, 13)",
+   "모달 제목": "설정 불러오기",
+   "원래 화면명": "설정 불러오기",
+   "나오는 자리": [
+    {
+     "메뉴": "워크플로우",
+     "화면": "ab-wfl-016"
+    }
+   ]
+  },
+  {
+   "새 ID": "ab-wfl-047",
+   "4판 ID": "",
+   "화면명": "워크플로우 목표 삭제",
+   "화면 유형": "모달",
+   "화면 상세 유형": "삭제 확인 창",
+   "보기": "관리자",
+   "출처": "5판 추가 2026-11-13 보안 평가 개편(번호 없던 확인 창, 13)",
+   "모달 제목": "목표 삭제",
+   "원래 화면명": "목표 삭제",
+   "나오는 자리": [
+    {
+     "메뉴": "워크플로우",
+     "화면": "ab-wfl-020"
+    }
+   ]
+  },
+  {
+   "새 ID": "ab-wfl-048",
+   "4판 ID": "",
+   "화면명": "워크플로우 전략 삭제",
+   "화면 유형": "모달",
+   "화면 상세 유형": "삭제 확인 창",
+   "보기": "관리자",
+   "출처": "5판 추가 2026-11-13 보안 평가 개편(번호 없던 확인 창, 13)",
+   "모달 제목": "전략 삭제",
+   "원래 화면명": "전략 삭제",
+   "나오는 자리": [
+    {
+     "메뉴": "워크플로우",
+     "화면": "ab-wfl-037"
     }
    ]
   }

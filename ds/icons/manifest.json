@@ -24,7 +24,7 @@
   {
    "이름": "model",
    "원본유형": "raw",
-   "변환": "손 그림",
+   "변환": "같은 모양",
    "line": "line/model.svg",
    "fill": "fill/model.svg"
   },
@@ -45,7 +45,7 @@
   {
    "이름": "workflow",
    "원본유형": "raw",
-   "변환": "손 그림",
+   "변환": "같은 모양",
    "line": "line/workflow.svg",
    "fill": "fill/workflow.svg"
   },
@@ -185,7 +185,7 @@
   {
    "이름": "kebab",
    "원본유형": "raw",
-   "변환": "손 그림",
+   "변환": "같은 모양",
    "line": "line/kebab.svg",
    "fill": "fill/kebab.svg"
   },
@@ -367,7 +367,7 @@
   {
    "이름": "inbox",
    "원본유형": "line",
-   "변환": "변환",
+   "변환": "같은 모양",
    "line": "line/inbox.svg",
    "fill": "fill/inbox.svg"
   },
@@ -388,7 +388,7 @@
   {
    "이름": "bookmark",
    "원본유형": "line",
-   "변환": "변환",
+   "변환": "같은 모양",
    "line": "line/bookmark.svg",
    "fill": "fill/bookmark.svg"
   },
@@ -409,14 +409,14 @@
   {
    "이름": "pipeline",
    "원본유형": "raw",
-   "변환": "손 그림",
+   "변환": "같은 모양",
    "line": "line/pipeline.svg",
    "fill": "fill/pipeline.svg"
   },
   {
    "이름": "dataset",
    "원본유형": "fill",
-   "변환": "손 그림",
+   "변환": "같은 모양",
    "line": "line/dataset.svg",
    "fill": "fill/dataset.svg"
   },
@@ -430,7 +430,7 @@
   {
    "이름": "kb",
    "원본유형": "line",
-   "변환": "변환",
+   "변환": "같은 모양",
    "line": "line/kb.svg",
    "fill": "fill/kb.svg"
   },
