@@ -1,8 +1,8 @@
 {
- "만든때": "2026-11-14T15:26:36.096Z",
- "수": 274,
+ "만든때": "2026-11-14T15:34:18.174Z",
+ "수": 273,
  "유형수": {
-  "success": 200,
+  "success": 199,
   "warning": 12,
   "error": 12,
   "info": 50
@@ -440,7 +440,7 @@
    "제목": "데이터 파이프라인을 삭제했습니다.",
    "설명": null,
    "자리": "데이터 파이프라인",
-   "파일": "app/(agentbase)/data/pipeline/components/pipelines-client.tsx:273"
+   "파일": "app/(agentbase)/data/pipeline/components/pipelines-client.tsx:262"
   },
   {
    "유형": "success",
@@ -902,7 +902,7 @@
    "제목": "RAG를 삭제했습니다.",
    "설명": null,
    "자리": "RAG",
-   "파일": "app/(agentbase)/rag/components/rags-client.tsx:334"
+   "파일": "app/(agentbase)/rag/components/rags-client.tsx:321"
   },
   {
    "유형": "success",
@@ -1277,17 +1277,10 @@
   },
   {
    "유형": "success",
-   "제목": "배포했습니다.",
-   "설명": "{값} 접속을 확인했습니다.",
-   "자리": "모델 배포",
-   "파일": "app/(agentbase)/serving/components/servings-client.tsx:453"
-  },
-  {
-   "유형": "success",
    "제목": "모델 배포를 삭제했습니다.",
    "설명": null,
    "자리": "모델 배포",
-   "파일": "app/(agentbase)/serving/components/servings-client.tsx:534"
+   "파일": "app/(agentbase)/serving/components/servings-client.tsx:492"
   },
   {
    "유형": "success",
@@ -1364,14 +1357,14 @@
    "제목": "도구 정보를 수정했습니다.",
    "설명": null,
    "자리": "도구",
-   "파일": "app/(agentbase)/tool/components/tools-client.tsx:507"
+   "파일": "app/(agentbase)/tool/components/tools-client.tsx:490"
   },
   {
    "유형": "success",
    "제목": "도구를 삭제했습니다.",
    "설명": null,
    "자리": "도구",
-   "파일": "app/(agentbase)/tool/components/tools-client.tsx:537"
+   "파일": "app/(agentbase)/tool/components/tools-client.tsx:520"
   },
   {
    "유형": "success",
@@ -1581,28 +1574,28 @@
    "제목": "{값} 요청했습니다.",
    "설명": "승인 결과는 알림으로 전달합니다.",
    "자리": "공통(approval-request)",
-   "파일": "components/console/approval-request.tsx:196"
+   "파일": "components/console/approval-request.tsx:194"
   },
   {
    "유형": "success",
    "제목": "{값} 요청을 거절했습니다.",
    "설명": null,
    "자리": "공통(approval-request)",
-   "파일": "components/console/approval-request.tsx:526"
+   "파일": "components/console/approval-request.tsx:524"
   },
   {
    "유형": "success",
    "제목": "{값} 요청을 승인했습니다.",
    "설명": null,
    "자리": "공통(approval-request)",
-   "파일": "components/console/approval-request.tsx:543"
+   "파일": "components/console/approval-request.tsx:541"
   },
   {
    "유형": "success",
    "제목": "{값}{값} 요청을 취소했습니다.",
    "설명": null,
    "자리": "공통(approval-request)",
-   "파일": "components/console/approval-request.tsx:581"
+   "파일": "components/console/approval-request.tsx:579"
   },
   {
    "유형": "success",
