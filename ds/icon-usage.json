@@ -1,5 +1,5 @@
 {
- "만든때": "2026-11-14T15:34:18.174Z",
+ "만든때": "2026-11-16T07:15:33.159Z",
  "이름": {
   "chevDown": {
    "수": 25,
@@ -34,13 +34,14 @@
    ]
   },
   "(변수)": {
-   "수": 40,
+   "수": 42,
    "파일": [
     "src/app/(agentbase)/data/drive/components/data-drive-client.tsx",
     "src/app/(agentbase)/data/drive/components/upload-dialog.tsx",
     "src/app/(agentbase)/data/pipeline/components/pipe-ask.tsx",
     "src/app/(agentbase)/data/pipeline/components/pipe-canvas.tsx",
     "src/app/(agentbase)/data/pipeline/components/pipe-rail.tsx",
+    "src/app/(agentbase)/home/components/home-widgets.tsx",
     "src/app/(agentbase)/home/components/orch-widgets.tsx",
     "src/app/(agentbase)/permission/components/perm-by-job.tsx",
     "src/app/(agentbase)/permission/components/perm-tree-client.tsx",
@@ -68,7 +69,7 @@
    ]
   },
   "folderSm": {
-   "수": 3,
+   "수": 4,
    "파일": [
     "src/app/(agentbase)/data/drive/components/data-drive-client.tsx",
     "src/app/(agentbase)/service/components/workflow-open-pane.tsx"
@@ -122,7 +123,7 @@
    ]
   },
   "plus": {
-   "수": 13,
+   "수": 14,
    "파일": [
     "src/app/(agentbase)/data/pipeline/components/expr-fields.tsx",
     "src/app/(agentbase)/data/pipeline/components/pipe-rail.tsx",
@@ -251,10 +252,11 @@
    ]
   },
   "download": {
-   "수": 6,
+   "수": 7,
    "파일": [
     "src/app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx",
     "src/components/app-sidebar.tsx",
+    "src/components/console/quick-guide.tsx",
     "src/components/console/system-log-modal.tsx",
     "src/components/mobile-nav.tsx",
     "src/design-system/primitives/file-drop.tsx"
@@ -284,7 +286,7 @@
    ]
   },
   "info": {
-   "수": 10,
+   "수": 13,
    "파일": [
     "src/app/(agentbase)/home/components/home-client.tsx",
     "src/app/(agentbase)/permission/components/limit-tab.tsx",
@@ -468,10 +470,10 @@
   }
  },
  "크기": {
-  "xs": 116,
-  "sm": 146,
-  "md": 6,
-  "토큰식": 7,
+  "xs": 119,
+  "sm": 149,
+  "토큰식": 8,
+  "md": 7,
   "기본": 5
  },
  "크기별": {
@@ -576,7 +578,7 @@
     ]
    },
    "info": {
-    "수": 6,
+    "수": 9,
     "파일": [
      "src/app/(agentbase)/home/components/home-client.tsx",
      "src/app/(agentbase)/permission/components/limit-tab.tsx",
@@ -698,7 +700,7 @@
     ]
    },
    "folderSm": {
-    "수": 3,
+    "수": 4,
     "파일": [
      "src/app/(agentbase)/data/drive/components/data-drive-client.tsx",
      "src/app/(agentbase)/service/components/workflow-open-pane.tsx"
@@ -797,7 +799,7 @@
     ]
    },
    "plus": {
-    "수": 7,
+    "수": 8,
     "파일": [
      "src/app/(agentbase)/data/pipeline/components/pipe-rail.tsx",
      "src/app/(agentbase)/data/pipeline/components/pipeline-detail-client.tsx",
@@ -839,10 +841,11 @@
     ]
    },
    "download": {
-    "수": 4,
+    "수": 5,
     "파일": [
      "src/app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx",
      "src/components/app-sidebar.tsx",
+     "src/components/console/quick-guide.tsx",
      "src/components/console/system-log-modal.tsx",
      "src/components/mobile-nav.tsx"
     ]
@@ -1014,6 +1017,12 @@
    }
   },
   "md": {
+   "(변수)": {
+    "수": 1,
+    "파일": [
+     "src/app/(agentbase)/home/components/home-widgets.tsx"
+    ]
+   },
    "arrowLineRight": {
     "수": 2,
     "파일": [

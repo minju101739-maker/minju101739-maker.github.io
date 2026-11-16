@@ -52,8 +52,8 @@
   {
    "이름": "service",
    "원본유형": "raw",
-   "변환": "손 그림",
-   "line": "line/service.svg",
+   "변환": "없음",
+   "line": null,
    "fill": "fill/service.svg"
   },
   {
@@ -87,7 +87,7 @@
   {
    "이름": "download",
    "원본유형": "raw",
-   "변환": "손 그림",
+   "변환": "같은 모양",
    "line": "line/download.svg",
    "fill": "fill/download.svg"
   },
@@ -164,7 +164,7 @@
   {
    "이름": "search",
    "원본유형": "line",
-   "변환": "변환",
+   "변환": "같은 모양",
    "line": "line/search.svg",
    "fill": "fill/search.svg"
   },
@@ -493,7 +493,7 @@
   {
    "이름": "axisFilter",
    "원본유형": "line",
-   "변환": "변환",
+   "변환": "같은 모양",
    "line": "line/axisFilter.svg",
    "fill": "fill/axisFilter.svg"
   },

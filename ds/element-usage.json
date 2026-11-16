@@ -1,5 +1,5 @@
 {
- "만든때": "2026-11-14T15:34:18.174Z",
+ "만든때": "2026-11-16T07:15:33.159Z",
  "요소": {
   "Button": {
    "부품": "Button",
@@ -88,6 +88,7 @@
     "ab-tol-011": 2,
     "ab-tol-012": 2,
     "ab-tol-014": 2,
+    "ab-tol-015": 2,
     "ab-wfl-003": 2,
     "ab-wfl-011": 2,
     "ab-wfl-018": 2,
@@ -131,6 +132,7 @@
     "ab-com-023": 2,
     "ab-com-024": 2,
     "ab-com-026": 1,
+    "ab-com-028": 2,
     "ab-dat-004": 2,
     "ab-dat-006": 6,
     "ab-dat-008": 3,
@@ -234,7 +236,7 @@
     "ab-svc-016": 2,
     "ab-svc-021": 1,
     "ab-svc-024": 1,
-    "ab-svc-027": 2,
+    "ab-svc-027": 3,
     "ab-svc-028": 2,
     "ab-svc-030": 10,
     "ab-svc-031": 2,
@@ -381,7 +383,7 @@
     "ab-rag-047": 11,
     "ab-rpt-001": 7,
     "ab-set-001": 6,
-    "ab-set-002": 6,
+    "ab-set-002": 5,
     "ab-set-004": 5,
     "ab-set-006": 5,
     "ab-srv-001": 14,
@@ -413,12 +415,12 @@
     "ab-wfl-004-07": 17,
     "ab-wfl-004-08": 17,
     "ab-wfl-013": 17,
-    "ab-wfl-016": 16,
+    "ab-wfl-016": 12,
     "ab-wfl-022": 8,
     "ab-wfl-023": 8,
     "ab-wfl-025": 10,
     "ab-wfl-036": 10,
-    "ab-wfl-038": 16,
+    "ab-wfl-038": 12,
     "ab-wfl-039": 12
    },
    "코드": {
@@ -459,7 +461,7 @@
     "src/app/(agentbase)/service/components/svc-open-sections.tsx": 4,
     "src/app/(agentbase)/service/components/svc-personal-scale.tsx": 2,
     "src/app/(agentbase)/service/components/svc-resource-charts.tsx": 1,
-    "src/app/(agentbase)/service/components/workflow-open-pane.tsx": 3,
+    "src/app/(agentbase)/service/components/workflow-open-pane.tsx": 4,
     "src/app/(agentbase)/serving/[id]/components/eval-tab.tsx": 8,
     "src/app/(agentbase)/serving/[id]/components/monitor-tab.tsx": 1,
     "src/app/(agentbase)/serving/[id]/components/observe-section.tsx": 3,
@@ -502,7 +504,7 @@
     "src/components/console/owner-actions.tsx": 2,
     "src/components/console/permission-axis.tsx": 8,
     "src/components/console/project-size.tsx": 1,
-    "src/components/console/quick-guide.tsx": 7,
+    "src/components/console/quick-guide.tsx": 8,
     "src/components/console/request-review-button.tsx": 1,
     "src/components/console/status-reason.tsx": 3,
     "src/components/console/system-log-modal.tsx": 1,
@@ -514,25 +516,25 @@
     "src/components/site-header.tsx": 6,
     "src/components/ui/button.tsx": 1
    },
-   "코드합": 340,
+   "코드합": 342,
    "값": {
     "variant": {
      "식": 12,
-     "secondary": 68,
+     "secondary": 67,
      "danger": 19,
      "accent-outline": 6,
      "quiet": 70,
      "ghost": 19,
      "danger-outline": 16,
      "tonal": 2,
-     "quiet-accent": 51,
-     "primary": 7,
+     "quiet-accent": 52,
+     "primary": 8,
      "on-dark": 3,
      "on-dark-outline": 3
     },
     "size": {
      "sm": 110,
-     "inline": 65,
+     "inline": 67,
      "md": 1,
      "icon": 4,
      "xs": 6
@@ -624,6 +626,7 @@
     "ab-tol-011": 3,
     "ab-tol-012": 3,
     "ab-tol-014": 3,
+    "ab-tol-015": 3,
     "ab-wfl-003": 3,
     "ab-wfl-011": 3,
     "ab-wfl-018": 3,
@@ -650,6 +653,7 @@
     "ab-com-023": 3,
     "ab-com-024": 4,
     "ab-com-026": 3,
+    "ab-com-028": 3,
     "ab-dat-002": 11,
     "ab-dat-004": 3,
     "ab-dat-005": 4,
@@ -803,7 +807,7 @@
     "ab-com-005": 5,
     "ab-com-027": 3,
     "ab-dat-001": 6,
-    "ab-dpl-001": 42,
+    "ab-dpl-001": 40,
     "ab-dpl-004": 6,
     "ab-dpl-004-01": 10,
     "ab-dpl-004-01-01": 19,
@@ -949,12 +953,12 @@
     "ab-wfl-004-07": 8,
     "ab-wfl-004-08": 8,
     "ab-wfl-013": 6,
-    "ab-wfl-016": 19,
+    "ab-wfl-016": 15,
     "ab-wfl-022": 3,
     "ab-wfl-023": 7,
     "ab-wfl-025": 3,
-    "ab-wfl-036": 8,
-    "ab-wfl-038": 19,
+    "ab-wfl-036": 4,
+    "ab-wfl-038": 15,
     "ab-wfl-039": 3
    },
    "코드": {
@@ -1170,10 +1174,11 @@
     "ab-set-003": 1
    },
    "코드": {
+    "src/app/(agentbase)/settings/components/settings-client.tsx": 1,
     "src/components/console/alert-panel.tsx": 1,
     "src/components/site-header.tsx": 2
    },
-   "코드합": 3,
+   "코드합": 4,
    "값": {
     "tone": {
      "ink": 1
@@ -1279,7 +1284,6 @@
     "ab-srv-031": 1,
     "ab-srv-036": 1,
     "ab-srv-037": 1,
-    "ab-svc-027": 1,
     "ab-svc-028": 1,
     "ab-tol-002": 2,
     "ab-tol-006": 1,
@@ -1464,15 +1468,15 @@
     "ab-dsh-001": 1,
     "ab-rag-031": 2,
     "ab-rag-047": 1,
-    "ab-set-001": 3,
+    "ab-set-001": 2,
     "ab-srv-010": 2,
     "ab-srv-011": 1,
     "ab-svc-020": 5,
     "ab-svc-022": 5,
     "ab-tol-003": 2,
-    "ab-wfl-016": 4,
+    "ab-wfl-016": 3,
     "ab-wfl-036": 2,
-    "ab-wfl-038": 4,
+    "ab-wfl-038": 3,
     "ab-wfl-039": 1,
     "ab-ntf-001": 2,
     "ab-com-019": 3,
@@ -1554,6 +1558,7 @@
     "ab-svc-005": 3,
     "ab-svc-011": 1,
     "ab-svc-012": 1,
+    "ab-svc-027": 9,
     "ab-tol-002": 2,
     "ab-tol-007": 1,
     "ab-tol-009": 3,
@@ -1602,11 +1607,11 @@
     "src/app/(agentbase)/personal/components/personal-assets-client.tsx": 4,
     "src/app/(agentbase)/rag/[id]/components/rag-detail.tsx": 1,
     "src/app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx": 17,
-    "src/app/(agentbase)/service/components/redteam-tab.tsx": 13,
+    "src/app/(agentbase)/service/components/redteam-tab.tsx": 12,
     "src/app/(agentbase)/service/components/service-compare-tab.tsx": 1,
     "src/app/(agentbase)/service/components/service-page.tsx": 1,
-    "src/app/(agentbase)/service/components/svc-open-sections.tsx": 1,
-    "src/app/(agentbase)/service/components/workflow-open-pane.tsx": 1,
+    "src/app/(agentbase)/service/components/svc-open-sections.tsx": 2,
+    "src/app/(agentbase)/service/components/workflow-open-pane.tsx": 2,
     "src/app/(agentbase)/serving/[id]/components/observe-section.tsx": 1,
     "src/app/(agentbase)/serving/components/deploy-settings.tsx": 2,
     "src/app/(agentbase)/settings/components/approval-history.tsx": 2,
@@ -1635,11 +1640,11 @@
     "src/components/console/worker-controls.tsx": 1,
     "src/components/perm-draft/parts.tsx": 3
    },
-   "코드합": 134,
+   "코드합": 135,
    "값": {
     "size": {
-     "field": 45,
-     "filter": 52
+     "field": 46,
+     "filter": 51
     }
    }
   },
@@ -1657,12 +1662,14 @@
     "Search Field"
    ],
    "화면": {
+    "ab-prm-002": 1,
     "ab-rag-024": 1,
     "ab-wfl-020": 1,
     "ab-wfl-041": 1,
     "ab-rag-031": 1,
     "ab-rag-047": 1,
     "ab-set-001": 1,
+    "ab-set-006": 1,
     "ab-srv-010": 1,
     "ab-svc-020": 2,
     "ab-svc-022": 2,
@@ -1729,7 +1736,6 @@
     "src/app/(agentbase)/rag/[id]/components/rag-detail.tsx": 4,
     "src/app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx": 4,
     "src/app/(agentbase)/service/components/redteam-tab.tsx": 1,
-    "src/app/(agentbase)/service/components/workflow-open-pane.tsx": 1,
     "src/app/(agentbase)/serving/[id]/components/observe-section.tsx": 1,
     "src/app/(agentbase)/tool/[id]/components/tool-detail.tsx": 1,
     "src/app/(agentbase)/tool/components/create-tool-dialog.tsx": 1,
@@ -1740,10 +1746,10 @@
     "src/components/console/instance-table.tsx": 1,
     "src/components/console/usage-monitor.tsx": 1
    },
-   "코드합": 28,
+   "코드합": 27,
    "값": {
     "disabled": {
-     "식": 16
+     "식": 15
     },
     "hint": {
      "미리보기에서 실행한 표본 실행 기록을 함께 표시합니다.": 1
@@ -1910,11 +1916,11 @@
    },
    "코드합": 15,
    "값": {
+    "full": {
+     "true": 6
+    },
     "size": {
      "sm": 6
-    },
-    "full": {
-     "true": 5
     }
    }
   },
@@ -1924,12 +1930,16 @@
    "화면": {},
    "코드": {
     "src/app/(agentbase)/changelog/components/changelog-client.tsx": 1,
-    "src/app/(agentbase)/foundation-model/[id]/components/detail-dialogs.tsx": 1
+    "src/app/(agentbase)/foundation-model/[id]/components/detail-dialogs.tsx": 1,
+    "src/components/console/history-tab.tsx": 1
    },
-   "코드합": 2,
+   "코드합": 3,
    "값": {
     "full": {
      "true": 1
+    },
+    "size": {
+     "sm": 1
     }
    }
   },
@@ -1944,7 +1954,7 @@
     "ab-prm-012": 5,
     "ab-prm-016": 18,
     "ab-com-019": 5,
-    "ab-dpl-022": 4,
+    "ab-dpl-022": 5,
     "ab-ftm-010": 5,
     "ab-rag-002": 1,
     "ab-rag-003": 1,
@@ -1969,7 +1979,6 @@
     "src/app/(agentbase)/rag/components/edit-rag-dialog.tsx": 1,
     "src/app/(agentbase)/service/components/redteam-tab.tsx": 3,
     "src/app/(agentbase)/service/components/service-page.tsx": 1,
-    "src/app/(agentbase)/service/components/svc-personal-rag-fields.tsx": 5,
     "src/app/(agentbase)/serving/components/deploy-settings.tsx": 7,
     "src/app/(agentbase)/settings/components/settings-client.tsx": 6,
     "src/app/(agentbase)/system/components/system-resource-client.tsx": 1,
@@ -1980,11 +1989,11 @@
     "src/components/console/autoscale-control.tsx": 4,
     "src/components/console/deploy-action.tsx": 2,
     "src/components/console/instance-table.tsx": 1,
-    "src/components/console/resource-fields.tsx": 4,
+    "src/components/console/resource-fields.tsx": 5,
     "src/components/console/worker-controls.tsx": 6,
     "src/components/perm-draft/parts.tsx": 3
    },
-   "코드합": 67,
+   "코드합": 63,
    "값": {
     "unit": {
      "식": 3,
@@ -1994,12 +2003,8 @@
      "턴": 1,
      "단계": 1,
      "GB": 1,
-     "개": 1,
      "건/초": 1,
      "초": 2
-    },
-    "align": {
-     "right": 1
     }
    }
   },
@@ -2047,6 +2052,7 @@
     "ab-prm-002": 4,
     "ab-wfl-017": 2,
     "ab-com-004": 4,
+    "ab-com-028": 3,
     "ab-dat-008": 4,
     "ab-dpl-004": 5,
     "ab-dpl-004-01": 5,
@@ -2337,7 +2343,7 @@
     "ab-wfl-036": 1,
     "ab-wfl-038": 1,
     "ab-wfl-039": 1,
-    "ab-dpl-001": 12,
+    "ab-dpl-001": 11,
     "ab-ftm-001": 11,
     "ab-job-006": 1,
     "ab-prm-009": 1,
@@ -2352,7 +2358,8 @@
     "ab-rpt-001": 1,
     "ab-srv-001": 16,
     "ab-tol-001": 11,
-    "ab-wfl-001": 17
+    "ab-wfl-001": 17,
+    "ab-com-028": 1
    },
    "코드": {
     "src/app/(agentbase)/job/components/service-tree-view.tsx": 2,
@@ -2364,10 +2371,10 @@
     "src/app/(agentbase)/workflow/[id]/components/workflow-editor.tsx": 1,
     "src/app/(agentbase)/workflow/components/workflows-client.tsx": 1,
     "src/components/console/gpu-wait-modal.tsx": 1,
-    "src/components/console/history-tab.tsx": 1,
+    "src/components/console/history-tab.tsx": 3,
     "src/components/console/status-reason.tsx": 2
    },
-   "코드합": 13,
+   "코드합": 15,
    "값": {}
   },
   "Info Icon": {
@@ -2385,6 +2392,7 @@
     "ab-com-019": 3,
     "ab-com-021": 1,
     "ab-com-026": 1,
+    "ab-com-028": 1,
     "ab-dat-008": 1,
     "ab-dpl-013": 3,
     "ab-dpl-015": 1,
@@ -2593,7 +2601,7 @@
     "ab-dpl-008": 4,
     "ab-dpl-010": 1,
     "ab-dpl-020": 1,
-    "ab-dpl-022": 4,
+    "ab-dpl-022": 5,
     "ab-ftm-002": 8,
     "ab-ftm-003": 8,
     "ab-ftm-006": 8,
@@ -2621,13 +2629,12 @@
     "ab-rag-036": 5,
     "ab-srv-002": 8,
     "ab-srv-003": 1,
-    "ab-srv-007": 8,
+    "ab-srv-007": 9,
     "ab-srv-022": 1,
     "ab-srv-031": 1,
     "ab-srv-033": 1,
     "ab-svc-002": 5,
     "ab-svc-005": 5,
-    "ab-svc-030": 1,
     "ab-tol-002": 8,
     "ab-tol-007": 9,
     "ab-tol-009": 5,
@@ -2670,7 +2677,6 @@
     "src/app/(agentbase)/service/components/service-analysis-tab.tsx": 2,
     "src/app/(agentbase)/service/components/svc-flow.tsx": 2,
     "src/app/(agentbase)/service/components/svc-monitor-sections.tsx": 2,
-    "src/app/(agentbase)/service/components/svc-personal-rag-fields.tsx": 3,
     "src/app/(agentbase)/service/components/svc-personal-scale.tsx": 1,
     "src/app/(agentbase)/service/components/svc-resource-charts.tsx": 11,
     "src/app/(agentbase)/service/components/workflow-open-pane.tsx": 1,
@@ -2688,9 +2694,10 @@
     "src/components/console/multi-select.tsx": 1,
     "src/components/console/project-size.tsx": 1,
     "src/components/console/run-schedule.tsx": 1,
+    "src/components/console/value-box.tsx": 1,
     "src/components/site-header.tsx": 1
    },
-   "코드합": 113,
+   "코드합": 111,
    "값": {}
   },
   "Recommend Tag": {
