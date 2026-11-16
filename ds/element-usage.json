@@ -1,5 +1,5 @@
 {
- "만든때": "2026-11-16T07:15:33.159Z",
+ "만든때": "2026-11-16T11:57:39.074Z",
  "요소": {
   "Button": {
    "부품": "Button",
@@ -653,7 +653,7 @@
     "ab-com-023": 3,
     "ab-com-024": 4,
     "ab-com-026": 3,
-    "ab-com-028": 3,
+    "ab-com-028": 7,
     "ab-dat-002": 11,
     "ab-dat-004": 3,
     "ab-dat-005": 4,
@@ -807,7 +807,7 @@
     "ab-com-005": 5,
     "ab-com-027": 3,
     "ab-dat-001": 6,
-    "ab-dpl-001": 40,
+    "ab-dpl-001": 42,
     "ab-dpl-004": 6,
     "ab-dpl-004-01": 10,
     "ab-dpl-004-01-01": 19,
@@ -980,20 +980,18 @@
     "src/app/(agentbase)/workflow/[id]/components/props-panel.tsx": 2,
     "src/app/(agentbase)/workflow/[id]/components/test-tab.tsx": 2,
     "src/components/console/autoscale-control.tsx": 1,
-    "src/components/console/list-page.tsx": 1,
     "src/components/console/multi-select.tsx": 1,
     "src/components/console/orchestrator-panel.tsx": 1,
     "src/components/console/permission-axis.tsx": 1,
-    "src/components/console/project-table.tsx": 1,
     "src/components/console/worker-controls.tsx": 1,
     "src/components/mobile-nav.tsx": 1,
     "src/components/site-header.tsx": 2
    },
-   "코드합": 50,
+   "코드합": 48,
    "값": {
     "size": {
      "xs": 20,
-     "sm": 25,
+     "sm": 23,
      "fill": 2
     },
     "tone": {
@@ -1097,7 +1095,7 @@
     "ab-ftm-020": 3,
     "ab-ftm-021": 3,
     "ab-rag-004": 2,
-    "ab-rag-011": 30,
+    "ab-rag-011": 31,
     "ab-rag-015": 16,
     "ab-rag-016": 12,
     "ab-rag-017": 2,
@@ -1459,6 +1457,7 @@
    "화면": {
     "ab-com-008": 2,
     "ab-com-013": 2,
+    "ab-com-028": 1,
     "ab-rag-007": 2,
     "ab-rag-024": 1,
     "ab-wfl-014": 3,
@@ -2052,7 +2051,7 @@
     "ab-prm-002": 4,
     "ab-wfl-017": 2,
     "ab-com-004": 4,
-    "ab-com-028": 3,
+    "ab-com-028": 2,
     "ab-dat-008": 4,
     "ab-dpl-004": 5,
     "ab-dpl-004-01": 5,
@@ -2343,7 +2342,7 @@
     "ab-wfl-036": 1,
     "ab-wfl-038": 1,
     "ab-wfl-039": 1,
-    "ab-dpl-001": 11,
+    "ab-dpl-001": 12,
     "ab-ftm-001": 11,
     "ab-job-006": 1,
     "ab-prm-009": 1,
@@ -2358,23 +2357,19 @@
     "ab-rpt-001": 1,
     "ab-srv-001": 16,
     "ab-tol-001": 11,
-    "ab-wfl-001": 17,
-    "ab-com-028": 1
+    "ab-wfl-001": 16
    },
    "코드": {
     "src/app/(agentbase)/job/components/service-tree-view.tsx": 2,
     "src/app/(agentbase)/permission/components/perm-by-job.tsx": 1,
-    "src/app/(agentbase)/permission/components/perm-tree-client.tsx": 1,
     "src/app/(agentbase)/report/components/report-client.tsx": 1,
     "src/app/(agentbase)/service/components/service-page.tsx": 1,
-    "src/app/(agentbase)/service/components/workflow-open-pane.tsx": 1,
     "src/app/(agentbase)/workflow/[id]/components/workflow-editor.tsx": 1,
-    "src/app/(agentbase)/workflow/components/workflows-client.tsx": 1,
     "src/components/console/gpu-wait-modal.tsx": 1,
     "src/components/console/history-tab.tsx": 3,
     "src/components/console/status-reason.tsx": 2
    },
-   "코드합": 15,
+   "코드합": 12,
    "값": {}
   },
   "Info Icon": {
@@ -2720,10 +2715,9 @@
     "src/app/(agentbase)/serving/[id]/components/monitor-tab.tsx": 1,
     "src/components/console/call-history-pane.tsx": 1,
     "src/components/console/feedback-list.tsx": 1,
-    "src/components/console/permission-axis.tsx": 2,
-    "src/components/console/project-table.tsx": 1
+    "src/components/console/permission-axis.tsx": 2
    },
-   "코드합": 8,
+   "코드합": 7,
    "값": {}
   },
   "Empty State": {

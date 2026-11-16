@@ -1,9 +1,11 @@
 {
- "만든때": "2026-11-16T07:15:33.159Z",
+ "만든때": "2026-11-16T12:21:19.082Z",
  "요약": {
   "열 숨김": 2,
   "빈 결과 문구": 1,
-  "두 줄 합친 칸": 5,
+  "호버": 9,
+  "버튼 부품": 4,
+  "두 줄 합친 칸": 6,
   "움직임": 1,
   "버튼 덮어쓰기": 14
  },
@@ -25,6 +27,75 @@
     "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:2086",
     "지금": "조건에 맞는 승인 기록이 없습니다.",
     "바꿀": "「조건에 맞는 항목이 없습니다.」"
+   }
+  ],
+  "호버": [
+   {
+    "위치": "components/app-sidebar.tsx:85",
+    "지금": "hover:bg-ab-hover-dim",
+    "바꿀": "대상별 호버 다섯(surface-alt, accent-faint, underline, text-ab-ink, shadow-ab-md) 중 하나로 맞춘다"
+   },
+   {
+    "위치": "components/chat/chat-panel.tsx:472",
+    "지금": "hover:text-ab-on-dark",
+    "바꿀": "대상별 호버 다섯(surface-alt, accent-faint, underline, text-ab-ink, shadow-ab-md) 중 하나로 맞춘다"
+   },
+   {
+    "위치": "components/console/pipeline-demo.tsx:587",
+    "지금": "hover:bg-ab-surface/15",
+    "바꿀": "대상별 호버 다섯(surface-alt, accent-faint, underline, text-ab-ink, shadow-ab-md) 중 하나로 맞춘다"
+   },
+   {
+    "위치": "components/console/pipeline-demo.tsx:591",
+    "지금": "hover:bg-ab-surface/90",
+    "바꿀": "대상별 호버 다섯(surface-alt, accent-faint, underline, text-ab-ink, shadow-ab-md) 중 하나로 맞춘다"
+   },
+   {
+    "위치": "components/console/pipeline-demo.tsx:600",
+    "지금": "hover:bg-ab-surface/15",
+    "바꿀": "대상별 호버 다섯(surface-alt, accent-faint, underline, text-ab-ink, shadow-ab-md) 중 하나로 맞춘다"
+   },
+   {
+    "위치": "components/console/pipeline-demo.tsx:610",
+    "지금": "hover:bg-ab-surface/15",
+    "바꿀": "대상별 호버 다섯(surface-alt, accent-faint, underline, text-ab-ink, shadow-ab-md) 중 하나로 맞춘다"
+   },
+   {
+    "위치": "components/console/pipeline-demo.tsx:620",
+    "지금": "hover:bg-ab-surface/15",
+    "바꿀": "대상별 호버 다섯(surface-alt, accent-faint, underline, text-ab-ink, shadow-ab-md) 중 하나로 맞춘다"
+   },
+   {
+    "위치": "components/console/trail-breadcrumb.tsx:69",
+    "지금": "hover:text-ab-on-dark",
+    "바꿀": "대상별 호버 다섯(surface-alt, accent-faint, underline, text-ab-ink, shadow-ab-md) 중 하나로 맞춘다"
+   },
+   {
+    "위치": "components/mobile-nav.tsx:119",
+    "지금": "hover:bg-ab-hover-dim",
+    "바꿀": "대상별 호버 다섯(surface-alt, accent-faint, underline, text-ab-ink, shadow-ab-md) 중 하나로 맞춘다"
+   }
+  ],
+  "버튼 부품": [
+   {
+    "위치": "components/console/pipeline-demo.tsx:587",
+    "지금": "버튼 모양의 <button>",
+    "바꿀": "<Button variant=\"secondary\">"
+   },
+   {
+    "위치": "components/console/pipeline-demo.tsx:597",
+    "지금": "버튼 모양의 <button>",
+    "바꿀": "<Button variant=\"secondary\">"
+   },
+   {
+    "위치": "components/console/pipeline-demo.tsx:608",
+    "지금": "버튼 모양의 <button>",
+    "바꿀": "<Button variant=\"secondary\">"
+   },
+   {
+    "위치": "components/console/pipeline-demo.tsx:618",
+    "지금": "버튼 모양의 <button>",
+    "바꿀": "<Button variant=\"secondary\">"
    }
   ],
   "두 줄 합친 칸": [
@@ -51,6 +122,11 @@
    {
     "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:2120",
     "지금": "열 perm-g-state 의 칸이 두 줄",
+    "바꿀": "두 값을 열로 나누거나, 보조 값을 같은 줄에 흐린 글자로 붙이거나, 말풍선으로 옮긴다"
+   },
+   {
+    "위치": "design-system/primitives/project-list.tsx:381",
+    "지금": "열 name 의 칸이 두 줄",
     "바꿀": "두 값을 열로 나누거나, 보조 값을 같은 줄에 흐린 글자로 붙이거나, 말풍선으로 옮긴다"
    }
   ],

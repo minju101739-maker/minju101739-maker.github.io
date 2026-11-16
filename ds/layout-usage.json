@@ -1,0 +1,2061 @@
+{
+ "만든때": "2026-11-16T11:57:39.074Z",
+ "규격": {
+  "splitLeft": 400,
+  "infoLeft": 360,
+  "testSide": 340
+ },
+ "수": {
+  "entry": 5,
+  "detailTable": 20,
+  "tree2": 1,
+  "list": 7,
+  "canvas": 85,
+  "setting2": 16,
+  "side2": 2,
+  "info3": 5,
+  "dashboard": 4,
+  "monitor2": 3,
+  "판정 불가": 1,
+  "even2": 2,
+  "full1": 2,
+  "test3": 1
+ },
+ "화면": [
+  {
+   "id": "ab-com-001",
+   "url": "/home?enter=1",
+   "탭": "",
+   "유형": "entry",
+   "열": [],
+   "어긋남": null,
+   "예외": null,
+   "머리": "none",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-com-004",
+   "url": "/foundation-model/ft-1001",
+   "탭": "작업 이력",
+   "유형": "detailTable",
+   "열": [],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-com-007",
+   "url": "/home",
+   "탭": "",
+   "유형": "entry",
+   "열": [],
+   "어긋남": null,
+   "예외": null,
+   "머리": "none",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-com-027",
+   "url": "/home",
+   "탭": "",
+   "유형": "entry",
+   "열": [],
+   "어긋남": null,
+   "예외": null,
+   "머리": "none",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dat-001",
+   "url": "/data/drive",
+   "탭": "",
+   "유형": "tree2",
+   "열": [],
+   "어긋남": null,
+   "예외": null,
+   "머리": "list",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-001",
+   "url": "/data/pipeline",
+   "탭": "",
+   "유형": "list",
+   "열": [],
+   "어긋남": null,
+   "예외": null,
+   "머리": "list",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-01-01",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-01-02",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-01-03",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-01-04",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-01-05",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-01-06",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-01-07",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-01",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-02-01",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-02-02",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-02-03",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-02-04",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-02-05",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-02-06",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-02-07",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-02-08",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-02-09",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-02-10",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-02-11",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-02-12",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-02-13",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-02-14",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-02-15",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-02-17",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-02-18",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-02-19",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-02-20",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-02-21",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-02-22",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-02-23",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-02-24",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-02-25",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-02-26",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-02-27",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-02-28",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-02-29",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-02-30",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-02-31",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-02-32",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-02-33",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-02-34",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-02-35",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-02-36",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-02-37",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-02-38",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-02",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-03-01",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-03-02",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-03-03",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-03-04",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-03-05",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-03-06",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-03-07",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-03-08",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-03-09",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-03",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-04-01",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-04-02",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-04-03",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-04",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-05-01",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-05-02",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-05",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-06-01",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-06-02",
+   "url": "/data/pipeline/pl-line",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-06-03",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-06-04",
+   "url": "/data/pipeline/pl-report",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-06-05",
+   "url": "/data/pipeline/pl-product-doc",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-06-06",
+   "url": "/data/pipeline/pl-line",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-06",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-07-01",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-07",
+   "url": "/data/pipeline/pl-callcenter",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-08-01",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-08-02",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-08",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-014",
+   "url": "/data/pipeline/pl-product-img?tab=review",
+   "탭": "",
+   "유형": "setting2",
+   "열": [
+    400,
+    1224
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-016",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "데이터셋 버전",
+   "유형": "side2",
+   "열": [
+    1284,
+    340
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-018",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "작업 이력",
+   "유형": "detailTable",
+   "열": [],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-019",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "정보",
+   "유형": "info3",
+   "열": [
+    360,
+    624,
+    624
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dsh-001",
+   "url": "/dashboard",
+   "탭": "",
+   "유형": "dashboard",
+   "열": [
+    814,
+    539,
+    814,
+    539
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "list",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-ftm-001",
+   "url": "/foundation-model",
+   "탭": "",
+   "유형": "list",
+   "열": [],
+   "어긋남": null,
+   "예외": null,
+   "머리": "list",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-ftm-004",
+   "url": "/foundation-model/ft-1001",
+   "탭": "정보",
+   "유형": "setting2",
+   "열": [
+    400,
+    1224
+   ],
+   "어긋남": null,
+   "예외": "파운데이션 모델 정보 탭은 2단(상세 정보 400 | 넓은 판)이다(사용자 결정 2026-11-16 — 「2단 유지」).",
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-ftm-007",
+   "url": "/foundation-model/ft-1001",
+   "탭": "파인 튜닝",
+   "유형": "setting2",
+   "열": [
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-ftm-020",
+   "url": "/foundation-model/ft-1001",
+   "탭": "커밋 목록",
+   "유형": "detailTable",
+   "열": [],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-ftm-021",
+   "url": "/foundation-model/ft-1001/commits/cm-1",
+   "탭": "",
+   "유형": "setting2",
+   "열": [
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-hom-001",
+   "url": "/home",
+   "탭": "",
+   "유형": "entry",
+   "열": [],
+   "어긋남": null,
+   "예외": null,
+   "머리": "none",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-job-001",
+   "url": "/system",
+   "탭": "",
+   "유형": "detailTable",
+   "열": [],
+   "어긋남": null,
+   "예외": null,
+   "머리": "menu",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-ntf-001",
+   "url": "/home",
+   "탭": "",
+   "유형": "entry",
+   "열": [],
+   "어긋남": null,
+   "예외": null,
+   "머리": "none",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-prm-001",
+   "url": "/permission",
+   "탭": "",
+   "유형": "detailTable",
+   "열": [],
+   "어긋남": null,
+   "예외": null,
+   "머리": "menu",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-prm-009",
+   "url": "/permission?tab=jobs",
+   "탭": "",
+   "유형": "detailTable",
+   "열": [],
+   "어긋남": null,
+   "예외": null,
+   "머리": "menu",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-prm-011",
+   "url": "/permission?tab=jobs",
+   "탭": "도구",
+   "유형": "detailTable",
+   "열": [],
+   "어긋남": null,
+   "예외": null,
+   "머리": "menu",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-prm-013",
+   "url": "/permission?tab=jobs",
+   "탭": "워크플로우",
+   "유형": "detailTable",
+   "열": [],
+   "어긋남": null,
+   "예외": null,
+   "머리": "menu",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-prm-015",
+   "url": "/permission?tab=jobs",
+   "탭": "모델 토큰",
+   "유형": "detailTable",
+   "열": [],
+   "어긋남": null,
+   "예외": null,
+   "머리": "menu",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-prm-019",
+   "url": "/permission",
+   "탭": "서비스 추가 승인",
+   "유형": "detailTable",
+   "열": [],
+   "어긋남": null,
+   "예외": null,
+   "머리": "menu",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-prm-020",
+   "url": "/permission",
+   "탭": "작업 이력",
+   "유형": "detailTable",
+   "열": [],
+   "어긋남": null,
+   "예외": null,
+   "머리": "menu",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-rag-001",
+   "url": "/rag",
+   "탭": "",
+   "유형": "list",
+   "열": [],
+   "어긋남": null,
+   "예외": null,
+   "머리": "list",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-rag-004",
+   "url": "/rag/rag-3001",
+   "탭": "문서",
+   "유형": "detailTable",
+   "열": [],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-rag-011",
+   "url": "/rag/rag-3001",
+   "탭": "임베딩",
+   "유형": "setting2",
+   "열": [
+    400,
+    1224
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-rag-015",
+   "url": "/rag/rag-3001",
+   "탭": "리랭커",
+   "유형": "setting2",
+   "열": [
+    400,
+    1224
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-rag-016",
+   "url": "/rag/rag-3002",
+   "탭": "LLM",
+   "유형": "setting2",
+   "열": [
+    400,
+    1224
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-rag-017",
+   "url": "/rag/rag-3001",
+   "탭": "검색 DB",
+   "유형": "side2",
+   "열": [],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-rag-022",
+   "url": "/rag/rag-3001",
+   "탭": "평가",
+   "유형": "setting2",
+   "열": [
+    400,
+    1224
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-rag-031",
+   "url": "/rag/rag-3001",
+   "탭": "모니터링",
+   "유형": "monitor2",
+   "열": [
+    982,
+    650
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-rag-032",
+   "url": "/rag/rag-3001",
+   "탭": "작업 이력",
+   "유형": "detailTable",
+   "열": [],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-rag-033",
+   "url": "/rag/rag-3001",
+   "탭": "정보",
+   "유형": "info3",
+   "열": [
+    360,
+    624,
+    624
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-rag-047",
+   "url": "/rag/rag-3001",
+   "탭": "평가",
+   "유형": "setting2",
+   "열": [
+    400,
+    1224
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-rpt-001",
+   "url": "/report",
+   "탭": "",
+   "유형": "list",
+   "열": [],
+   "어긋남": null,
+   "예외": null,
+   "머리": "list",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-set-001",
+   "url": "/settings?tab=general",
+   "탭": "",
+   "유형": "setting2",
+   "열": [
+    400,
+    1224
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "menu",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-set-002",
+   "url": "/settings?tab=members",
+   "탭": "",
+   "유형": "detailTable",
+   "열": [],
+   "어긋남": null,
+   "예외": null,
+   "머리": "menu",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-set-004",
+   "url": "/settings?tab=approvals",
+   "탭": "",
+   "유형": "detailTable",
+   "열": [],
+   "어긋남": null,
+   "예외": null,
+   "머리": "menu",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-set-006",
+   "url": "/settings?tab=system",
+   "탭": "",
+   "유형": "판정 불가",
+   "열": [
+    272,
+    272,
+    1064
+   ],
+   "어긋남": null,
+   "예외": "관리 설정 시스템 탭은 버전 272 | 라이선스 272 | 구성요소 표 1fr 이다. 작업 상세가 아니라 정보 3단에 맞추지 않았다(2026-11-16 결정에서 고르지 않음).",
+   "머리": "menu",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-srv-001",
+   "url": "/serving",
+   "탭": "",
+   "유형": "list",
+   "열": [],
+   "어긋남": null,
+   "예외": null,
+   "머리": "list",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-srv-010",
+   "url": "/serving/inf-2019",
+   "탭": "모니터링",
+   "유형": "monitor2",
+   "열": [
+    974,
+    650
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-srv-011",
+   "url": "/serving/inf-2019",
+   "탭": "평가",
+   "유형": "setting2",
+   "열": [
+    400,
+    1224
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-srv-012",
+   "url": "/serving/inf-2019/leaderboard",
+   "탭": "",
+   "유형": "dashboard",
+   "열": [
+    1640
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-srv-019",
+   "url": "/serving/inf-2019",
+   "탭": "작업 이력",
+   "유형": "detailTable",
+   "열": [],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-srv-020",
+   "url": "/serving/inf-2019",
+   "탭": "정보",
+   "유형": "info3",
+   "열": [
+    360,
+    624,
+    624
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-svc-001",
+   "url": "/service",
+   "탭": "",
+   "유형": "setting2",
+   "열": [
+    400,
+    1224
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "menu",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-svc-018",
+   "url": "/service",
+   "탭": "서비스 사용 현황",
+   "유형": "dashboard",
+   "열": [],
+   "어긋남": null,
+   "예외": null,
+   "머리": "menu",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-svc-019",
+   "url": "/service",
+   "탭": "자원 사용 현황",
+   "유형": "dashboard",
+   "열": [
+    603,
+    503,
+    503
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "menu",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-svc-020",
+   "url": "/service",
+   "탭": "개인 RAG",
+   "유형": "even2",
+   "열": [
+    812,
+    812
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "menu",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-svc-022",
+   "url": "/service",
+   "탭": "개인 도구",
+   "유형": "even2",
+   "열": [
+    812,
+    812
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "menu",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-svc-023",
+   "url": "/service",
+   "탭": "서비스 사용자",
+   "유형": "detailTable",
+   "열": [],
+   "어긋남": null,
+   "예외": null,
+   "머리": "menu",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-svc-025",
+   "url": "/service",
+   "탭": "API 가이드",
+   "유형": "full1",
+   "열": [
+    1640
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "menu",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-svc-026",
+   "url": "/service",
+   "탭": "작업 이력",
+   "유형": "detailTable",
+   "열": [],
+   "어긋남": null,
+   "예외": null,
+   "머리": "menu",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-tol-001",
+   "url": "/tool",
+   "탭": "",
+   "유형": "list",
+   "열": [],
+   "어긋남": null,
+   "예외": null,
+   "머리": "list",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-tol-003",
+   "url": "/tool/tl-inhouse-erp",
+   "탭": "모니터링",
+   "유형": "monitor2",
+   "열": [
+    982,
+    650
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-tol-004",
+   "url": "/tool/tl-inhouse-erp",
+   "탭": "정보",
+   "유형": "info3",
+   "열": [
+    360,
+    624,
+    624
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-tol-008",
+   "url": "/tool/tl-inhouse-erp",
+   "탭": "작업 이력",
+   "유형": "detailTable",
+   "열": [],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-wfl-001",
+   "url": "/workflow",
+   "탭": "",
+   "유형": "list",
+   "열": [],
+   "어긋남": null,
+   "예외": null,
+   "머리": "list",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-wfl-004-01",
+   "url": "/workflow/wfl-4007",
+   "탭": "설정",
+   "유형": "canvas",
+   "열": [
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-wfl-004-02",
+   "url": "/workflow/wfl-4007",
+   "탭": "설정",
+   "유형": "canvas",
+   "열": [
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-wfl-004-03",
+   "url": "/workflow/wfl-4007",
+   "탭": "설정",
+   "유형": "canvas",
+   "열": [
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-wfl-004-04",
+   "url": "/workflow/wfl-4007",
+   "탭": "설정",
+   "유형": "canvas",
+   "열": [
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-wfl-004-05",
+   "url": "/workflow/wfl-4007",
+   "탭": "설정",
+   "유형": "canvas",
+   "열": [
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-wfl-004-06",
+   "url": "/workflow/wfl-4009",
+   "탭": "설정",
+   "유형": "canvas",
+   "열": [
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-wfl-004-07",
+   "url": "/workflow/wfl-4009",
+   "탭": "설정",
+   "유형": "canvas",
+   "열": [
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-wfl-004-08",
+   "url": "/workflow/wfl-4009",
+   "탭": "설정",
+   "유형": "canvas",
+   "열": [
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-wfl-004",
+   "url": "/workflow/wfl-4009",
+   "탭": "설정",
+   "유형": "canvas",
+   "열": [],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-wfl-013",
+   "url": "/workflow/wfl-4012",
+   "탭": "테스트",
+   "유형": "test3",
+   "열": [
+    574,
+    574,
+    460
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-wfl-016",
+   "url": "/workflow/wfl-4012",
+   "탭": "보안 평가",
+   "유형": "setting2",
+   "열": [
+    400,
+    1224
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-wfl-022",
+   "url": "/workflow/wfl-4001",
+   "탭": "모니터링",
+   "유형": "full1",
+   "열": [
+    1640
+   ],
+   "어긋남": null,
+   "예외": "워크플로우 모니터링 탭은 판 하나(전폭)다(2026-11-16 결정에서 모니터링 2단으로 맞추기를 고르지 않음).",
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-wfl-023",
+   "url": "/workflow/wfl-4012",
+   "탭": "작업 이력",
+   "유형": "detailTable",
+   "열": [],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-wfl-025",
+   "url": "/workflow/wfl-4012",
+   "탭": "정보",
+   "유형": "info3",
+   "열": [
+    360,
+    624,
+    624
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-wfl-036",
+   "url": "/workflow/wfl-4012",
+   "탭": "보안 평가",
+   "유형": "setting2",
+   "열": [
+    400,
+    1224
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-wfl-038",
+   "url": "/workflow/wfl-4012",
+   "탭": "보안 평가",
+   "유형": "setting2",
+   "열": [
+    400,
+    1224
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-wfl-039",
+   "url": "/workflow/wfl-4012",
+   "탭": "보안 평가",
+   "유형": "setting2",
+   "열": [
+    400,
+    1224
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  }
+ ]
+}

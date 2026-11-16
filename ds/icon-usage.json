@@ -1,5 +1,5 @@
 {
- "만든때": "2026-11-16T07:15:33.159Z",
+ "만든때": "2026-11-16T11:37:50.198Z",
  "이름": {
   "chevDown": {
    "수": 25,
@@ -53,7 +53,6 @@
     "src/app/(agentbase)/workflow/[id]/components/props-panel.tsx",
     "src/components/app-sidebar.tsx",
     "src/components/console/folder-tree-picker.tsx",
-    "src/components/console/project-table.tsx",
     "src/components/console/quick-guide.tsx",
     "src/components/mcp-mark.tsx",
     "src/components/mobile-nav.tsx",
@@ -64,6 +63,7 @@
     "src/design-system/primitives/form.tsx",
     "src/design-system/primitives/icon-button.tsx",
     "src/design-system/primitives/options.tsx",
+    "src/design-system/primitives/project-list.tsx",
     "src/design-system/primitives/surface.tsx",
     "src/design-system/primitives/table.tsx"
    ]
@@ -734,12 +734,12 @@
      "src/app/(agentbase)/rag/[id]/components/rag-detail.tsx",
      "src/app/(agentbase)/workflow/[id]/components/props-panel.tsx",
      "src/components/app-sidebar.tsx",
-     "src/components/console/project-table.tsx",
      "src/components/console/quick-guide.tsx",
      "src/components/mobile-nav.tsx",
      "src/components/site-header.tsx",
      "src/design-system/primitives/form.tsx",
      "src/design-system/primitives/options.tsx",
+     "src/design-system/primitives/project-list.tsx",
      "src/design-system/primitives/surface.tsx"
     ]
    },
