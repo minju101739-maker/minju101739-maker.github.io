@@ -1,5 +1,5 @@
 {
- "만든때": "2026-11-16T11:57:39.074Z",
+ "만든때": "2026-11-17T20:48:57.116Z",
  "규격": {
   "splitLeft": 400,
   "infoLeft": 360,
@@ -8,6 +8,7 @@
  "수": {
   "entry": 5,
   "detailTable": 20,
+  "판정 불가": 2,
   "tree2": 1,
   "list": 7,
   "canvas": 85,
@@ -16,10 +17,9 @@
   "info3": 5,
   "dashboard": 4,
   "monitor2": 3,
-  "판정 불가": 1,
-  "even2": 2,
-  "full1": 2,
-  "test3": 1
+  "even2": 3,
+  "test3": 1,
+  "full1": 1
  },
  "화면": [
   {
@@ -56,7 +56,7 @@
    "머리어긋남": null
   },
   {
-   "id": "ab-com-027",
+   "id": "ab-com-026",
    "url": "/home",
    "탭": "",
    "유형": "entry",
@@ -64,6 +64,39 @@
    "어긋남": null,
    "예외": null,
    "머리": "none",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-crd-001",
+   "url": "/credit",
+   "탭": "",
+   "유형": "detailTable",
+   "열": [],
+   "어긋남": null,
+   "예외": null,
+   "머리": "menu",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-crd-002",
+   "url": "/credit",
+   "탭": "도구",
+   "유형": "detailTable",
+   "열": [],
+   "어긋남": null,
+   "예외": null,
+   "머리": "menu",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-crd-004",
+   "url": "/credit",
+   "탭": "작업 이력",
+   "유형": "판정 불가",
+   "열": [],
+   "어긋남": "판 0개(-)로는 유형을 정할 수 없다",
+   "예외": null,
+   "머리": "menu",
    "머리어긋남": null
   },
   {
@@ -1319,7 +1352,7 @@
    "머리어긋남": null
   },
   {
-   "id": "ab-prm-009",
+   "id": "ab-prm-003",
    "url": "/permission?tab=jobs",
    "탭": "",
    "유형": "detailTable",
@@ -1330,7 +1363,7 @@
    "머리어긋남": null
   },
   {
-   "id": "ab-prm-011",
+   "id": "ab-prm-005",
    "url": "/permission?tab=jobs",
    "탭": "도구",
    "유형": "detailTable",
@@ -1341,7 +1374,7 @@
    "머리어긋남": null
   },
   {
-   "id": "ab-prm-013",
+   "id": "ab-prm-007",
    "url": "/permission?tab=jobs",
    "탭": "워크플로우",
    "유형": "detailTable",
@@ -1352,29 +1385,7 @@
    "머리어긋남": null
   },
   {
-   "id": "ab-prm-015",
-   "url": "/permission?tab=jobs",
-   "탭": "모델 토큰",
-   "유형": "detailTable",
-   "열": [],
-   "어긋남": null,
-   "예외": null,
-   "머리": "menu",
-   "머리어긋남": null
-  },
-  {
-   "id": "ab-prm-019",
-   "url": "/permission",
-   "탭": "서비스 추가 승인",
-   "유형": "detailTable",
-   "열": [],
-   "어긋남": null,
-   "예외": null,
-   "머리": "menu",
-   "머리어긋남": null
-  },
-  {
-   "id": "ab-prm-020",
+   "id": "ab-prm-011",
    "url": "/permission",
    "탭": "작업 이력",
    "유형": "detailTable",
@@ -1750,7 +1761,7 @@
    "id": "ab-svc-025",
    "url": "/service",
    "탭": "API 가이드",
-   "유형": "full1",
+   "유형": "even2",
    "열": [
     1640
    ],

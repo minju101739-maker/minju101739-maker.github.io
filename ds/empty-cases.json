@@ -1,0 +1,421 @@
+{
+ "화면": {
+  "ab-crd-001": {
+   "유형": "screen",
+   "문구": [
+    "실행중인 모델 배포가 없습니다."
+   ],
+   "img": "/ds/screens/ab-crd-001__빈.png"
+  },
+  "ab-crd-004": {
+   "유형": "screen",
+   "문구": [
+    "기록된 작업이 없습니다."
+   ],
+   "img": "/ds/screens/ab-crd-004__빈.png"
+  },
+  "ab-dat-001": {
+   "유형": "pane",
+   "문구": [
+    "원본 데이터가 없습니다."
+   ],
+   "img": "/ds/screens/ab-dat-001__빈.png"
+  },
+  "ab-dpl-001": {
+   "유형": "screen",
+   "문구": [
+    "생성된 데이터 파이프라인이 없습니다."
+   ],
+   "img": "/ds/screens/ab-dpl-001__빈.png"
+  },
+  "ab-dsh-001": {
+   "유형": "pane",
+   "문구": [
+    "서비스 API 요청이 없습니다.",
+    "상용 API 모델 배포가 없습니다.",
+    "운영 중인 모델 배포가 없습니다.",
+    "운영 중인 RAG가 없습니다."
+   ],
+   "img": "/ds/screens/ab-dsh-001__빈.png"
+  },
+  "ab-ftm-001": {
+   "유형": "screen",
+   "문구": [
+    "생성된 파운데이션 모델이 없습니다."
+   ],
+   "img": "/ds/screens/ab-ftm-001__빈.png"
+  },
+  "ab-prm-001": {
+   "유형": "screen",
+   "문구": [
+    "연결된 서비스가 없습니다. API 연결"
+   ],
+   "img": "/ds/screens/ab-prm-001__빈.png"
+  },
+  "ab-prm-003": {
+   "유형": "screen",
+   "문구": [
+    "연결된 서비스가 없습니다. API 연결"
+   ],
+   "img": "/ds/screens/ab-prm-003__빈.png"
+  },
+  "ab-rag-001": {
+   "유형": "screen",
+   "문구": [
+    "생성된 RAG가 없습니다."
+   ],
+   "img": "/ds/screens/ab-rag-001__빈.png"
+  },
+  "ab-rpt-001": {
+   "유형": "screen",
+   "문구": [
+    "생성된 리포트가 없습니다."
+   ],
+   "img": "/ds/screens/ab-rpt-001__빈.png"
+  },
+  "ab-set-001": {
+   "유형": "screen",
+   "문구": [
+    "변경 이력이 없습니다."
+   ],
+   "img": "/ds/screens/ab-set-001__빈.png"
+  },
+  "ab-set-004": {
+   "유형": "screen",
+   "문구": [
+    "감사 기록이 없습니다."
+   ],
+   "img": "/ds/screens/ab-set-004__빈.png"
+  },
+  "ab-srv-001": {
+   "유형": "screen",
+   "문구": [
+    "생성된 모델 배포가 없습니다."
+   ],
+   "img": "/ds/screens/ab-srv-001__빈.png"
+  },
+  "ab-svc-001": {
+   "유형": "screen",
+   "문구": [
+    "오픈할 수 있는 워크플로우가 없습니다."
+   ],
+   "img": "/ds/screens/ab-svc-001__빈.png"
+  },
+  "ab-svc-018": {
+   "유형": "screen",
+   "문구": [
+    "오픈 워크플로우가 없습니다."
+   ],
+   "img": "/ds/screens/ab-svc-018__빈.png"
+  },
+  "ab-svc-019": {
+   "유형": "screen",
+   "문구": [
+    "자원 사용 기록이 없습니다."
+   ],
+   "img": "/ds/screens/ab-svc-019__빈.png"
+  },
+  "ab-svc-020": {
+   "유형": "pane",
+   "문구": [
+    "생성된 개인 RAG가 없습니다.",
+    "선택한 항목이 없습니다."
+   ],
+   "img": "/ds/screens/ab-svc-020__빈.png"
+  },
+  "ab-svc-022": {
+   "유형": "pane",
+   "문구": [
+    "생성된 개인 도구가 없습니다.",
+    "선택한 항목이 없습니다."
+   ],
+   "img": "/ds/screens/ab-svc-022__빈.png"
+  },
+  "ab-svc-023": {
+   "유형": "screen",
+   "문구": [
+    "서비스 사용자가 없습니다."
+   ],
+   "img": "/ds/screens/ab-svc-023__빈.png"
+  },
+  "ab-svc-025": {
+   "유형": "pane",
+   "문구": [
+    "발급한 API Key가 없습니다.",
+    "오픈 워크플로우가 없습니다."
+   ],
+   "img": "/ds/screens/ab-svc-025__빈.png"
+  },
+  "ab-wfl-001": {
+   "유형": "screen",
+   "문구": [
+    "생성된 워크플로우가 없습니다."
+   ],
+   "img": "/ds/screens/ab-wfl-001__빈.png"
+  },
+  "ab-rag-031": {
+   "유형": "screen",
+   "문구": [
+    "검색 기록이 없습니다."
+   ],
+   "img": "/ds/screens/ab-rag-031__생성됨.png",
+   "상태": "생성됨"
+  },
+  "ab-srv-010": {
+   "유형": "screen",
+   "문구": [
+    "호출 기록이 없습니다."
+   ],
+   "img": "/ds/screens/ab-srv-010__생성됨.png",
+   "상태": "생성됨"
+  },
+  "ab-tol-003": {
+   "유형": "screen",
+   "문구": [
+    "호출 기록이 없습니다."
+   ],
+   "img": "/ds/screens/ab-tol-003__생성됨.png",
+   "상태": "생성됨"
+  },
+  "ab-com-004": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "ab-crd-002": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "ab-dpl-004": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "ab-dpl-014": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "ab-dpl-016": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "ab-dpl-018": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "ab-dpl-019": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "ab-ftm-004": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "ab-ftm-007": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "ab-ftm-020": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "ab-ftm-021": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "ab-job-001": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "ab-prm-005": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "ab-prm-007": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "ab-prm-011": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "ab-rag-004": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "ab-rag-011": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "ab-rag-015": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "ab-rag-016": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "ab-rag-017": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "ab-rag-022": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "ab-rag-032": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "ab-rag-033": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "ab-set-002": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "ab-set-006": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "ab-srv-011": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "ab-srv-012": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "ab-srv-019": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "ab-srv-020": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "ab-svc-026": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "ab-tol-001": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "ab-tol-004": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "ab-tol-008": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "ab-wfl-004": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "ab-wfl-013": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "ab-wfl-016": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "ab-wfl-022": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "ab-wfl-023": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "ab-wfl-025": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "ab-wfl-036": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  }
+ }
+}
