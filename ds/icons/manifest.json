@@ -30,8 +30,8 @@
   },
   {
    "이름": "serving",
-   "원본유형": "raw",
-   "변환": "손 그림",
+   "원본유형": "fill",
+   "변환": "같은 모양",
    "line": "line/serving.svg",
    "fill": "fill/serving.svg"
   },
@@ -472,14 +472,14 @@
   {
    "이름": "axisSource",
    "원본유형": "line",
-   "변환": "변환",
+   "변환": "손 그림",
    "line": "line/axisSource.svg",
    "fill": "fill/axisSource.svg"
   },
   {
    "이름": "axisPreprocess",
    "원본유형": "line",
-   "변환": "같은 모양",
+   "변환": "손 그림",
    "line": "line/axisPreprocess.svg",
    "fill": "fill/axisPreprocess.svg"
   },
@@ -514,7 +514,7 @@
   {
    "이름": "axisAnalyze",
    "원본유형": "line",
-   "변환": "같은 모양",
+   "변환": "손 그림",
    "line": "line/axisAnalyze.svg",
    "fill": "fill/axisAnalyze.svg"
   },
@@ -624,6 +624,27 @@
    "fill": "fill/navHistory.svg"
   },
   {
+   "이름": "navCredit",
+   "원본유형": "fill",
+   "변환": "없음",
+   "line": null,
+   "fill": "fill/navCredit.svg"
+  },
+  {
+   "이름": "navWorkspace",
+   "원본유형": "line",
+   "변환": "같은 모양",
+   "line": "line/navWorkspace.svg",
+   "fill": "fill/navWorkspace.svg"
+  },
+  {
+   "이름": "navImage",
+   "원본유형": "line",
+   "변환": "같은 모양",
+   "line": "line/navImage.svg",
+   "fill": "fill/navImage.svg"
+  },
+  {
    "이름": "linkVar",
    "원본유형": "line",
    "변환": "같은 모양",
@@ -650,6 +671,13 @@
    "변환": "같은 모양",
    "line": "line/undo.svg",
    "fill": "fill/undo.svg"
+  },
+  {
+   "이름": "redo",
+   "원본유형": "line",
+   "변환": "같은 모양",
+   "line": "line/redo.svg",
+   "fill": "fill/redo.svg"
   },
   {
    "이름": "loader",
@@ -699,6 +727,839 @@
    "변환": "변환",
    "line": "line/messageSquare.svg",
    "fill": "fill/messageSquare.svg"
+  },
+  {
+   "이름": "taskImageClassification",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/taskImageClassification.svg",
+   "fill": "fill/taskImageClassification.svg"
+  },
+  {
+   "이름": "taskObjectDetection",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/taskObjectDetection.svg",
+   "fill": "fill/taskObjectDetection.svg"
+  },
+  {
+   "이름": "taskImageSegmentation",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/taskImageSegmentation.svg",
+   "fill": "fill/taskImageSegmentation.svg"
+  },
+  {
+   "이름": "taskKeypointDetection",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/taskKeypointDetection.svg",
+   "fill": "fill/taskKeypointDetection.svg"
+  },
+  {
+   "이름": "taskDepthEstimation",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/taskDepthEstimation.svg",
+   "fill": "fill/taskDepthEstimation.svg"
+  },
+  {
+   "이름": "taskImageFeatureExtraction",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/taskImageFeatureExtraction.svg",
+   "fill": "fill/taskImageFeatureExtraction.svg"
+  },
+  {
+   "이름": "taskTextClassification",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/taskTextClassification.svg",
+   "fill": "fill/taskTextClassification.svg"
+  },
+  {
+   "이름": "taskTokenClassification",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/taskTokenClassification.svg",
+   "fill": "fill/taskTokenClassification.svg"
+  },
+  {
+   "이름": "taskQuestionAnswering",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/taskQuestionAnswering.svg",
+   "fill": "fill/taskQuestionAnswering.svg"
+  },
+  {
+   "이름": "taskTranslation",
+   "원본유형": "line",
+   "변환": "같은 모양",
+   "line": "line/taskTranslation.svg",
+   "fill": "fill/taskTranslation.svg"
+  },
+  {
+   "이름": "taskSummarization",
+   "원본유형": "line",
+   "변환": "같은 모양",
+   "line": "line/taskSummarization.svg",
+   "fill": "fill/taskSummarization.svg"
+  },
+  {
+   "이름": "taskSentenceSimilarity",
+   "원본유형": "line",
+   "변환": "같은 모양",
+   "line": "line/taskSentenceSimilarity.svg",
+   "fill": "fill/taskSentenceSimilarity.svg"
+  },
+  {
+   "이름": "taskTextRanking",
+   "원본유형": "line",
+   "변환": "같은 모양",
+   "line": "line/taskTextRanking.svg",
+   "fill": "fill/taskTextRanking.svg"
+  },
+  {
+   "이름": "taskFeatureExtraction",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/taskFeatureExtraction.svg",
+   "fill": "fill/taskFeatureExtraction.svg"
+  },
+  {
+   "이름": "taskTextGeneration",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/taskTextGeneration.svg",
+   "fill": "fill/taskTextGeneration.svg"
+  },
+  {
+   "이름": "taskFillMask",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/taskFillMask.svg",
+   "fill": "fill/taskFillMask.svg"
+  },
+  {
+   "이름": "taskImageToText",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/taskImageToText.svg",
+   "fill": "fill/taskImageToText.svg"
+  },
+  {
+   "이름": "taskZeroShotImageClassification",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/taskZeroShotImageClassification.svg",
+   "fill": "fill/taskZeroShotImageClassification.svg"
+  },
+  {
+   "이름": "taskSpeechRecognition",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/taskSpeechRecognition.svg",
+   "fill": "fill/taskSpeechRecognition.svg"
+  },
+  {
+   "이름": "taskTabularClassification",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/taskTabularClassification.svg",
+   "fill": "fill/taskTabularClassification.svg"
+  },
+  {
+   "이름": "taskTabularRegression",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/taskTabularRegression.svg",
+   "fill": "fill/taskTabularRegression.svg"
+  },
+  {
+   "이름": "taskReinforcementLearning",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/taskReinforcementLearning.svg",
+   "fill": "fill/taskReinforcementLearning.svg"
+  },
+  {
+   "이름": "taskVisualQuestionAnswering",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/taskVisualQuestionAnswering.svg",
+   "fill": "fill/taskVisualQuestionAnswering.svg"
+  },
+  {
+   "이름": "taskDocumentQuestionAnswering",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/taskDocumentQuestionAnswering.svg",
+   "fill": "fill/taskDocumentQuestionAnswering.svg"
+  },
+  {
+   "이름": "taskMaskGeneration",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/taskMaskGeneration.svg",
+   "fill": "fill/taskMaskGeneration.svg"
+  },
+  {
+   "이름": "taskZeroShotClassification",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/taskZeroShotClassification.svg",
+   "fill": "fill/taskZeroShotClassification.svg"
+  },
+  {
+   "이름": "taskTextToSpeech",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/taskTextToSpeech.svg",
+   "fill": "fill/taskTextToSpeech.svg"
+  },
+  {
+   "이름": "taskAudioClassification",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/taskAudioClassification.svg",
+   "fill": "fill/taskAudioClassification.svg"
+  },
+  {
+   "이름": "taskTextToImage",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/taskTextToImage.svg",
+   "fill": "fill/taskTextToImage.svg"
+  },
+  {
+   "이름": "taskGeneric",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/taskGeneric.svg",
+   "fill": "fill/taskGeneric.svg"
+  },
+  {
+   "이름": "chartLine",
+   "원본유형": "line",
+   "변환": "같은 모양",
+   "line": "line/chartLine.svg",
+   "fill": "fill/chartLine.svg"
+  },
+  {
+   "이름": "chartBar",
+   "원본유형": "line",
+   "변환": "같은 모양",
+   "line": "line/chartBar.svg",
+   "fill": "fill/chartBar.svg"
+  },
+  {
+   "이름": "chartPie",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/chartPie.svg",
+   "fill": "fill/chartPie.svg"
+  },
+  {
+   "이름": "chartHistogram",
+   "원본유형": "line",
+   "변환": "같은 모양",
+   "line": "line/chartHistogram.svg",
+   "fill": "fill/chartHistogram.svg"
+  },
+  {
+   "이름": "chartScatter",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/chartScatter.svg",
+   "fill": "fill/chartScatter.svg"
+  },
+  {
+   "이름": "chartHeatmap",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/chartHeatmap.svg",
+   "fill": "fill/chartHeatmap.svg"
+  },
+  {
+   "이름": "chartBoxplot",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/chartBoxplot.svg",
+   "fill": "fill/chartBoxplot.svg"
+  },
+  {
+   "이름": "chartWordcloud",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/chartWordcloud.svg",
+   "fill": "fill/chartWordcloud.svg"
+  },
+  {
+   "이름": "chartNetwork",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/chartNetwork.svg",
+   "fill": "fill/chartNetwork.svg"
+  },
+  {
+   "이름": "chartImageAnnotation",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/chartImageAnnotation.svg",
+   "fill": "fill/chartImageAnnotation.svg"
+  },
+  {
+   "이름": "chartSpectrogram",
+   "원본유형": "line",
+   "변환": "같은 모양",
+   "line": "line/chartSpectrogram.svg",
+   "fill": "fill/chartSpectrogram.svg"
+  },
+  {
+   "이름": "chartVideoAnnotation",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/chartVideoAnnotation.svg",
+   "fill": "fill/chartVideoAnnotation.svg"
+  },
+  {
+   "이름": "srcDatabase",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/srcDatabase.svg",
+   "fill": "fill/srcDatabase.svg"
+  },
+  {
+   "이름": "srcTable",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/srcTable.svg",
+   "fill": "fill/srcTable.svg"
+  },
+  {
+   "이름": "stepMerge",
+   "원본유형": "line",
+   "변환": "같은 모양",
+   "line": "line/stepMerge.svg",
+   "fill": "fill/stepMerge.svg"
+  },
+  {
+   "이름": "stepBranch",
+   "원본유형": "line",
+   "변환": "같은 모양",
+   "line": "line/stepBranch.svg",
+   "fill": "fill/stepBranch.svg"
+  },
+  {
+   "이름": "stepSplit",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/stepSplit.svg",
+   "fill": "fill/stepSplit.svg"
+  },
+  {
+   "이름": "stepOrphan",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/stepOrphan.svg",
+   "fill": "fill/stepOrphan.svg"
+  },
+  {
+   "이름": "stepConditionFilter",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/stepConditionFilter.svg",
+   "fill": "fill/stepConditionFilter.svg"
+  },
+  {
+   "이름": "stepCode",
+   "원본유형": "line",
+   "변환": "같은 모양",
+   "line": "line/stepCode.svg",
+   "fill": "fill/stepCode.svg"
+  },
+  {
+   "이름": "dtTable",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/dtTable.svg",
+   "fill": "fill/dtTable.svg"
+  },
+  {
+   "이름": "dtText",
+   "원본유형": "line",
+   "변환": "같은 모양",
+   "line": "line/dtText.svg",
+   "fill": "fill/dtText.svg"
+  },
+  {
+   "이름": "dtImage",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/dtImage.svg",
+   "fill": "fill/dtImage.svg"
+  },
+  {
+   "이름": "dtAudio",
+   "원본유형": "line",
+   "변환": "같은 모양",
+   "line": "line/dtAudio.svg",
+   "fill": "fill/dtAudio.svg"
+  },
+  {
+   "이름": "dtVideo",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/dtVideo.svg",
+   "fill": "fill/dtVideo.svg"
+  },
+  {
+   "이름": "dtDocument",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/dtDocument.svg",
+   "fill": "fill/dtDocument.svg"
+  },
+  {
+   "이름": "ppTableCast",
+   "원본유형": "line",
+   "변환": "같은 모양",
+   "line": "line/ppTableCast.svg",
+   "fill": "fill/ppTableCast.svg"
+  },
+  {
+   "이름": "ppTableDerive",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/ppTableDerive.svg",
+   "fill": "fill/ppTableDerive.svg"
+  },
+  {
+   "이름": "ppTableImpute",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/ppTableImpute.svg",
+   "fill": "fill/ppTableImpute.svg"
+  },
+  {
+   "이름": "ppTableDropMissing",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/ppTableDropMissing.svg",
+   "fill": "fill/ppTableDropMissing.svg"
+  },
+  {
+   "이름": "ppTableScale",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/ppTableScale.svg",
+   "fill": "fill/ppTableScale.svg"
+  },
+  {
+   "이름": "ppTableDedupRows",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/ppTableDedupRows.svg",
+   "fill": "fill/ppTableDedupRows.svg"
+  },
+  {
+   "이름": "ppTableSelect",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/ppTableSelect.svg",
+   "fill": "fill/ppTableSelect.svg"
+  },
+  {
+   "이름": "ppTableRename",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/ppTableRename.svg",
+   "fill": "fill/ppTableRename.svg"
+  },
+  {
+   "이름": "ppTableAggregate",
+   "원본유형": "line",
+   "변환": "같은 모양",
+   "line": "line/ppTableAggregate.svg",
+   "fill": "fill/ppTableAggregate.svg"
+  },
+  {
+   "이름": "ppTableSort",
+   "원본유형": "line",
+   "변환": "같은 모양",
+   "line": "line/ppTableSort.svg",
+   "fill": "fill/ppTableSort.svg"
+  },
+  {
+   "이름": "ppTableParseDatetime",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/ppTableParseDatetime.svg",
+   "fill": "fill/ppTableParseDatetime.svg"
+  },
+  {
+   "이름": "ppTableParseAmount",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/ppTableParseAmount.svg",
+   "fill": "fill/ppTableParseAmount.svg"
+  },
+  {
+   "이름": "ppTableTrim",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/ppTableTrim.svg",
+   "fill": "fill/ppTableTrim.svg"
+  },
+  {
+   "이름": "ppTableNormalizeKey",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/ppTableNormalizeKey.svg",
+   "fill": "fill/ppTableNormalizeKey.svg"
+  },
+  {
+   "이름": "ppTableReplaceSentinel",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/ppTableReplaceSentinel.svg",
+   "fill": "fill/ppTableReplaceSentinel.svg"
+  },
+  {
+   "이름": "ppTablePickLatest",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/ppTablePickLatest.svg",
+   "fill": "fill/ppTablePickLatest.svg"
+  },
+  {
+   "이름": "ppTableExtractFromPath",
+   "원본유형": "line",
+   "변환": "같은 모양",
+   "line": "line/ppTableExtractFromPath.svg",
+   "fill": "fill/ppTableExtractFromPath.svg"
+  },
+  {
+   "이름": "ppTableResampleTime",
+   "원본유형": "line",
+   "변환": "같은 모양",
+   "line": "line/ppTableResampleTime.svg",
+   "fill": "fill/ppTableResampleTime.svg"
+  },
+  {
+   "이름": "ppTableOutlier",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/ppTableOutlier.svg",
+   "fill": "fill/ppTableOutlier.svg"
+  },
+  {
+   "이름": "ppTableEncode",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/ppTableEncode.svg",
+   "fill": "fill/ppTableEncode.svg"
+  },
+  {
+   "이름": "ppTableSelectFeatures",
+   "원본유형": "line",
+   "변환": "같은 모양",
+   "line": "line/ppTableSelectFeatures.svg",
+   "fill": "fill/ppTableSelectFeatures.svg"
+  },
+  {
+   "이름": "ppTableRebalance",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/ppTableRebalance.svg",
+   "fill": "fill/ppTableRebalance.svg"
+  },
+  {
+   "이름": "ppTableConvertMarkerJson",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/ppTableConvertMarkerJson.svg",
+   "fill": "fill/ppTableConvertMarkerJson.svg"
+  },
+  {
+   "이름": "ppTextNormalize",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/ppTextNormalize.svg",
+   "fill": "fill/ppTextNormalize.svg"
+  },
+  {
+   "이름": "ppTextChunk",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/ppTextChunk.svg",
+   "fill": "fill/ppTextChunk.svg"
+  },
+  {
+   "이름": "ppTextFilterLength",
+   "원본유형": "line",
+   "변환": "같은 모양",
+   "line": "line/ppTextFilterLength.svg",
+   "fill": "fill/ppTextFilterLength.svg"
+  },
+  {
+   "이름": "ppTextDedupExact",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/ppTextDedupExact.svg",
+   "fill": "fill/ppTextDedupExact.svg"
+  },
+  {
+   "이름": "ppPrivacyMask",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/ppPrivacyMask.svg",
+   "fill": "fill/ppPrivacyMask.svg"
+  },
+  {
+   "이름": "ppTextEncoding",
+   "원본유형": "line",
+   "변환": "같은 모양",
+   "line": "line/ppTextEncoding.svg",
+   "fill": "fill/ppTextEncoding.svg"
+  },
+  {
+   "이름": "ppTextEmbed",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/ppTextEmbed.svg",
+   "fill": "fill/ppTextEmbed.svg"
+  },
+  {
+   "이름": "ppTextFilterSemantic",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/ppTextFilterSemantic.svg",
+   "fill": "fill/ppTextFilterSemantic.svg"
+  },
+  {
+   "이름": "ppTextAugEda",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/ppTextAugEda.svg",
+   "fill": "fill/ppTextAugEda.svg"
+  },
+  {
+   "이름": "ppTextAugReorder",
+   "원본유형": "line",
+   "변환": "같은 모양",
+   "line": "line/ppTextAugReorder.svg",
+   "fill": "fill/ppTextAugReorder.svg"
+  },
+  {
+   "이름": "ppTextAugParaphrase",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/ppTextAugParaphrase.svg",
+   "fill": "fill/ppTextAugParaphrase.svg"
+  },
+  {
+   "이름": "ppImageCheckDecode",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/ppImageCheckDecode.svg",
+   "fill": "fill/ppImageCheckDecode.svg"
+  },
+  {
+   "이름": "ppImageExifApply",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/ppImageExifApply.svg",
+   "fill": "fill/ppImageExifApply.svg"
+  },
+  {
+   "이름": "ppImageConvertRgb",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/ppImageConvertRgb.svg",
+   "fill": "fill/ppImageConvertRgb.svg"
+  },
+  {
+   "이름": "ppImageResize",
+   "원본유형": "line",
+   "변환": "같은 모양",
+   "line": "line/ppImageResize.svg",
+   "fill": "fill/ppImageResize.svg"
+  },
+  {
+   "이름": "ppImageFilterBlur",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/ppImageFilterBlur.svg",
+   "fill": "fill/ppImageFilterBlur.svg"
+  },
+  {
+   "이름": "ppImageDedupPhash",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/ppImageDedupPhash.svg",
+   "fill": "fill/ppImageDedupPhash.svg"
+  },
+  {
+   "이름": "ppImageRotateFlip",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/ppImageRotateFlip.svg",
+   "fill": "fill/ppImageRotateFlip.svg"
+  },
+  {
+   "이름": "ppImageBrightnessContrast",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/ppImageBrightnessContrast.svg",
+   "fill": "fill/ppImageBrightnessContrast.svg"
+  },
+  {
+   "이름": "ppImageColor",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/ppImageColor.svg",
+   "fill": "fill/ppImageColor.svg"
+  },
+  {
+   "이름": "ppImageNormalizePixel",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/ppImageNormalizePixel.svg",
+   "fill": "fill/ppImageNormalizePixel.svg"
+  },
+  {
+   "이름": "ppImageEmbed",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/ppImageEmbed.svg",
+   "fill": "fill/ppImageEmbed.svg"
+  },
+  {
+   "이름": "ppImageCrop",
+   "원본유형": "line",
+   "변환": "같은 모양",
+   "line": "line/ppImageCrop.svg",
+   "fill": "fill/ppImageCrop.svg"
+  },
+  {
+   "이름": "ppImageAffine",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/ppImageAffine.svg",
+   "fill": "fill/ppImageAffine.svg"
+  },
+  {
+   "이름": "ppImageRandomErase",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/ppImageRandomErase.svg",
+   "fill": "fill/ppImageRandomErase.svg"
+  },
+  {
+   "이름": "ppImageAugNoise",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/ppImageAugNoise.svg",
+   "fill": "fill/ppImageAugNoise.svg"
+  },
+  {
+   "이름": "ppImageAugBlur",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/ppImageAugBlur.svg",
+   "fill": "fill/ppImageAugBlur.svg"
+  },
+  {
+   "이름": "ppImageAugment",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/ppImageAugment.svg",
+   "fill": "fill/ppImageAugment.svg"
+  },
+  {
+   "이름": "ppImageAugMix",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/ppImageAugMix.svg",
+   "fill": "fill/ppImageAugMix.svg"
+  },
+  {
+   "이름": "ppVideoExtractFrames",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/ppVideoExtractFrames.svg",
+   "fill": "fill/ppVideoExtractFrames.svg"
+  },
+  {
+   "이름": "ppVideoExtractAudio",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/ppVideoExtractAudio.svg",
+   "fill": "fill/ppVideoExtractAudio.svg"
+  },
+  {
+   "이름": "ppAudioResample",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/ppAudioResample.svg",
+   "fill": "fill/ppAudioResample.svg"
+  },
+  {
+   "이름": "ppAudioToMono",
+   "원본유형": "line",
+   "변환": "같은 모양",
+   "line": "line/ppAudioToMono.svg",
+   "fill": "fill/ppAudioToMono.svg"
+  },
+  {
+   "이름": "ppAudioSplitVad",
+   "원본유형": "line",
+   "변환": "같은 모양",
+   "line": "line/ppAudioSplitVad.svg",
+   "fill": "fill/ppAudioSplitVad.svg"
+  },
+  {
+   "이름": "ppAudioFilterDuration",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/ppAudioFilterDuration.svg",
+   "fill": "fill/ppAudioFilterDuration.svg"
+  },
+  {
+   "이름": "ppDocRenderPageImage",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/ppDocRenderPageImage.svg",
+   "fill": "fill/ppDocRenderPageImage.svg"
+  },
+  {
+   "이름": "ppDocParseText",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/ppDocParseText.svg",
+   "fill": "fill/ppDocParseText.svg"
+  },
+  {
+   "이름": "stepSchema",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/stepSchema.svg",
+   "fill": "fill/stepSchema.svg"
+  },
+  {
+   "이름": "srcRemoteFile",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/srcRemoteFile.svg",
+   "fill": "fill/srcRemoteFile.svg"
+  },
+  {
+   "이름": "stepPublish",
+   "원본유형": "line",
+   "변환": "변환",
+   "line": "line/stepPublish.svg",
+   "fill": "fill/stepPublish.svg"
   },
   {
    "이름": "shieldCheck",

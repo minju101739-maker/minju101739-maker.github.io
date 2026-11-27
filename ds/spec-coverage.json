@@ -1,5 +1,5 @@
 {
- "만든때": "2026-11-17T20:48:57.116Z",
+ "만든때": "2026-11-23T16:03:40.580Z",
  "줄들": [
   {
    "차원": "색",
@@ -40,7 +40,7 @@
    "차원": "텍스트",
    "규격": "크기 7개(caption, body, modal, lead, title-sm, title-md, title-lg), 굵기 400·500·600",
    "사용": "크기 7개, 굵기 semibold·medium·normal",
-   "규격안": 2067,
+   "규격안": 2079,
    "매핑누락": [],
    "미적용": [],
    "어디서": "컴포넌트 > 텍스트"
@@ -49,7 +49,7 @@
    "차원": "모서리",
    "규격": "반경 7개(sm 4, md 6, lg 10, input 8, pill 999, svcCard 12, svcPane 16)",
    "사용": "9종",
-   "규격안": 889,
+   "규격안": 928,
    "매핑누락": [],
    "미적용": [
     {
@@ -67,49 +67,124 @@
   },
   {
    "차원": "컴포넌트",
-   "규격": "Component 36개(catalog.ts), 요소 계열 7개",
-   "사용": "촬영에서 잰 Component 37개, 조작 요소 6496개",
-   "규격안": 5381,
+   "규격": "Component 37개(catalog.ts), 요소 계열 7개",
+   "사용": "촬영에서 잰 Component 52개, 조작 요소 7263개",
+   "규격안": 5952,
    "매핑누락": [
     {
+     "값": "branch-paths",
+     "설명": "촬영에서 잰 영역인데 카탈로그(catalog.ts 컴포넌트들)에 정의가 없다",
+     "바꿀": "catalog.ts 에 용어, 이름, 부품, 정의를 더한다"
+    },
+    {
      "값": "comp.detail.section",
+     "설명": "촬영에서 잰 영역인데 카탈로그(catalog.ts 컴포넌트들)에 정의가 없다",
+     "바꿀": "catalog.ts 에 용어, 이름, 부품, 정의를 더한다"
+    },
+    {
+     "값": "comp.form.choice-menu",
+     "설명": "촬영에서 잰 영역인데 카탈로그(catalog.ts 컴포넌트들)에 정의가 없다",
+     "바꿀": "catalog.ts 에 용어, 이름, 부품, 정의를 더한다"
+    },
+    {
+     "값": "comp.form.conn-group",
+     "설명": "촬영에서 잰 영역인데 카탈로그(catalog.ts 컴포넌트들)에 정의가 없다",
+     "바꿀": "catalog.ts 에 용어, 이름, 부품, 정의를 더한다"
+    },
+    {
+     "값": "comp.form.conn-status",
+     "설명": "촬영에서 잰 영역인데 카탈로그(catalog.ts 컴포넌트들)에 정의가 없다",
+     "바꿀": "catalog.ts 에 용어, 이름, 부품, 정의를 더한다"
+    },
+    {
+     "값": "comp.notice.line",
+     "설명": "촬영에서 잰 영역인데 카탈로그(catalog.ts 컴포넌트들)에 정의가 없다",
+     "바꿀": "catalog.ts 에 용어, 이름, 부품, 정의를 더한다"
+    },
+    {
+     "값": "comp.result.card",
+     "설명": "촬영에서 잰 영역인데 카탈로그(catalog.ts 컴포넌트들)에 정의가 없다",
+     "바꿀": "catalog.ts 에 용어, 이름, 부품, 정의를 더한다"
+    },
+    {
+     "값": "label-step-definition-problem",
+     "설명": "촬영에서 잰 영역인데 카탈로그(catalog.ts 컴포넌트들)에 정의가 없다",
+     "바꿀": "catalog.ts 에 용어, 이름, 부품, 정의를 더한다"
+    },
+    {
+     "값": "labeling-canvas-bar",
+     "설명": "촬영에서 잰 영역인데 카탈로그(catalog.ts 컴포넌트들)에 정의가 없다",
+     "바꿀": "catalog.ts 에 용어, 이름, 부품, 정의를 더한다"
+    },
+    {
+     "값": "labeling-item-list",
+     "설명": "촬영에서 잰 영역인데 카탈로그(catalog.ts 컴포넌트들)에 정의가 없다",
+     "바꿀": "catalog.ts 에 용어, 이름, 부품, 정의를 더한다"
+    },
+    {
+     "값": "labeling-task",
+     "설명": "촬영에서 잰 영역인데 카탈로그(catalog.ts 컴포넌트들)에 정의가 없다",
+     "바꿀": "catalog.ts 에 용어, 이름, 부품, 정의를 더한다"
+    },
+    {
+     "값": "labeling-text",
+     "설명": "촬영에서 잰 영역인데 카탈로그(catalog.ts 컴포넌트들)에 정의가 없다",
+     "바꿀": "catalog.ts 에 용어, 이름, 부품, 정의를 더한다"
+    },
+    {
+     "값": "labeling-tools",
+     "설명": "촬영에서 잰 영역인데 카탈로그(catalog.ts 컴포넌트들)에 정의가 없다",
+     "바꿀": "catalog.ts 에 용어, 이름, 부품, 정의를 더한다"
+    },
+    {
+     "값": "labeling-work-area",
+     "설명": "촬영에서 잰 영역인데 카탈로그(catalog.ts 컴포넌트들)에 정의가 없다",
+     "바꿀": "catalog.ts 에 용어, 이름, 부품, 정의를 더한다"
+    },
+    {
+     "값": "labeling-work-head",
+     "설명": "촬영에서 잰 영역인데 카탈로그(catalog.ts 컴포넌트들)에 정의가 없다",
+     "바꿀": "catalog.ts 에 용어, 이름, 부품, 정의를 더한다"
+    },
+    {
+     "값": "pipe-rail-group",
      "설명": "촬영에서 잰 영역인데 카탈로그(catalog.ts 컴포넌트들)에 정의가 없다",
      "바꿀": "catalog.ts 에 용어, 이름, 부품, 정의를 더한다"
     }
    ],
    "미적용": [
     {
-     "값": "Button 783/2275",
+     "값": "Button 941/2550",
      "설명": "DS 부품이 아닌 요소. 점검 > 요소에서 자리를 본다",
      "바꿀": "DS 부품으로 바꾼다. 부품이 없는 꼴(노드 레일 항목, 사유를 여는 상태 칩)은 부품을 정의한다"
     },
     {
-     "값": "Icon Button 172/2426",
+     "값": "Icon Button 169/2507",
      "설명": "촬영 때는 맨 button 이었다. 11-13 에 IconButton 으로 바꿨다. 다음 촬영에서 다시 센다",
      "바꿀": "DS 부품으로 바꾼다. 부품이 없는 꼴(노드 레일 항목, 사유를 여는 상태 칩)은 부품을 정의한다"
     },
     {
-     "값": "Link 234/256",
+     "값": "Link 233/253",
      "설명": "촬영 때는 DS 링크 부품이 없었다. 11-13 에 TextLink 를 만들어 코드는 바꿨다",
      "바꿀": "DS 부품으로 바꾼다. 부품이 없는 꼴(노드 레일 항목, 사유를 여는 상태 칩)은 부품을 정의한다"
     },
     {
-     "값": "Tab 48/812",
+     "값": "Tab 47/881",
      "설명": "DS 부품이 아닌 요소. 점검 > 요소에서 자리를 본다",
      "바꿀": "DS 부품으로 바꾼다. 부품이 없는 꼴(노드 레일 항목, 사유를 여는 상태 칩)은 부품을 정의한다"
     },
     {
-     "값": "Select 21/355",
+     "값": "Select 27/314",
      "설명": "DS 부품이 아닌 요소. 점검 > 요소에서 자리를 본다",
      "바꿀": "DS 부품으로 바꾼다. 부품이 없는 꼴(노드 레일 항목, 사유를 여는 상태 칩)은 부품을 정의한다"
     },
     {
-     "값": "Text Input 78/368",
+     "값": "Text Input 112/454",
      "설명": "DS 부품이 아닌 요소. 점검 > 요소에서 자리를 본다",
      "바꿀": "DS 부품으로 바꾼다. 부품이 없는 꼴(노드 레일 항목, 사유를 여는 상태 칩)은 부품을 정의한다"
     },
     {
-     "값": "Choice 35/260",
+     "값": "Choice 35/557",
      "설명": "DS 부품이 아닌 요소. 점검 > 요소에서 자리를 본다",
      "바꿀": "DS 부품으로 바꾼다. 부품이 없는 꼴(노드 레일 항목, 사유를 여는 상태 칩)은 부품을 정의한다"
     }
@@ -120,46 +195,36 @@
    "차원": "버튼",
    "규격": "유형 10, 크기 md·sm·xs·icon 넷, 아이콘 버튼 색조 5",
    "사용": "유형 12개 이름",
-   "규격안": 263,
+   "규격안": 283,
    "매핑누락": [],
    "미적용": [
     {
-     "값": "app/(agentbase)/data/pipeline/components/step-settings.tsx:372",
-     "설명": "Button className 의 h-9",
-     "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
-    },
-    {
-     "값": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:1156",
+     "값": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:1194",
      "설명": "Button className 의 h-6 px-1",
      "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
     },
     {
-     "값": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:2929",
+     "값": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:2936",
      "설명": "Button className 의 border-ab-accent text-ab-accent-text",
      "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
     },
     {
-     "값": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:2921",
+     "값": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:2931",
      "설명": "Button className 의 h-10",
      "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
     },
     {
-     "값": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:2951",
+     "값": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:2961",
      "설명": "Button className 의 h-10",
      "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
     },
     {
-     "값": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:3143",
+     "값": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:3165",
      "설명": "Button className 의 text-ab-accent-text",
      "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
     },
     {
-     "값": "app/(agentbase)/service/components/service-api-guide.tsx:178",
-     "설명": "Button className 의 h-7",
-     "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
-    },
-    {
-     "값": "app/(agentbase)/workflow/[id]/components/props-panel.tsx:1688",
+     "값": "app/(agentbase)/workflow/[id]/components/props-panel.tsx:1706",
      "설명": "Button className 의 border-ab-accent text-ab-accent-text",
      "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
     },
@@ -179,10 +244,21 @@
   {
    "차원": "아이콘",
    "규격": "세트 100개, 크기 xs·sm·md, 색조 7, 꼴 선형·채움",
-   "사용": "이름 50개, 크기 xs·sm·토큰식·md·기본",
-   "규격안": 285,
+   "사용": "이름 48개, 크기 xs·sm·토큰식·md·기본",
+   "규격안": 274,
    "매핑누락": [],
-   "미적용": [],
+   "미적용": [
+    {
+     "값": "design-system/primitives/conn-status-row.tsx:68",
+     "설명": "Icon className 의 text-ab-ok-text",
+     "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
+    },
+    {
+     "값": "design-system/primitives/conn-status-row.tsx:69",
+     "설명": "Icon className 의 text-ab-ink-muted",
+     "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
+    }
+   ],
    "어디서": "컴포넌트 > 아이콘"
   },
   {
@@ -202,7 +278,7 @@
    "매핑누락": [],
    "미적용": [
     {
-     "값": "app/(agentbase)/service/components/redteam-tab.tsx:2597",
+     "값": "app/(agentbase)/service/components/redteam-tab.tsx:2610",
      "설명": "duration-150",
      "바꿀": "duration-instant(90), fast(140), base(200), panel(240) 중 가까운 이름"
     }
@@ -267,10 +343,16 @@
   {
    "차원": "안내 문구",
    "규격": "[안내] 한 줄과 평서문",
-   "사용": "0곳 걸림",
+   "사용": "1곳 걸림",
    "규격안": null,
    "매핑누락": [],
-   "미적용": [],
+   "미적용": [
+    {
+     "값": "app/(agentbase)/data/pipeline/components/pipeline-tabs.tsx:1279",
+     "설명": "{/* 안내는 고정 문장이다. 선택한 수 같은 바뀌는 값을 적지 않는다(",
+     "바꿀": "빈 상태 두 줄이면 EmptyState 로, 칸 아래 안내면 「[안내] …」로 연다"
+    }
+   ],
    "어디서": "디자인 시스템 > 규칙과 어긋나는 곳"
   }
  ]

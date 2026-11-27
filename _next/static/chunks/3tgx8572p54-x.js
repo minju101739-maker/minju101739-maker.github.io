@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,5219,o=>{"use strict";var e=o.i(71645);o.s(["옛검색넘김",0,function(){return e.useEffect(()=>{let o=new URLSearchParams(window.location.search);o.get("s")&&window.location.replace(`/design-system/foundations?${o}${window.location.hash}`)},[]),null}])}]);

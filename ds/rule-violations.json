@@ -1,32 +1,40 @@
 {
- "만든때": "2026-11-17T18:24:10.062Z",
+ "만든때": "2026-11-25T05:06:50.177Z",
  "요약": {
+  "빈 결과 문구": 2,
   "열 숨김": 2,
-  "빈 결과 문구": 1,
   "호버": 9,
   "버튼 부품": 4,
-  "두 줄 합친 칸": 6,
+  "숨은 입력 안내": 43,
+  "두 줄 합친 칸": 2,
   "움직임": 1,
-  "버튼 덮어쓰기": 10
+  "안내 문구": 1,
+  "버튼 덮어쓰기": 8,
+  "아이콘 색 덮어쓰기": 2
  },
  "분류": {
+  "빈 결과 문구": [
+   {
+    "위치": "app/(agentbase)/data/pipeline/components/labeling-mb-screen.tsx:1676",
+    "지금": "조건에 맞는 객체가 없습니다.",
+    "바꿀": "「조건에 맞는 항목이 없습니다.」"
+   },
+   {
+    "위치": "app/(agentbase)/foundation-model/[id]/components/detail-dialogs.tsx:595",
+    "지금": "검색 결과가 없습니다.",
+    "바꿀": "「조건에 맞는 항목이 없습니다.」"
+   }
+  ],
   "열 숨김": [
    {
-    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:1212",
+    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:1213",
     "지금": "...(유형접기 ? …)",
     "바꿀": "열을 숨기지 않는다. 조건을 걷고 열을 늘 두며, 표가 판 안에서 가로로 스크롤되게 한다(DataTable 은 적어 둔 폭 밑으로 줄지 않는다)"
    },
    {
-    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:1516",
+    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:1520",
     "지금": "columns={접기 ? […] : […]}",
     "바꿀": "폭에 따라 열 배열을 바꾸지 않는다. 펼친 열 하나로 두고 표가 판 안에서 가로로 스크롤되게 한다"
-   }
-  ],
-  "빈 결과 문구": [
-   {
-    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:1775",
-    "지금": "조건에 맞는 승인 기록이 없습니다.",
-    "바꿀": "「조건에 맞는 항목이 없습니다.」"
    }
   ],
   "호버": [
@@ -66,7 +74,7 @@
     "바꿀": "대상별 호버 다섯(surface-alt, accent-faint, underline, text-ab-ink, shadow-ab-md) 중 하나로 맞춘다"
    },
    {
-    "위치": "components/console/trail-breadcrumb.tsx:69",
+    "위치": "components/console/trail-breadcrumb.tsx:72",
     "지금": "hover:text-ab-on-dark",
     "바꿀": "대상별 호버 다섯(surface-alt, accent-faint, underline, text-ab-ink, shadow-ab-md) 중 하나로 맞춘다"
    },
@@ -98,30 +106,227 @@
     "바꿀": "<Button variant=\"secondary\">"
    }
   ],
+  "숨은 입력 안내": [
+   {
+    "위치": "app/design-system/_parts/edge-specific.json:2105",
+    "지금": "니다.」를 표시한다. 이름이 맞으면 Enter 키로도 삭제한다. 창을 열",
+    "바꿀": "그 문장을 지운다. 동작은 두고 어디에도 적지 않는다"
+   },
+   {
+    "위치": "app/design-system/_parts/edge-specific.json:2356",
+    "지금": "니다.」를 표시한다. 이름이 맞으면 Enter 키로도 삭제한다. 창을 열",
+    "바꿀": "그 문장을 지운다. 동작은 두고 어디에도 적지 않는다"
+   },
+   {
+    "위치": "app/design-system/_parts/edge-specific.json:3997",
+    "지금": "니다.」를 표시한다. 이름이 맞으면 Enter 키로도 삭제한다. 창을 열",
+    "바꿀": "그 문장을 지운다. 동작은 두고 어디에도 적지 않는다"
+   },
+   {
+    "위치": "app/design-system/_parts/edge-specific.json:4816",
+    "지금": "니다.」를 표시한다. 이름이 맞으면 Enter 키로도 삭제한다. 창을 열",
+    "바꿀": "그 문장을 지운다. 동작은 두고 어디에도 적지 않는다"
+   },
+   {
+    "위치": "app/design-system/_parts/edge-specific.json:5841",
+    "지금": "니다.」를 표시한다. 이름이 맞으면 Enter 키로도 삭제한다. 창을 열",
+    "바꿀": "그 문장을 지운다. 동작은 두고 어디에도 적지 않는다"
+   },
+   {
+    "위치": "app/design-system/_parts/edge-specific.json:6492",
+    "지금": "니다.」를 표시한다. 이름이 맞으면 Enter 키로도 삭제한다. 창을 열",
+    "바꿀": "그 문장을 지운다. 동작은 두고 어디에도 적지 않는다"
+   },
+   {
+    "위치": "data/description/screens/ab-dpl-004.json:1714",
+    "지금": "합니다.」). 서랍 밖을 선택하거나 Esc를 누르면 닫는다.\",",
+    "바꿀": "그 문장을 지운다. 동작은 두고 어디에도 적지 않는다"
+   },
+   {
+    "위치": "data/description/screens/ab-dpl-036.json:28",
+    "지금": "\"창 오른쪽 위 닫기 아이콘과 Esc로 닫는다. 변경하는 값이 없어",
+    "바꿀": "그 문장을 지운다. 동작은 두고 어디에도 적지 않는다"
+   },
+   {
+    "위치": "data/mb/copy-gap.json:4864",
+    "지금": "하거나 화면별 설명을 다시 봅니다. → 키로 다음, ← 키로 이전, Es",
+    "바꿀": "그 문장을 지운다. 동작은 두고 어디에도 적지 않는다"
+   },
+   {
+    "위치": "data/mb/copy-gap.json:4864",
+    "지금": ". → 키로 다음, ← 키로 이전, Esc로 종료합니다.\", \"위치",
+    "바꿀": "그 문장을 지운다. 동작은 두고 어디에도 적지 않는다"
+   },
+   {
+    "위치": "data/mb/description/screens/mb-com-014.json:128",
+    "지금": "내기\": \"[닫기], 닫기 아이콘, Esc 키는 실습을 종료하고 튜토리얼",
+    "바꿀": "그 문장을 지운다. 동작은 두고 어디에도 적지 않는다"
+   },
+   {
+    "위치": "data/mb/description/screens/mb-com-015.json:157",
+    "지금": "이동한다. [종료]와 닫기 아이콘, Esc 키는 실습을 종료하고 시작한",
+    "바꿀": "그 문장을 지운다. 동작은 두고 어디에도 적지 않는다"
+   },
+   {
+    "위치": "data/mb/description/screens/mb-com-017.json:12",
+    "지금": "확인한다.\", \"[다음] 또는 → 키로 다음 단계, ← 키로 이전",
+    "바꿀": "그 문장을 지운다. 동작은 두고 어디에도 적지 않는다"
+   },
+   {
+    "위치": "data/mb/description/screens/mb-com-017.json:13",
+    "지금": "서 [완료]를 선택하거나 [종료], Esc 키로 종료하면 시작한 화면으로",
+    "바꿀": "그 문장을 지운다. 동작은 두고 어디에도 적지 않는다"
+   },
+   {
+    "위치": "data/mb/description/screens/mb-com-020.json:17",
+    "지금": "대로 두고, 패널 바깥을 선택하거나 Esc 키를 입력하면 닫는다.\",",
+    "바꿀": "그 문장을 지운다. 동작은 두고 어디에도 적지 않는다"
+   },
+   {
+    "위치": "data/mb/description/screens/mb-dev-001.json:44",
+    "지금": ". 위, 아래 화살표로 줄을 옮기고 Enter로 선택하며, Esc나 목록",
+    "바꿀": "그 문장을 지운다. 동작은 두고 어디에도 적지 않는다"
+   },
+   {
+    "위치": "data/mb/description/screens/mb-dev-001.json:44",
+    "지금": "줄을 옮기고 Enter로 선택하며, Esc나 목록 바깥을 선택하면 닫는다",
+    "바꿀": "그 문장을 지운다. 동작은 두고 어디에도 적지 않는다"
+   },
+   {
+    "위치": "data/mb/description/screens/mb-lab-008.json:11",
+    "지금": "을 찍고 첫 점이나 두 번 누르기, Enter로 닫는다. [라인]은 꼭짓",
+    "바꿀": "그 문장을 지운다. 동작은 두고 어디에도 적지 않는다"
+   },
+   {
+    "위치": "data/mb/description/screens/mb-lab-008.json:11",
+    "지금": "]은 꼭짓점을 찍고 두 번 누르기나 Enter로 끝낸다. Esc는 그리기",
+    "바꿀": "그 문장을 지운다. 동작은 두고 어디에도 적지 않는다"
+   },
+   {
+    "위치": "data/mb/ds-screens.json:29357",
+    "지금": "\"설명\": \"[다음]과 이전, 방향키, 목차로 단계를 이동하고, 다",
+    "바꿀": "그 문장을 지운다. 동작은 두고 어디에도 적지 않는다"
+   },
+   {
+    "위치": "data/mb/ds-screens.json:29357",
+    "지금": "단계를 건너뛰게 하고, [종료], Esc 키, 마지막 단계의 [완료]로",
+    "바꿀": "그 문장을 지운다. 동작은 두고 어디에도 적지 않는다"
+   },
+   {
+    "위치": "data/mb/edge-specific.json:132",
+    "지금": "니다.」를 표시한다. 이름이 맞으면 Enter 키로도 삭제한다. 창을 열",
+    "바꿀": "그 문장을 지운다. 동작은 두고 어디에도 적지 않는다"
+   },
+   {
+    "위치": "data/mb/edge-specific.json:2653",
+    "지금": "니다.」를 표시한다. 이름이 맞으면 Enter 키로도 삭제한다. 창을 열",
+    "바꿀": "그 문장을 지운다. 동작은 두고 어디에도 적지 않는다"
+   },
+   {
+    "위치": "data/mb/edge-specific.json:2738",
+    "지금": "니다.」를 표시한다. 이름이 맞으면 Enter 키로도 삭제한다. 창을 열",
+    "바꿀": "그 문장을 지운다. 동작은 두고 어디에도 적지 않는다"
+   },
+   {
+    "위치": "data/mb/edge-specific.json:2752",
+    "지금": "니다.」를 표시한다. 이름이 맞으면 Enter 키로도 삭제한다. 창을 열",
+    "바꿀": "그 문장을 지운다. 동작은 두고 어디에도 적지 않는다"
+   },
+   {
+    "위치": "data/mb/edge-specific.json:3446",
+    "지금": "니다.」를 표시한다. 이름이 맞으면 Enter 키로도 삭제한다. 창을 열",
+    "바꿀": "그 문장을 지운다. 동작은 두고 어디에도 적지 않는다"
+   },
+   {
+    "위치": "data/mb/manual/manual-content-mb.ts:634",
+    "지금": ", 이름: \"다음, 종료\", 말: \"→ 키는 다음, ← 키는 이전,|Es",
+    "바꿀": "그 문장을 지운다. 동작은 두고 어디에도 적지 않는다"
+   },
+   {
+    "위치": "data/mb/manual/manual-content-mb.ts:634",
+    "지금": "\"→ 키는 다음, ← 키는 이전,|Esc 키는 종료입니다. 종료하면 시",
+    "바꿀": "그 문장을 지운다. 동작은 두고 어디에도 적지 않는다"
+   },
+   {
+    "위치": "data/mb/scenarios/기능.json:221",
+    "지금": "\"설명\": \"[다음]과 이전, 방향키, 목차로 단계를 이동하고, 다",
+    "바꿀": "그 문장을 지운다. 동작은 두고 어디에도 적지 않는다"
+   },
+   {
+    "위치": "data/mb/scenarios/기능.json:221",
+    "지금": "단계를 건너뛰게 하고, [종료], Esc 키, 마지막 단계의 [완료]로",
+    "바꿀": "그 문장을 지운다. 동작은 두고 어디에도 적지 않는다"
+   },
+   {
+    "위치": "data/mb/scenarios/수행단위.json:1189",
+    "지금": "\"동작\": \"[다음] 또는 → 키로 다음 단계, ← 키로 이전",
+    "바꿀": "그 문장을 지운다. 동작은 두고 어디에도 적지 않는다"
+   },
+   {
+    "위치": "data/mb/scenarios/수행단위.json:1197",
+    "지금": "서 [완료]를 선택하거나 [종료], Esc 키로 종료하면 시작한 화면으로",
+    "바꿀": "그 문장을 지운다. 동작은 두고 어디에도 적지 않는다"
+   },
+   {
+    "위치": "data/mb/scenarios/수행단위.json:1208",
+    "지금": "\"설명\": \"[다음]과 이전, 방향키, 목차로 단계를 이동하고, 다",
+    "바꿀": "그 문장을 지운다. 동작은 두고 어디에도 적지 않는다"
+   },
+   {
+    "위치": "data/mb/scenarios/수행단위.json:1208",
+    "지금": "단계를 건너뛰게 하고, [종료], Esc 키, 마지막 단계의 [완료]로",
+    "바꿀": "그 문장을 지운다. 동작은 두고 어디에도 적지 않는다"
+   },
+   {
+    "위치": "data/mb/scenarios/수행단위.json:1243",
+    "지금": "\"동작\": \"[다음] 또는 → 키로 다음 단계, ← 키로 이전",
+    "바꿀": "그 문장을 지운다. 동작은 두고 어디에도 적지 않는다"
+   },
+   {
+    "위치": "data/mb/scenarios/수행단위.json:1251",
+    "지금": "서 [완료]를 선택하거나 [종료], Esc 키로 종료하면 시작한 화면으로",
+    "바꿀": "그 문장을 지운다. 동작은 두고 어디에도 적지 않는다"
+   },
+   {
+    "위치": "data/mb/scenarios/시나리오.json:2055",
+    "지금": "ct-images/\\\" 를 입력하고 Enter 키를 입력한다.\",",
+    "바꿀": "그 문장을 지운다. 동작은 두고 어디에도 적지 않는다"
+   },
+   {
+    "위치": "data/mb/scenarios/시나리오.json:2068",
+    "지금": "t-images-2\\\" 를 입력하고 Enter 키를 입력한다.\",",
+    "바꿀": "그 문장을 지운다. 동작은 두고 어디에도 적지 않는다"
+   },
+   {
+    "위치": "data/mb/scenarios/시나리오.json:2120",
+    "지금": "데이터/zz-폴더/\\\" 를 입력하고 Enter 키를 입력한다.\",",
+    "바꿀": "그 문장을 지운다. 동작은 두고 어디에도 적지 않는다"
+   },
+   {
+    "위치": "data/mb/scenarios/시나리오.json:3946",
+    "지금": "eda-result\\\" 를 입력하고 Enter 키를 입력한다.\",",
+    "바꿀": "그 문장을 지운다. 동작은 두고 어디에도 적지 않는다"
+   },
+   {
+    "위치": "data/mb/scenarios/시나리오.json:5178",
+    "지금": "동작\": \"숫자 키 2를 입력한 뒤 Ctrl+S(macOS 는 ⌘S)를",
+    "바꿀": "그 문장을 지운다. 동작은 두고 어디에도 적지 않는다"
+   },
+   {
+    "위치": "data/scenarios/E2E.json:1472",
+    "지금": "utpatient/\\\" 을 입력하고 Enter 를 입력한다.\",",
+    "바꿀": "그 문장을 지운다. 동작은 두고 어디에도 적지 않는다"
+   },
+   {
+    "위치": "data/scenarios/E2E.json:1498",
+    "지금": "데이터/zz-폴더/\\\" 를 입력하고 Enter 를 입력한다.\",",
+    "바꿀": "그 문장을 지운다. 동작은 두고 어디에도 적지 않는다"
+   }
+  ],
   "두 줄 합친 칸": [
    {
-    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:1204",
+    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:1205",
     "지금": "열 perm-name 의 칸이 두 줄",
-    "바꿀": "두 값을 열로 나누거나, 보조 값을 같은 줄에 흐린 글자로 붙이거나, 말풍선으로 옮긴다"
-   },
-   {
-    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:1241",
-    "지금": "열 perm-limit 의 칸이 두 줄",
-    "바꿀": "두 값을 열로 나누거나, 보조 값을 같은 줄에 흐린 글자로 붙이거나, 말풍선으로 옮긴다"
-   },
-   {
-    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:1519",
-    "지금": "열 perm-user-name 의 칸이 두 줄",
-    "바꿀": "두 값을 열로 나누거나, 보조 값을 같은 줄에 흐린 글자로 붙이거나, 말풍선으로 옮긴다"
-   },
-   {
-    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:1785",
-    "지금": "열 perm-g-item 의 칸이 두 줄",
-    "바꿀": "두 값을 열로 나누거나, 보조 값을 같은 줄에 흐린 글자로 붙이거나, 말풍선으로 옮긴다"
-   },
-   {
-    "위치": "app/(agentbase)/permission/components/perm-tree-client.tsx:1810",
-    "지금": "열 perm-g-state 의 칸이 두 줄",
     "바꿀": "두 값을 열로 나누거나, 보조 값을 같은 줄에 흐린 글자로 붙이거나, 말풍선으로 옮긴다"
    },
    {
@@ -132,49 +337,46 @@
   ],
   "움직임": [
    {
-    "위치": "app/(agentbase)/service/components/redteam-tab.tsx:2597",
+    "위치": "app/(agentbase)/service/components/redteam-tab.tsx:2610",
     "지금": "duration-150",
     "바꿀": "duration-instant(90), fast(140), base(200), panel(240) 중 가까운 이름"
    }
   ],
+  "안내 문구": [
+   {
+    "위치": "app/(agentbase)/data/pipeline/components/pipeline-tabs.tsx:1279",
+    "지금": "{/* 안내는 고정 문장이다. 선택한 수 같은 바뀌는 값을 적지 않는다(",
+    "바꿀": "빈 상태 두 줄이면 EmptyState 로, 칸 아래 안내면 「[안내] …」로 연다"
+   }
+  ],
   "버튼 덮어쓰기": [
    {
-    "위치": "app/(agentbase)/data/pipeline/components/step-settings.tsx:372",
-    "지금": "Button className 의 h-9",
-    "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
-   },
-   {
-    "위치": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:1156",
+    "위치": "app/(agentbase)/foundation-model/[id]/components/foundation-model-detail.tsx:1194",
     "지금": "Button className 의 h-6 px-1",
     "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
    },
    {
-    "위치": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:2929",
+    "위치": "app/(agentbase)/rag/[id]/components/rag-detail.tsx:2861",
     "지금": "Button className 의 border-ab-accent text-ab-accent-text",
     "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
    },
    {
-    "위치": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:2921",
+    "위치": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:2934",
     "지금": "Button className 의 h-10",
     "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
    },
    {
-    "위치": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:2951",
+    "위치": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:2964",
     "지금": "Button className 의 h-10",
     "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
    },
    {
-    "위치": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:3143",
+    "위치": "app/(agentbase)/rag/[id]/components/rag-eval-tab.tsx:3168",
     "지금": "Button className 의 text-ab-accent-text",
     "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
    },
    {
-    "위치": "app/(agentbase)/service/components/service-api-guide.tsx:178",
-    "지금": "Button className 의 h-7",
-    "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
-   },
-   {
-    "위치": "app/(agentbase)/workflow/[id]/components/props-panel.tsx:1688",
+    "위치": "app/(agentbase)/workflow/[id]/components/props-panel.tsx:1706",
     "지금": "Button className 의 border-ab-accent text-ab-accent-text",
     "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
    },
@@ -187,6 +389,18 @@
     "위치": "components/console/permission-axis.tsx:549",
     "지금": "Button className 의 text-ab-danger-strong",
     "바꿀": "variant(갈래)와 size(크기)로 바꾼다. 맞는 갈래가 없으면 button.tsx 에 갈래를 더하고 4350 버튼 규격에 적는다"
+   }
+  ],
+  "아이콘 색 덮어쓰기": [
+   {
+    "위치": "design-system/primitives/conn-status-row.tsx:68",
+    "지금": "Icon className 의 text-ab-ok-text",
+    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
+   },
+   {
+    "위치": "design-system/primitives/conn-status-row.tsx:69",
+    "지금": "Icon className 의 text-ab-ink-muted",
+    "바꿀": "tone(muted, faint, accent, ok, warn, danger, on-dark)으로 바꾼다. 부모 글자색을 따르는 것이면 className 을 지운다"
    }
   ]
  }

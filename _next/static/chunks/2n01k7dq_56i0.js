@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,75618,o=>{"use strict";var t=o.i(71645);o.s(["옛주소",0,function({새:o}){return t.useEffect(()=>{window.location.replace(`${o}${window.location.search}${window.location.hash}`)},[o]),null}])}]);

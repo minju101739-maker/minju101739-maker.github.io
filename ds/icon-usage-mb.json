@@ -1,0 +1,546 @@
+{
+ "만든때": "2026-11-25T02:32:07.427Z",
+ "이름": {
+  "stop": {
+   "수": 1,
+   "파일": [
+    "components/console/chat-composer.tsx"
+   ]
+  },
+  "sendPlane": {
+   "수": 1,
+   "파일": [
+    "components/console/chat-composer.tsx"
+   ]
+  },
+  "plus": {
+   "수": 6,
+   "파일": [
+    "components/console/dev-tool-card.tsx",
+    "components/console/folder-tree-picker.tsx",
+    "pages/collector-detail.tsx",
+    "pages/data-page.tsx",
+    "pages/deployment-detail.tsx",
+    "pages/pipeline-canvas.tsx"
+   ]
+  },
+  "openNew": {
+   "수": 3,
+   "파일": [
+    "components/console/dev-tool-card.tsx",
+    "components/console/status-reason.tsx",
+    "shell/top-bar.tsx"
+   ]
+  },
+  "star": {
+   "수": 2,
+   "파일": [
+    "components/console/dev-tool-card.tsx",
+    "pages/analyzer-graphs.tsx"
+   ]
+  },
+  "starOff": {
+   "수": 2,
+   "파일": [
+    "components/console/dev-tool-card.tsx",
+    "pages/analyzer-graphs.tsx"
+   ]
+  },
+  "trash": {
+   "수": 13,
+   "파일": [
+    "components/console/expr-fields.tsx",
+    "components/console/param-table.tsx",
+    "components/console/source-fields.tsx",
+    "pages/data-page.tsx",
+    "pages/data-upload.tsx",
+    "pages/deployment-test-tab.tsx",
+    "pages/labeling-detail.tsx",
+    "pages/labeling-modals.tsx",
+    "pages/labeling-task-views.tsx",
+    "pages/labeling-workspace.tsx",
+    "pages/pipeline-detail.tsx",
+    "pages/report.tsx",
+    "pages/workspace-modals.tsx"
+   ]
+  },
+  "search": {
+   "수": 3,
+   "파일": [
+    "components/console/folder-tree-picker.tsx",
+    "pages/labeling-workspace.tsx",
+    "pages/pipeline-canvas.tsx"
+   ]
+  },
+  "chevDown": {
+   "수": 9,
+   "파일": [
+    "components/console/folder-tree-picker.tsx",
+    "components/console/multi-select.tsx",
+    "components/console/number-box.tsx",
+    "components/console/target-data-modal.tsx",
+    "pages/data-page.tsx",
+    "pages/labeling-workspace.tsx",
+    "pages/pipeline-detail.tsx",
+    "pages/settings-page.tsx",
+    "shell/top-bar.tsx"
+   ]
+  },
+  "chevRight": {
+   "수": 15,
+   "파일": [
+    "components/console/folder-tree-picker.tsx",
+    "components/console/target-data-modal.tsx",
+    "components/ui/dropdown-menu.tsx",
+    "pages/analyzer-charts.tsx",
+    "pages/analyzer-graphs.tsx",
+    "pages/data-page.tsx",
+    "pages/home.tsx",
+    "pages/jobs-page.tsx",
+    "pages/labeling-workspace.tsx",
+    "pages/list.tsx",
+    "pages/module-detail.tsx",
+    "pages/training-detail.tsx",
+    "shell/quick-guide.tsx",
+    "shell/top-bar.tsx",
+    "shell/tutorial.tsx"
+   ]
+  },
+  "file": {
+   "수": 6,
+   "파일": [
+    "components/console/folder-tree-picker.tsx",
+    "components/console/target-data-modal.tsx",
+    "components/console/upload-run.tsx",
+    "pages/data-page.tsx",
+    "pages/data-upload.tsx",
+    "shell/top-bar.tsx"
+   ]
+  },
+  "folder": {
+   "수": 3,
+   "파일": [
+    "components/console/folder-tree-picker.tsx",
+    "components/console/target-data-modal.tsx",
+    "pages/pipeline-canvas.tsx"
+   ]
+  },
+  "copy": {
+   "수": 6,
+   "파일": [
+    "components/console/guide-copy.tsx",
+    "components/console/status-reason.tsx",
+    "components/console/system-log-modal.tsx",
+    "pages/data-page.tsx",
+    "pages/deployment-detail.tsx",
+    "pages/workspace-modals.tsx"
+   ]
+  },
+  "grid": {
+   "수": 3,
+   "파일": [
+    "components/console/list-page.tsx",
+    "nav.ts",
+    "pages/data-page.tsx"
+   ]
+  },
+  "list": {
+   "수": 2,
+   "파일": [
+    "components/console/list-page.tsx",
+    "pages/data-page.tsx"
+   ]
+  },
+  "close": {
+   "수": 12,
+   "파일": [
+    "components/console/multi-select.tsx",
+    "components/console/target-data-modal.tsx",
+    "components/console/upload-run.tsx",
+    "pages/labeling-workspace.tsx",
+    "pages/pipeline-detail.tsx",
+    "pages/pipeline-preview.tsx",
+    "shell/notification-panel.tsx",
+    "shell/orch-panel.tsx",
+    "shell/quick-guide.tsx",
+    "shell/side-nav.tsx",
+    "shell/top-bar.tsx",
+    "shell/tutorial.tsx"
+   ]
+  },
+  "chevUpThin": {
+   "수": 1,
+   "파일": [
+    "components/console/number-box.tsx"
+   ]
+  },
+  "loader": {
+   "수": 1,
+   "파일": [
+    "components/console/schema-check-row.tsx"
+   ]
+  },
+  "check": {
+   "수": 6,
+   "파일": [
+    "components/console/schema-check-row.tsx",
+    "components/ui/dropdown-menu.tsx",
+    "pages/labeling-workspace.tsx",
+    "pages/settings-page.tsx",
+    "shell/top-bar.tsx",
+    "shell/welcome.tsx"
+   ]
+  },
+  "download": {
+   "수": 7,
+   "파일": [
+    "components/console/system-log-modal.tsx",
+    "pages/data-page.tsx",
+    "pages/labeling-modals.tsx",
+    "pages/report.tsx",
+    "pages/training-detail.tsx",
+    "shell/quick-guide.tsx",
+    "shell/side-nav.tsx"
+   ]
+  },
+  "info": {
+   "수": 5,
+   "파일": [
+    "components/console/table-tab.tsx",
+    "pages/image-list.tsx",
+    "pages/jobs-page.tsx",
+    "pages/kit.tsx",
+    "pages/workspace-list.tsx"
+   ]
+  },
+  "dataset": {
+   "수": 2,
+   "파일": [
+    "components/console/target-data-modal.tsx",
+    "pages/pipeline-canvas.tsx"
+   ]
+  },
+  "muted": {
+   "수": 2,
+   "파일": [
+    "components/console/target-data-modal.tsx",
+    "pages/training-detail.tsx"
+   ]
+  },
+  "faint": {
+   "수": 1,
+   "파일": [
+    "components/console/target-data-modal.tsx"
+   ]
+  },
+  "off": {
+   "수": 1,
+   "파일": [
+    "components/console/target-data-modal.tsx"
+   ]
+  },
+  "folderSm": {
+   "수": 3,
+   "파일": [
+    "components/console/upload-run.tsx",
+    "pages/data-page.tsx",
+    "pages/data-upload.tsx"
+   ]
+  },
+  "circle": {
+   "수": 1,
+   "파일": [
+    "components/ui/dropdown-menu.tsx"
+   ]
+  },
+  "drive": {
+   "수": 3,
+   "파일": [
+    "data/tutorials.ts",
+    "nav.ts",
+    "shell/top-bar.tsx"
+   ]
+  },
+  "pipeline": {
+   "수": 2,
+   "파일": [
+    "data/tutorials.ts",
+    "nav.ts"
+   ]
+  },
+  "axisAi": {
+   "수": 3,
+   "파일": [
+    "data/tutorials.ts",
+    "nav.ts",
+    "pages/pipeline-canvas.tsx"
+   ]
+  },
+  "serving": {
+   "수": 4,
+   "파일": [
+    "data/tutorials.ts",
+    "nav.ts",
+    "pages/pipeline-canvas.tsx",
+    "pages/training-detail.tsx"
+   ]
+  },
+  "axisFlow": {
+   "수": 3,
+   "파일": [
+    "data/tutorials.ts",
+    "nav.ts",
+    "pages/pipeline-canvas.tsx"
+   ]
+  },
+  "home": {
+   "수": 1,
+   "파일": [
+    "nav.ts"
+   ]
+  },
+  "server": {
+   "수": 1,
+   "파일": [
+    "nav.ts"
+   ]
+  },
+  "navReport": {
+   "수": 1,
+   "파일": [
+    "nav.ts"
+   ]
+  },
+  "axisSource": {
+   "수": 2,
+   "파일": [
+    "nav.ts",
+    "pages/pipeline-canvas.tsx"
+   ]
+  },
+  "axisAnalyze": {
+   "수": 2,
+   "파일": [
+    "nav.ts",
+    "pages/pipeline-canvas.tsx"
+   ]
+  },
+  "axisReview": {
+   "수": 2,
+   "파일": [
+    "nav.ts",
+    "pages/pipeline-canvas.tsx"
+   ]
+  },
+  "axisPreprocess": {
+   "수": 2,
+   "파일": [
+    "nav.ts",
+    "pages/pipeline-canvas.tsx"
+   ]
+  },
+  "navWorkspace": {
+   "수": 1,
+   "파일": [
+    "nav.ts"
+   ]
+  },
+  "navImage": {
+   "수": 1,
+   "파일": [
+    "nav.ts"
+   ]
+  },
+  "navSettings": {
+   "수": 1,
+   "파일": [
+    "nav.ts"
+   ]
+  },
+  "chevLeft": {
+   "수": 6,
+   "파일": [
+    "pages/analyzer-charts.tsx",
+    "pages/analyzer-graphs.tsx",
+    "pages/data-page.tsx",
+    "pages/labeling-workspace.tsx",
+    "pages/training-detail.tsx",
+    "shell/tutorial.tsx"
+   ]
+  },
+  "rollback": {
+   "수": 3,
+   "파일": [
+    "pages/analyzer-graphs.tsx",
+    "pages/pipeline-detail.tsx",
+    "pages/pipeline-publish.tsx"
+   ]
+  },
+  "play": {
+   "수": 3,
+   "파일": [
+    "pages/data-page.tsx",
+    "pages/pipeline-detail.tsx",
+    "pages/pipeline-preview.tsx"
+   ]
+  },
+  "edit": {
+   "수": 3,
+   "파일": [
+    "pages/data-page.tsx",
+    "pages/labeling-modals.tsx",
+    "pages/pipeline-detail.tsx"
+   ]
+  },
+  "upLevel": {
+   "수": 1,
+   "파일": [
+    "pages/data-page.tsx"
+   ]
+  },
+  "dtImage": {
+   "수": 1,
+   "파일": [
+    "pages/data-page.tsx"
+   ]
+  },
+  "sliders": {
+   "수": 2,
+   "파일": [
+    "pages/deployment-detail.tsx",
+    "pages/home.tsx"
+   ]
+  },
+  "minus": {
+   "수": 1,
+   "파일": [
+    "pages/home.tsx"
+   ]
+  },
+  "spark": {
+   "수": 2,
+   "파일": [
+    "pages/home.tsx",
+    "shell/top-bar.tsx"
+   ]
+  },
+  "messageSquare": {
+   "수": 2,
+   "파일": [
+    "pages/labeling-workspace.tsx",
+    "shell/orch-panel.tsx"
+   ]
+  },
+  "eye": {
+   "수": 1,
+   "파일": [
+    "pages/labeling-workspace.tsx"
+   ]
+  },
+  "axisFilter": {
+   "수": 2,
+   "파일": [
+    "pages/labeling-workspace.tsx",
+    "pages/pipeline-canvas.tsx"
+   ]
+  },
+  "lock": {
+   "수": 1,
+   "파일": [
+    "pages/labeling-workspace.tsx"
+   ]
+  },
+  "undo": {
+   "수": 1,
+   "파일": [
+    "pages/labeling-workspace.tsx"
+   ]
+  },
+  "redo": {
+   "수": 1,
+   "파일": [
+    "pages/labeling-workspace.tsx"
+   ]
+  },
+  "chevUp": {
+   "수": 2,
+   "파일": [
+    "pages/labeling-workspace.tsx",
+    "pages/pipeline-detail.tsx"
+   ]
+  },
+  "eyeOff": {
+   "수": 1,
+   "파일": [
+    "pages/labeling-workspace.tsx"
+   ]
+  },
+  "warn": {
+   "수": 1,
+   "파일": [
+    "pages/pipeline-canvas.tsx"
+   ]
+  },
+  "axisExport": {
+   "수": 1,
+   "파일": [
+    "pages/pipeline-canvas.tsx"
+   ]
+  },
+  "minimize": {
+   "수": 1,
+   "파일": [
+    "pages/pipeline-canvas.tsx"
+   ]
+  },
+  "maximize": {
+   "수": 1,
+   "파일": [
+    "pages/pipeline-canvas.tsx"
+   ]
+  },
+  "danger": {
+   "수": 1,
+   "파일": [
+    "pages/training-detail.tsx"
+   ]
+  },
+  "bell": {
+   "수": 1,
+   "파일": [
+    "shell/notifications.tsx"
+   ]
+  },
+  "refresh": {
+   "수": 2,
+   "파일": [
+    "shell/orch-panel.tsx",
+    "shell/top-bar.tsx"
+   ]
+  },
+  "menu": {
+   "수": 1,
+   "파일": [
+    "shell/side-nav.tsx"
+   ]
+  },
+  "tutorial": {
+   "수": 1,
+   "파일": [
+    "shell/top-bar.tsx"
+   ]
+  },
+  "key": {
+   "수": 1,
+   "파일": [
+    "shell/top-bar.tsx"
+   ]
+  },
+  "listTree": {
+   "수": 1,
+   "파일": [
+    "shell/tutorial.tsx"
+   ]
+  }
+ }
+}

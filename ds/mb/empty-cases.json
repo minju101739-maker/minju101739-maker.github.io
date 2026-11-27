@@ -1,0 +1,497 @@
+{
+ "화면": {
+  "mb-lab-019": {
+   "유형": "pane",
+   "문구": [
+    "의견이 없습니다."
+   ],
+   "img": "/ds/mb/screens/mb-lab-019__검수 의견.png",
+   "상태": "검수 의견"
+  },
+  "mb-dpl-002": {
+   "유형": "pane",
+   "문구": [
+    "표본 실행 결과가 없습니다. 이 단계까지 표본 실행"
+   ],
+   "img": "/ds/mb/screens/mb-dpl-002__편집.png",
+   "상태": "편집"
+  },
+  "mb-dpl-003": {
+   "유형": "screen",
+   "문구": [
+    "라벨링 단계가 없습니다."
+   ],
+   "img": "/ds/mb/screens/mb-dpl-003__검수.png",
+   "상태": "검수"
+  },
+  "mb-dep-003": {
+   "유형": "screen",
+   "문구": [
+    "실행 결과가 없습니다."
+   ],
+   "img": "/ds/mb/screens/mb-dep-003.png"
+  },
+  "mb-das-001": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-mai-001": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-rpt-001": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-dat-001": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-col-001": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-col-002": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-col-003": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-col-004": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-ana-001": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-ana-002": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-ana-003": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-ana-004": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-lab-001": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-lab-002": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-lab-003": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-lab-003-01": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-lab-003-02": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-lab-003-03": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-lab-003-04": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-lab-003-05": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-lab-003-06": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-lab-003-07": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-lab-003-08": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-lab-003-09": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-lab-004": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-lab-004-01": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-lab-004-02": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-lab-004-03": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-lab-004-04": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-lab-004-05": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-lab-004-06": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-lab-004-07": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-lab-004-08": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-lab-004-09": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-lab-005": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-lab-006": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-lab-007": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-lab-008": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-lab-009": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-lab-010": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-lab-012": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-lab-013": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-lab-042": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-lab-043": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-lab-044": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-pre-001": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-pre-002": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-pre-003": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-pre-004": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-dpl-001": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-dpl-004": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-dpl-005": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-dpl-006": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-tra-001": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-tra-002": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-tra-003": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-tra-004": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-dep-001": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-dep-002": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-dep-004": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-dep-005": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-dep-006": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-dep-007": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-mpl-001": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-mpl-002": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-mpl-003": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-mpl-004": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-mpl-005": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-dev-001": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-dev-002": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-dev-003": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-img-001": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-img-002": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-adm-001": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-adm-002": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-adm-003": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "mb-adm-004": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  }
+ }
+}

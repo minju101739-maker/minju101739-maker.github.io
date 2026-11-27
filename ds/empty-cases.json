@@ -3,7 +3,7 @@
   "ab-crd-001": {
    "유형": "screen",
    "문구": [
-    "실행중인 모델 배포가 없습니다."
+    "배포중인 모델 배포가 없습니다."
    ],
    "img": "/ds/screens/ab-crd-001__빈.png"
   },
@@ -214,6 +214,42 @@
    "촬영전": true
   },
   "ab-dpl-019": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "ab-dpl-029": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "ab-dpl-031": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "ab-dpl-032": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "ab-dpl-033": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "ab-dpl-034": {
+   "유형": "screen",
+   "문구": [],
+   "img": null,
+   "촬영전": true
+  },
+  "ab-dpl-035": {
    "유형": "screen",
    "문구": [],
    "img": null,

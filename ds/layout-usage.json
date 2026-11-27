@@ -1,22 +1,22 @@
 {
- "만든때": "2026-11-17T20:48:57.116Z",
+ "만든때": "2026-11-23T16:03:40.580Z",
  "규격": {
   "splitLeft": 400,
   "infoLeft": 360,
   "testSide": 340
  },
  "수": {
-  "entry": 5,
+  "entry": 6,
   "detailTable": 20,
+  "monitor2": 4,
   "판정 불가": 2,
   "tree2": 1,
   "list": 7,
-  "canvas": 85,
-  "setting2": 16,
-  "side2": 2,
+  "canvas": 101,
+  "setting2": 18,
+  "side2": 3,
   "info3": 5,
   "dashboard": 4,
-  "monitor2": 3,
   "even2": 3,
   "test3": 1,
   "full1": 1
@@ -53,6 +53,20 @@
    "어긋남": null,
    "예외": null,
    "머리": "none",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-com-018",
+   "url": "/serving/inf-2019",
+   "탭": "",
+   "유형": "monitor2",
+   "열": [
+    974,
+    650
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
    "머리어긋남": null
   },
   {
@@ -210,6 +224,17 @@
    "url": "/data/pipeline/pl-sensor",
    "탭": "설계",
    "유형": "canvas",
+   "열": [],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-01-08",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
    "열": [
     400,
     400
@@ -251,10 +276,7 @@
    "url": "/data/pipeline/pl-sensor",
    "탭": "설계",
    "유형": "canvas",
-   "열": [
-    400,
-    400
-   ],
+   "열": [],
    "어긋남": null,
    "예외": null,
    "머리": "detail",
@@ -265,10 +287,7 @@
    "url": "/data/pipeline/pl-sensor",
    "탭": "설계",
    "유형": "canvas",
-   "열": [
-    400,
-    400
-   ],
+   "열": [],
    "어긋남": null,
    "예외": null,
    "머리": "detail",
@@ -293,10 +312,7 @@
    "url": "/data/pipeline/pl-sensor",
    "탭": "설계",
    "유형": "canvas",
-   "열": [
-    400,
-    400
-   ],
+   "열": [],
    "어긋남": null,
    "예외": null,
    "머리": "detail",
@@ -751,6 +767,216 @@
    "머리어긋남": null
   },
   {
+   "id": "ab-dpl-004-02-39",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-02-40",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-02-42",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-02-43",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-02-44",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-02-45",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-02-46",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-02-47",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-02-48",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-02-49",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-02-50",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-02-51",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-02-52",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-02-53",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-004-02-54",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "설계",
+   "유형": "canvas",
+   "열": [
+    400,
+    400
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
    "id": "ab-dpl-004-02",
    "url": "/data/pipeline/pl-sensor",
    "탭": "설계",
@@ -921,10 +1147,7 @@
    "url": "/data/pipeline/pl-sensor",
    "탭": "설계",
    "유형": "canvas",
-   "열": [
-    400,
-    400
-   ],
+   "열": [],
    "어긋남": null,
    "예외": null,
    "머리": "detail",
@@ -1204,6 +1427,20 @@
    "머리어긋남": null
   },
   {
+   "id": "ab-dpl-017",
+   "url": "/data/pipeline/pl-sensor",
+   "탭": "데이터셋 버전",
+   "유형": "side2",
+   "열": [
+    1284,
+    340
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
    "id": "ab-dpl-018",
    "url": "/data/pipeline/pl-sensor",
    "탭": "작업 이력",
@@ -1227,6 +1464,17 @@
    "어긋남": null,
    "예외": null,
    "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-dpl-029",
+   "url": "/data/pipeline/pl-callcenter/labeling",
+   "탭": "",
+   "유형": "entry",
+   "열": [],
+   "어긋남": null,
+   "예외": null,
+   "머리": "none",
    "머리어긋남": null
   },
   {
@@ -1472,6 +1720,34 @@
   },
   {
    "id": "ab-rag-022",
+   "url": "/rag/rag-3001",
+   "탭": "평가",
+   "유형": "setting2",
+   "열": [
+    400,
+    1224
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-rag-024",
+   "url": "/rag/rag-3001",
+   "탭": "평가",
+   "유형": "setting2",
+   "열": [
+    400,
+    1224
+   ],
+   "어긋남": null,
+   "예외": null,
+   "머리": "detail",
+   "머리어긋남": null
+  },
+  {
+   "id": "ab-rag-028",
    "url": "/rag/rag-3001",
    "탭": "평가",
    "유형": "setting2",
